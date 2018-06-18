@@ -1,0 +1,7 @@
+
+AVRASM ver. 2.1.42  C:\School\Csc 230\test.asm Sun Apr 09 13:01:20 2017
+
+
+CSEG del1         00000001
+CSEG del2         00000003
+CSEG del3         00000005

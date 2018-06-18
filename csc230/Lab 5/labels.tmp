@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>H:\Csc 230\Lab 5</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\Csc 230\Lab 5\lab5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\Csc 230\Lab 5\Lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>H:\Csc 230\Lab 5\Lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>H:\Csc 230\Lab 5\Lab5.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <src><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>83</LINE></src>
+  <dest><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>87</LINE></dest>
+  <strcpy><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>47</LINE></strcpy>
+  <done><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>44</LINE></done>
+  <next_char><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>62</LINE></next_char>
+  <strlength><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>79</LINE></strlength>
+  <length><FILE>H:\Csc 230\Lab 5\lab5.asm</FILE><LINE>88</LINE></length>
+ </LABELS>
+</ASSEMBLER_INFO>

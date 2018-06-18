@@ -1,0 +1,65 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>C:\School\Csc 230\Assignment 3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\School\Csc 230\Assignment 3\display.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+  <FILE>C:\School\Csc 230\Assignment 3\LCDdefs.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\School\Csc 230\Assignment 3\display.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\School\Csc 230\Assignment 3\display.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\School\Csc 230\Assignment 3\display.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <lcd_after><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>960</LINE></lcd_after>
+  <lcd_nbl><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>318</LINE></lcd_nbl>
+  <dly_us><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>824</LINE></dly_us>
+  <lcd_byte><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>381</LINE></lcd_byte>
+  <lcd_cmd><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>428</LINE></lcd_cmd>
+  <cmd_fin><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>458</LINE></cmd_fin>
+  <dly_ms><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>854</LINE></dly_ms>
+  <lcd_putchar><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>483</LINE></lcd_putchar>
+  <cursor_col><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>975</LINE></cursor_col>
+  <lcd_puts><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>538</LINE></lcd_puts>
+  <parse><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>552</LINE></parse>
+  <donestr><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>560</LINE></donestr>
+  <lcd_gotoxy><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>589</LINE></lcd_gotoxy>
+  <check_col><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>606</LINE></check_col>
+  <gotoxy_assign><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>610</LINE></gotoxy_assign>
+  <cursor_row><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>974</LINE></cursor_row>
+  <ln2><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>628</LINE></ln2>
+  <ln1><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>634</LINE></ln1>
+  <addcol><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>637</LINE></addcol>
+  <lcd_clr><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>661</LINE></lcd_clr>
+  <lcd_init><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>689</LINE></lcd_init>
+  <dly_init><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>754</LINE></dly_init>
+  <dlyus_dreg><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>828</LINE></dlyus_dreg>
+  <dlyus_in><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>829</LINE></dlyus_in>
+  <dlyms><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>879</LINE></dlyms>
+  <str_init><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>906</LINE></str_init>
+  <initloop><FILE>C:\School\Csc 230\Assignment 3\lcd.asm</FILE><LINE>924</LINE></initloop>
+  <init_strings><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>27</LINE></init_strings>
+  <loop><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>12</LINE></loop>
+  <disp_str><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>61</LINE></disp_str>
+  <delay_sec><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>118</LINE></delay_sec>
+  <lp><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>25</LINE></lp>
+  <msg1><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>130</LINE></msg1>
+  <msg1_p><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>123</LINE></msg1_p>
+  <msg2><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>131</LINE></msg2>
+  <msg2_p><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>124</LINE></msg2_p>
+  <line1><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>134</LINE></line1>
+  <line2><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>135</LINE></line2>
+  <line3><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>136</LINE></line3>
+  <line4><FILE>C:\School\Csc 230\Assignment 3\display.asm</FILE><LINE>137</LINE></line4>
+ </LABELS>
+</ASSEMBLER_INFO>

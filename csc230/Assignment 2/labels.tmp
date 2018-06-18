@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>C:\School\Csc 230\Assignment 2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>91</LINE></init>
+  <addTwo><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>39</LINE></addTwo>
+  <mult><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>56</LINE></mult>
+  <result><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>100</LINE></result>
+  <loop><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>58</LINE></loop>
+  <skip><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>63</LINE></skip>
+  <done><FILE>C:\School\Csc 230\Assignment 2\A2_Factorial.asm</FILE><LINE>88</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>

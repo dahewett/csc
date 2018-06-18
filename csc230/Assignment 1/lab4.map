@@ -1,0 +1,6 @@
+
+AVRASM ver. 2.1.42  C:\School\Csc 230\Assignment 1\lab4.asm Thu Feb 02 12:30:51 2017
+
+
+CSEG delay        00000006
+CSEG done         00000004
