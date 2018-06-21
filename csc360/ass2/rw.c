@@ -15,11 +15,24 @@
 
 static resource_t data;
 
+pthread_mutex_t mutex;
+pthread_cond_t cond_reader;
+pthread_cond_t cond_writter;
+
+int reader_status;
+int writer_status;
+int 
+
+
 void initialize_readers_writer() {
     /*
      * Initialize the shared structures, including those used for
      * synchronization.
      */
+	 pthread_mutex_init(&mutex, NULL);
+	 
+	 pthread_cond_init(&cond_reader, NULL);
+	 pthread_cond_init(&cond_writter, NULL);
 }
 
 
