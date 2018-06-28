@@ -22,6 +22,8 @@ int who_cw;
 // init semaphores
 sem_t mutex;
 sem_t barrier;
+sem_t barrier2;
+sem_t barrier_fuct;
  
 void initialize_meetup(int n, int mf) {
     char label[100];
@@ -49,28 +51,67 @@ void initialize_meetup(int n, int mf) {
     	fprintf(stderr, "Semaphore: Failed to initialize semaphore 'mutex'\n");
     	exit(1);
     }
-    if (sem_init(&barrier, 0, number_t) != 0) {
+    if (sem_init(&barrier, 0, 0) != 0) {
     	fprintf(stderr, "Semaphore: Failed to initialize semaphore 'barrier'\n");
     	exit(1);
     }
+	if (sem_init(&barrier2, 0, 1) != 0) {
+    	fprintf(stderr, "Semaphore: Failed to initialize semaphore 'barrier2'\n");
+    	exit(1);
+    }
+	//if (sem_init(&barrier_fuct, 0, number_t) != 0) {
+    //	fprintf(stderr, "Semaphore: Failed to initialize semaphore 'barrier2'\n");
+    //	exit(1);
+    //}
 }
 
 
 void join_meetup(char *value, int len) {
     
-	printf("n = %d, and mf = %d\n", number_t, who_cw);
+	//sem_wait(&barrier_fuct);
+	
 	sem_wait(&mutex);
 	
+	count++;
+	
 	if ((who_cw == 1) && (count == 0)){
-		write_resource (&resource, value, len);
-	} else if (who_cw == 0){
+		write_resource(&resource, value, len);
 	}
 	
-	count++;
+	
 	if (count == number_t) {
-		sem_post(&mutex);
+		
+		if ((who_cw == 0) && (count == number_t)){
+			write_resource(&resource, value, len);
+		}
+		sem_wait(&barrier2);
+		sem_post(&barrier);
+		
 	}
+	sem_post(&mutex);
 	
 	sem_wait(&barrier);
 	sem_post(&barrier);
+	
+	//Citical section
+	
+	sem_wait(&mutex);
+	
+	count--;
+	//if ((who_cw == 0) && (count == number_t)){
+		write_resource(&resource, value, len);
+	//}
+	
+	
+	if (count == 0) {
+		sem_wait(&barrier);
+		sem_post(&barrier2);
+	}
+	
+	sem_post(&mutex);
+	
+	sem_wait(&barrier2);
+	sem_post(&barrier2);
+	
+	//sem_post(&barrier_fuct);
 }
