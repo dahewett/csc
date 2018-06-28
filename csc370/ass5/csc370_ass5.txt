@@ -1,0 +1,38 @@
+# Devin Hewett C00821219 CSC 370 Ass 5 
+
+
+# Q1
+WITH b as (SELECT episodeof, AVG(rank) AS arank, AVG(votes) AS avotes, COUNT(season) AS cepisodes, MAX(season) AS cseasons 
+			FROM episodes 
+		   NATURAL JOIN 
+			ratings GROUP BY (episodeof))
+SELECT * 
+	FROM b 
+WHERE cseasons >= 4 AND arank > 8.5 AND avotes >= 1000 
+	ORDER BY arank DESC, avotes DESC;
+
+
+# Q2
+WITH movies AS (SELECT id, title, year 
+				FROM productions 
+				WHERE attr IS NULL)
+SELECT title, year, rank, votes 
+	FROM movies NATURAL JOIN ratings 
+WHERE votes >= 50000 AND rank IN (SELECT MAX(rank) 
+									FROM ratings 
+								  WHERE id IN (SELECT id 
+												FROM movies));
+												
+# Q3
+WITH mov AS (SELECT productions.id 
+				FROM ratings JOIN productions 
+			ON productions.id = ratings.id 
+				WHERE attr IS NULL AND rank >= 8 AND votes >= 50000),
+actors AS (SELECT COUNT(id) AS numMov, AVG(rank) AS arank, pid 
+			FROM roles NATURAL JOIN ratings 
+		   WHERE id IN (SELECT id FROM mov) 
+			GROUP BY (pid))
+SELECT pid, numMov, arank 
+	FROM actors 
+WHERE numMOV >= 10 
+	ORDER BY arank;
