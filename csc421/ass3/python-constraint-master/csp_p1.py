@@ -1,4 +1,8 @@
-
+''' 
+	Devin Hewett V00821219
+	Csc 421 Ass 3 Summer 18
+	CSP problem using module 
+'''
 
 from constraint import *
 
