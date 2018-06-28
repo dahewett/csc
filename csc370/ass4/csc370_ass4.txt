@@ -1,0 +1,70 @@
+#Devin Hewett V00821219 CSC 370 Ass 4
+# Q11
+
+WITH GOTE AS (SELECT episodes.id 
+			  FROM episodes LEFT JOIN productions 
+			  ON productions.id = episodes.episodeof 
+			  WHERE productions.title = 'Game of Thrones' AND attr = 'TV-series')
+SELECT DISTINCT country 
+FROM GOTE NATURAL JOIN locations
+ORDER BY country;
+
+
+# Q2
+
+WITH aHitchcock AS (SELECT pid 
+					FROM persons 
+					WHERE firstname = 'Alfred' AND lastname = 'Hitchcock'), 
+dir AS (SELECT id 
+		FROM directors 
+		WHERE pid IN (SELECT pid 
+					  FROM aHitchcock))
+SElECT title, year, rank 
+FROM productions NATURAL JOIN ratings 
+WHERE id IN (SELECT id FROM dir) AND votes > 50000 
+ORDER BY rank DESC;
+
+# Q3
+
+WITH pn AS (SELECT id, character as paulchar, billing as paulbilling 
+			FROM roles 
+			WHERE pid = 'Newman, Paul (I)' 
+			EXCEPT 
+			SELECT id, character, billing 
+			FROM roles 
+			WHERE character LIKE '%Himself%'), 
+rr AS (SELECT id, character as robchar, billing AS robbilling 
+	   FROM roles 
+	   WHERE pid = 'Redford, Robert (I)' 
+	   EXCEPT 
+	   SELECT id, character, billing 
+	   FROM roles 
+	   WHERE character LIKE '%Himself%'), 
+filmsbothin AS (SELECT * 
+				FROM pn NATURAL JOIN rr 
+				WHERE pn.id IN (SELECT id 
+								FROM rr))
+SELECT title, year, rank, paulchar, paulbilling, robchar, robbilling 
+FROM productions NATURAL JOIN ratings NATURAL JOIN filmsbothin 
+WHERE productions.id IN (SELECT id FROM filmsbothin) AND attr IS NULL 
+ORDER BY title;
+
+# Q4
+
+WITH show AS (SELECT id FROM productions WHERE attr = 'TV-series' AND title = 'Hora Marcada'),
+dir AS (SELECT pid, id FROM directors WHERE id IN (SELECT id FROM show)),
+movies AS (SELECT productions.id, directors.pid FROM directors NATURAL JOIN productions WHERE id IN (SELECT id FROM directors WHERE pid IN (SELECT pid FROM dir)) AND attr IS NULL),
+EngMov AS (SELECT pid, id FROM movies WHERE id IN (SELECT id FROM languages WHERE language = 'English'))
+SELECT pid, EngMov.id, rank FROM EngMov NATURAL JOIN ratings WHERE ratings.id IN (SELECT id FROM EngMov);
+
+# Q5
+WITH dl AS (SELECT id 
+			FROM directors NATURAL JOIN productions 
+			WHERE pid = 'Lucas, George (I)' AND attr IS NULL),
+dk AS (SELECT id 
+	   FROM directors NATURAL JOIN productions 
+	   WHERE pid = 'Kurosawa, Akira' AND attr IS NULL)
+SELECT id as lucas, idlinkedto as kurosawa, relationship 
+FROM links 
+WHERE id IN (SELECT id FROM dl) AND idlinkedto IN (SELECT id FROM dk) 
+ORDER BY lucas, kurosawa;
