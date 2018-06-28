@@ -1,0 +1,18 @@
+# Csc 370 Assignment 3 Devin Hewett V00821219
+
+# Q1
+ select id, year from productions where title like '%Harry Potter%' and year > 2011 and attr is NULL;
+
+# Q2
+select id, character from roles where pid = 'Streep, Meryl' and id in (select id from productions where year < 1980 and attr is NUL
+L);
+
+# Q3
+select id, character, billing from roles where pid = 'Eastwood, Clint' and id in (select id from directors where pid = 'Leone, Sergio (I)');
+
+# Q4
+select id from productions where id in (select id from roles where pid = 'Nimoy, Leonard') intersect select id from productions where id in (select id from roles where pid = 'Hawking, Stephen');
+
+# Q5
+select id, pid, character from roles where (id = 'The Matrix (1999)' or id = 'The Matrix Reloaded (2003)' )and pid in (select pid from roles where id = 'The Matrix (
+1999)' intersect select pid from roles where id = 'The Matrix Reloaded (2003)');
