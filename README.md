@@ -1,2 +1,2 @@
 # csc
-# for programing assignments
+# For Programing Assignments At The University of Victoria 
