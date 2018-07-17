@@ -70,6 +70,14 @@ void run_simulation(int qlen, int dlen) {
 		
 		
 		if(to_come != NULL) {
+			// not all task complete therfore idle
+			while (current_event_num < num_events && ready_q == NULL){
+				if (to_come->arrival_time <= cpu_ticks){
+					break;
+				}
+				printf("[%05d] IDLE\n", cpu_ticks);
+				cpu_ticks++;
+			}
 			// check arrival_time or first time to add to ready queue
 			if(first == 1 || to_come->arrival_time <= cpu_ticks) {
 				temp = new_task();
@@ -77,7 +85,6 @@ void run_simulation(int qlen, int dlen) {
 				temp->arrival_time = to_come->arrival_time;
 				temp->cpu_request = to_come->cpu_request;
 				temp->cpu_used = 0;
-				temp->finish_time = 0;
 				temp->next = to_come->next;
 			
 				// add to ready queue
@@ -135,7 +142,6 @@ void run_simulation(int qlen, int dlen) {
 				temp->arrival_time = to_come->arrival_time;
 				temp->cpu_request = to_come->cpu_request;
 				temp->cpu_used = 0;
-				temp->finish_time = 0;
 				temp->next = to_come->next;
 			
 				// add to ready queue
@@ -166,11 +172,6 @@ void run_simulation(int qlen, int dlen) {
 		}
 	}
 }
-	
-	
-	//to print specific amount of digits
-	//printf("%05d", zipCode);
-	
 
 
 int main(int argc, char *argv[]) {
