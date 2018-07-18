@@ -1,5 +1,5 @@
 /*
-	Csc 360 Assignment 3
+	Csc 360 Assignment 3- Task 1
 	Devin Hewett V00821219
 */
 
@@ -12,7 +12,10 @@
 #define MAX_BUFFER_LEN 80
 
 taskval_t *event_list = NULL;
-
+float wait_time;
+float turn_arround;
+float total_task = 1000.00;
+float complete_task = 0;
 void print_task(taskval_t *t, void *arg) {
     printf("task %03d: %5d %3.2f %3.2f\n",
         t->id,
@@ -33,11 +36,8 @@ void increment_count(taskval_t *t, void *arg) {
 void run_simulation(int qlen, int dlen) {
 	
     taskval_t *ready_q = NULL;
-	
 	taskval_t *to_come = NULL;
 	taskval_t *current = NULL;
-	
-	// for waiting
 	
 	// for cpu ticks
 	int cpu_ticks = 0;
@@ -54,10 +54,6 @@ void run_simulation(int qlen, int dlen) {
 			temp = NULL;
 		}
 	}
-	printf("the number of events: %d\n", num_events);
-	
-	//int current_id = event_list->id;
-	//printf("current id of the event list %d\n", current_id);
 	int current_event_num = 0;
 	// status
 	int status = 1;
@@ -107,7 +103,8 @@ void run_simulation(int qlen, int dlen) {
 		// when ready for dispatch
 		if(cpu_ticks >= cur_arrival_time){
 			// dispatch
-			for(int i = 0; i < dlen; i++){
+			int i = 0;
+			for(i = 0; i < dlen; i++){
 				printf("[%05d] DISPATCHING\n", cpu_ticks);
 				cpu_ticks++;
 			}
@@ -122,7 +119,7 @@ void run_simulation(int qlen, int dlen) {
 			}
 			// do cycle dispatch
 			
-			for(int i = 0; i < xlen; i++){
+			for(i = 0; i < xlen; i++){
 				printf("[%05d] ", cpu_ticks);
 				printf("id=%05d ", current->id);
 				printf("req=%.2f ", current->cpu_request);
@@ -160,6 +157,14 @@ void run_simulation(int qlen, int dlen) {
 			printf("EXIT w=%.2f ta=%.2f\n", w, ta);
 			current_event_num++;
 			ready_q = remove_front(ready_q);
+			wait_time = wait_time + w;
+			turn_arround = turn_arround + ta;
+			complete_task++;
+			if (complete_task == total_task){
+				FILE *fp;
+				fp = fopen("results.txt", "a");
+				fprintf(fp,"%d,%d,%f,%f\n", qlen, dlen, wait_time, turn_arround);
+			}
 		}
 		// add to back to ready queue if not complete
 		else{
