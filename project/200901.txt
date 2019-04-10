@@ -1,0 +1,431 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Jan 09</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Jan 09								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>January 2009 Whale Sightings</center></h3>
+<b>January 29, 2009</b>
+<br/><br/>
+Had a group of approx. <b>12-14 transients</b> off <b>Victoria </b>heading <b>west </b>which included the <b>T124's and T87's</b>.
+<br/>Mark Malleson, Victoria, BC Canada 
+<br/>*<br/>
+I didn't see them but my old neighbors on the North East side (Glen Acres) of Vashon saw Orcas going by today at approximately <b>4:15pm</b> - headed south towards Point Robinson lighthouse (Tacoma way). I was in Seattle for the day and I tried to look for them from Des Moines and Tacoma side and saw nothing.
+<br/>Staci Housum, Seattle
+<br/><i>Staci sent an update today saying she had heard a report at the same time of day about 1/2 mile down the beach (place called Dillworth) of Dall porpoises being sited, and thinks her old neighbors may have seen porpoises and mistook them for Orcas.</i>
+<br/><br/>
+<b>January 28, 2009</b>
+<br/><br/>
+Shane Aggergaard of Island Adventures called to report a <b>dozen orcas</b> headed south in <b>Rosario Strait</b> at <b>9:30 am</b>, off the Burrows Island Lighthouse. 
+<br/><br/>
+<b>January 27, 2009</b>
+<br/><br/>
+I got a call at <b>4:30pm</b> reporting <b>a small gray whale</b> off of <b>West Beach</b>, Whidbey Island at Deception Pass. I arrived in time to see <b>a juvenile gray feeding</b> 50- 100 yards off shore, moving slowly south. After 3 spy hops it disappeared.
+<br/>Adam Lorio, Parks Interpretive Specialist, Deception Pass State Park
+<br/><br/>
+<b>January 26, 2009</b>
+<br/><br/>
+Orca Network received a call at <b>1245 </b>today, from Kevin Jochem at the <b>Bremerton Naval shipyard</b>, relaying a report of what was believed to be <b>a small orca</b> (12 - 15') sighted between the piers at the shipyard at 9 am this morning. 
+<br/><i>Upon further checking with the Navy, we received a few more details:</i> I had my Watch Officer do some checking, earlier this morning there was a sighting of a small orca between Piers Four and Five (east side of SNS BRITTIN toward Bremerton). The orca was observed continuing to swim easterly toward Pier Six and on into the (Sinclair) inlet outside of the security barrier. No other sightings reported.
+<br/>Capt Whitney, Bremerton Naval Shipyard 
+<br/><br/>
+<b>January 24, 2009</b>
+<br/><br/>
+Linda Taylor of the Depoe Bay, OR Whale Watch Center called to report a pod of <b>7+ orcas off Depoe Bay at 9:30 am</b>. At first they were active, circling and feeding - at one point she watched 24 breaches - then they headed north. Carrie Newell of Whale Research Excursions was headed out in a zodiac to try to obtain photos and ID's. 
+<br/>
+Ken Balcomb of the Center for Whale Reserach reported that the Jan. 24th Depoe Bay orcas had been confirmed as L pod, heading back north. 
+<br/><br/>
+<b>January 23, 2009</b>
+<br/><br/>
+About <b>4:00pm</b> we had multiple small <b>groups of orcas</b> passing by Trial Island: 5 or <b>6 groups of 3-6 orcas each</b>.It took more than half an hour for them all to pass by. They came round the south tip of Trial Island Lighthouse, moving eastward in the Juan de Fuca Strait then turning north towards Bayne's Channel.
+<br/>Sheila Brooke, Trial Island Light
+<br/>*<br/>
+I was out yesterday fishing and happened to have my camera with me. Hopefully you will be able to identify <b>this pod</b> (see photo). What a spectacular sighting and a spectacular day.
+<br/>Terry.Singh, SV Liberate. <b>Victoria</b>. 
+<br/>*<br/>
+I have just got in from <b>Clover Point Victoria</b> and watched many <b>ORCA </b>travelling in from the west and heading your way. I counted <b>24 at least</b> although they were far out and travelling fast <b>east</b>. This may be J pod ...too far out to ID. Big male in the lead three animals. I feel so blessed to have looked up at the right moment. I did see the whales spy hopping, cartwheeling and tail slapping. Definitely the residents.
+<br/>Marie O'Shaughnessy 
+<br/>*<br/>
+We spent a nice afternoon today with the <b>northern resident A8 matriline</b> (part of A5 pod) near <b>Pender Harbour on the BC Sunshine Coast (north of Vancouver BC)</b>.
+<br/>John (Ford)
+<br/><br/>
+<b>January 21, 2009</b>
+<br/><br/>
+Orca Network received a call from Morris Grover at the Whale Watch Center in <b>Depoe Bay, OR</b>, reporting a pod of <b>16 -17 orcas heading south</b> at <b>4:00 pm</b>, about 1 mile offshore. 
+<br/>*<br/>
+Here are the Orca that we saw passing the Whale Watching Center yesterday evening(Jan 21, 4pm). . We think we were able to identify a few of them with the ID guide from Ken. Please let us know who we saw. It was great fun, we don't see them very often.
+<br/>Morris Grover, The Whale Watching Center, Depoe Bay, OR
+<br/>
+Report from the Center for Whale Research on Depoe Bay orca photos:
+It looks like all matrilines of L pod are represented in Morris' photos. I picked out ten ID's and Dave is adding some additional IDs and some probables. 
+<br/>Below are IDs from the photos sent by Morris Grover of the Whale Watching Center of the pod off <b>Depoe Bay OR</b> Jan. 21st. It looks like all matrilines of L pod are represented in Morris' photos - confirmed <b>ID's are: L78,85,92,41,73,5,12,79,77,22,55,95,108,54?,2,25 ,84?, and 94</b>.
+<br/>Ken Balcomb, Center for Whale Research, San Juan Island 
+<br/><br/>
+<b>January 17, 2009</b>
+<br/><br/>
+Orca Network received a call from Tom Estes of California, reporting a sighting of 3-4 adult female orcas along with some calves working surface waters about 10-12 miles NW of <b>Pt. Arena CA</b>, at the head of the Navarro Canyon at about 300 fathoms, at 39.00.55 x 123.58.73. They were moving north gradually, then disappeared. They watched them for about 1/2 hour while trawling.
+<br/><br/>
+<b>January 18, 2009</b>
+<br/><br/>
+Ken Balcomb of the Center for Whale Research reported approx. 8 - 9 <b>Transient orcas</b> near Victoria at 2:30 pm. The group included <b>T30, T30A</b> and friends - zig zagging elusively. 
+<br/><br/>
+<b>January 16, 2009</b>
+<br/><br/>
+Orca Network received a call from Ranger Kim at <b>Pt. Reyes Natl. Park, CA</b> reporting a pod of orcas passing by at approx. <b>12:15 pm</b> today. They were first observed from the Lighthouse - they were heading south, then north for awhile, then sort of meandering. There were at least 7 - 8, possibly more, including at least 1 adult male and 1 with a "chewed up" dorsal fin. They came within approx. 600 yds of the shore when swimming in the cove, but were also seen further out at times. 
+<br/><br/>
+<b>January 14, 2009</b>
+<br/><br/>
+Orca Network received a call from Drew, the <b>Pt. Arena, CA</b> harbormaster, who had received a report from a crabber who was hauling pots off shore at ~ 39 degrees north, in 30 fathoms of water, est. 1-2 miles offshore and reported seeing orcas 30 - 40 minutes earlier (~<b>12:20 pm</b>). There are at least 5 - 6 whales, heading south. 
+<br/><br/>
+<b>January 13, 2009</b>
+<br/><br/>
+Erin Falcone and Greg Schorr of Cascadia Research conducted a survey for marine mammals out of <b>Westport, WA</b>. During the course of the survey, they encountered and photo- identified a 
+<b>blue whale</b> near Grays Harbor Canyon. In addition, we spotted several <b>fin whales</b> and southbound <b>gray  whales</b>, among others. More information and photos can be found at the Cascadia website.
+<br/>Erin Falcone and Greg Schorr, Cascadia Research, Olympia, WA 
+<br/><br/>
+<b>January 9, 2009</b>
+<br/><br/>
+At approximately <b>4:15 p.m</b>. from the Island Packers whale watch boat out of Channel Islands Harbor in <b>Oxnard, California</b>. We saw several <b>Orca </b>including males on both sides of the boat traveling west along the south side of East Anacapa Island of the Channel Island chain at approximately 34 degrees N by 119 degrees W. The school of Orca were trailing a large school of several hundred common dolphin first sighted at approximately <b>4 p.m.</b> swimming west rapidly past both sides of our boat. The crew explained that they have seen Orca only once before in this area, and their presence could explain the absence of the gray whale they had sighted on their morning excursion to the same area that day.
+<br/>Jeanne Hahn, Artistic Director, Artist Co-op 7
+<br/><br/>
+<b>January 4, 2009</b>
+<br/><br/>
+A fairly large group (5-8) of <b>transients </b>came through <b>Active Pass</b> at <b>10:45 AM </b>. Moving south with the tide, the transients quickly came through the pass and then spent quite a bit of time at the mouth of Georgeson Bay, seemingly undecided as to whether to go north up Trincomali channel or south towards the San Juans. One whale spent over a minute just floating in the water, dorsal fin exposed, about 100 meters from Colinson Reef. After 15 minutes of hanging out, they decided to head south, and roared off in a flash.
+<br/>Peter Reiner, Galiano Island, B.C. Canada
+<br/><br/>
+<b>January 3, 2009</b>
+<br/><br/>
+Orca Network received a call from Dave at Island Packers at <b>3:30 pm</b>, reporting a sighting of 4 - 5 <b>orcas </b>from the Islander at 34 01 95W; 119 39 24N - off the north shore of <b>Santa Cruz Island CA</b>, Chinese Harbor, heading west. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/><br/>
+<a name="map"></a>
+<center><b>Clip Map to enlarge</b></center>
+<br/>
+<center><a class="lytebox" data-lyte-options="autoResize:false" data-title="Sightings Satalite Map from January 2009" href="Images/Sightings/satmap010109.jpg"><img alt="Orca Network's Sighting Network Map" border="2" height="616" src="Images/Sightings/satmap010109.jpg" valign="TOP" width="392"/></a><br/>
+
+Map © 2009 used with permission by<br/><a href="http://www.adsat.com/">Advanced Satellite Productions, Inc.</a></center>
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+

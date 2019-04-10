@@ -1,0 +1,723 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Jan 02</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Jan 02								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+
+											 d<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>January 2002 Whale Sightings</center></h3>
+<br/>
+<b>Wednesday, January 30 - <i>Special report</i></b>
+<br/><br/>
+L98 is Alive &amp; Well!! but this doesn't solve the Vashon Calf Mystery...
+<br/><br/>
+Dear Sighting Network -
+<br/>
+We just received this report from John Ford and Graeme Ellis of Canada's DFO Pacific Biological Station - I'm sure you'll find it amazing!! 
+<br/>
+This is especially thrilling to Howie and I, because when L67 was first seen with her new calf L98 in September, 1999, it was Howie's first time back to San Juan Island after being in Miami for 2 years. We hadn't seen any whales while we were up there, but just before we had to leave L67 paraded by with her brand new baby! So that calf was very special to us, and was sort of like Howie's welcome back. After mourning the calf's disappearance, this is certainly whalecome and happy news! The Southern Resident Community's population grows by 1! 
+<br/>Susan and Howie
+<br/>*<br/>
+Dear Susan, 
+<br/>
+A most unusual situation has developed here in British Columbia, which I 
+think will be of considerable interest to the network. Since July 2001, a 
+lone juvenile killer whale has been residing in a remote inlet on the west 
+coast of Vancouver Island. It came to our attention in September, but we 
+were unable to photograph it for identification until November. We have 
+confirmed, with the assistance of the Center for Whale Research, that the 
+whale is L98, a member of L pod born in 1999. This whale was not present 
+with L pod when censused in June, 2001. 
+<br/><br/>
+We have not made this situation public until now in consideration of L98's 
+well-being. We were initially quite concerned that the whale would not 
+obtain sufficient food as winter approached, and potential disruption from 
+curious boaters would not help the situation. However, so far he seems to 
+be doing quite well. We have observed him catching salmon, and he is 
+showing no signs of emaciation. We plan to continue regular field trips to 
+the west coast to monitor L98's health status. Fisheries and Oceans will 
+undertake conservation and protection patrols as required to ensure the 
+whale is not disturbed. In the meantime, we will continue discussions with 
+our colleagues to develop response strategies should the juvenile's health 
+deteriorate. 
+<br/><br/>
+The L98 situation is the first time that a young resident whale has been 
+found separated from its pod for a significant length of time. (A somewhat 
+similar incident took place in the late 1970s, when an unknown, young killer 
+whale in poor health was found at Campbell River and was ultimately taken 
+into captivity at Sealand in Victoria...the whale came to be known as 
+'Miracle'). We have no idea how L98 came to be alone in this inlet, but he 
+seems reluctant to leave. The situation is particularly interesting given 
+the recent occurrence of the lone (as yet unidentified) juvenile in Puget 
+Sound. There is no evidence that the two events are related. 
+We'll provide updates to the network on L98's status as things develop. 
+<br/><br/>
+Best, 
+<br/> <br/>
+John Ford and Graeme Ellis 
+<br/> ========================== 
+<br/> Marine Mammal Research Program 
+<br/> Conservation Biology Section 
+<br/> Pacific Biological Station 
+<br/> Fisheries and Oceans Canada 
+<br/> Nanaimo, BC V9R 5K6 
+<br/><br/>
+<b>Tuesday, January 29</b>
+<br/><br/>
+Hi Susan and Howie
+<br/>A single large male going E. from Swirl bay at 1300 (Jan.29) about a 
+mile W. of Race Rocks (south end of Vancouver Island). 
+<br/>Ron 
+<br/><br/>
+<b>Monday, January 28</b>
+<br/><br/>
+Here's a wonderful report from Brad Hanson of NMML/NMFS regarding the information obtained from the tag (click <a href="../Main/index.php?categories_file=TDR Data">HERE</a> for Excel data graph) recovered from the transient male orca rescued from the Dungeness stranding earlier this month. Thanks to all who worked to develop this tag, and to Brad for sharing this report with our Sighting Network. 
+<br/>*<br/>
+Hi Susan
+<br/>just wanted to pass along some details that folks might be interested in 
+on the TDR recovery and I have attached an excel file with a plot of 
+some of the TDR data - if you can figure out how to get it into a Word 
+file or something else and not truncate the right half you are doing 
+much better than me (<i>Note: for those of you on the list who want the Excel attachment, please email <mailto:susan@orcanetwork.org>Susan</mailto:susan@orcanetwork.org></i></div></td></tr></table></center></td></tr></table></td></tr></table></td></tr></table></body></html> &amp; we'll send it to you - in this latest flurry of computer viruses, I won't send out attachments to the entire list).
+<br/><br/>
+Ken Balcomb called me last Friday night to tell me that he had obtained 
+the TDR put out on CA188. He had received a call and email from Joe 
+Barton of Shelton who was beachcombing on at Ocean Shores on 21 Jan and 
+found the tag. There was no contact info on this tag (the info label 
+that had been on it was written in Icelandic such that it had been 
+recently removed), but apparently after talking to a coworker about what 
+he had found Barton suspected this might be the tag from the whale. My 
+understanding from Ken was that Bartons wife contacted Ken from the 
+contact info on their Center for Whale Research website. I went up 
+Saturday and picked up the tag from Ken and down loaded the data. I 
+have not had a chance to look at it all but plotted out a few hours 
+from the last day, which was early Sunday morning - there is enough 
+memory for about 3 days of data. So far it shows a very consistent 
+pattern of a 2-2.5 minute dives to about 20-25 m followed by 7-11short 
+dives within a few meters of the surface. He was traveling at a 
+consistent 2-4 mph. So we can now conclude that it is very likely I 
+did hear the signals on 6 Jan (tag was beeping when I picked it up from 
+Ken) off the coast SW of Neah Bay.
+<br/><br/>
+It is important to note that without the previous efforts of Robin Baird 
+on TDR tagging of killer whales, the research emphasis by Ocean Futures 
+on killer whales, and the current small cetacean telemetry program at 
+the National Marine Mammal Lab, learning of the outcome of this rescue 
+effort would have likely remained unknown. In addition we have gained 
+some valuable dive data on transient type whales. The tag that had been 
+placed on transient male CA188 was a design that has been commonly 
+deployed on numerous species of cetaceans throughout the world. It has 
+been deployed on killer whales in Iceland, Norway, southeast Alaska, as 
+well on southern residents killer whales in Puget Sound. The 
+configuration of this tag was designed by Robin Baird, of Dalhousie 
+University. It is compromised of a small computer called a Time Depth 
+Recorder (built by Wildlife Computers in Redmond WA) and a VHF 
+transmitter that are mounted a piece of syntactic foam which allows the 
+tag to float after the large suction cup, which is used to attach it to 
+the skin of the whale skin, detaches after a few days. The data 
+provided by these tags has provided fascinating insights into dive 
+behavior of these species as well as raising new questions. For 
+example, with southern resident killer whales, most salmon species they 
+would be expected to be foraging on in their summer range are located in 
+the top 30 m of the water column. So why is it that, in general, about 
+two of their approximately 11 deep dives per hour are greater than 60 m, 
+and some are as deep as 200m? Obtaining more of this type of data will 
+be extremely important in assessing the questions that have been raised 
+about the potential threat from changes in salmon abundance and 
+reactions to whale watch vessels. If anyone is interested in seeing 
+results from some of the diving studies on various species, Robin has 
+put PDF files of scientific publications from some of this work on his 
+<a href="http://is.dal.ca/~whitelab/rwb/robin.htm">web site</a>. If you have 
+additional questions about the deployment on CA188 let me know.
+<br/>Thanks 
+<br/>Brad
+<br/>M. Bradley Hanson, Ph.D. 
+<br/>National Marine Mammal Laboratory, NMFS, NOAA 
+<br/>Seattle
+<br/><br/>
+<b>Sunday, January 27</b>
+<br/><br/>
+Hi Susan and Howie
+<br/>A large male and a smaller kw off Cape Beal Light (<i>outside the range of the map</i>) at 1600hrs. going N. 
+<br/>Ron 
+<br/>MMRG
+<br/><br/>
+<b>Tuesday, January 22</b>
+<br/><br/>
+Hi Susan and Howie
+<br/>1 male and 3 others Going N. from Cape Beal lighthouse (West coast Van. 
+Is.<i>outside the range of the map</i>) at 1700 today, they were just outside the surf line. 
+<br/>Ron 
+<br/>MMRG
+<br/><br/>
+<b>Sunday, January 20</b>
+<br/><br/>
+Hi Susan and Howie
+<br/>1 male and 3 others Going N. from Cape Beal lighthouse (West coast Van. 
+Is.) at 1700 today, they were just outside the surf line. 
+<br/>Ron 
+<br/>MMRG
+<br/><br/>
+<b>Saturday, January 19</b>
+<br/><br/>
+11:45 AM Jennifer from Sandy Pt. SE Whidbey Island, called in reports of 2-3 orcas off Sandy Pt., including 1 male, then called in with another report of 5 more, heading toward Clinton.
+<br/>*<br/>
+At Noon, Connie Farence called to say there was a pod of 5 orcas in front of the Dog House Tavern in Langley (SE Whidbey) including a male and a calf.
+<br/>*<br/>
+And another report came in from Deborah Houseworth, of a pod of approx. 20 orcas seen from the Mukilteo/Clinton ferry, traveling south toward Possession Pt. at around Noon on Saturday.
+<br/>*<br/>
+And a report from the Whale Museum:
+<br/>
+Hello - Just got a call in from a man who lives on East Whidbey, just above Clinton. He saw a group of approx. 12 whales going by, heading south, at around 1:00.
+<br/>Amy
+<br/>The Whale Museum
+<br/><br/>
+<b>Friday, January 18</b>
+<br/><br/>
+We received an update from Tom McMillen about J pod &amp; the lone orca calf. It sounds like J pod got within 1 or 2 miles of the calf this afternoon down near Vashon Island, but then turned around and headed back north for awhile, going up near Blake Island &amp; Bremerton, &amp; then turning south again toward Vashon Island as it got dark. Tom was with J pod, &amp; Mark Sears was with the calf, &amp; he reported that the calf got very excited when J pod got close, &amp; it began vocalizing a lot.
+<br/>Susan
+<br/>*<br/>
+Tom McMillen of Salish Sea Charters called with a report of J pod near Alki at 1:10 this afternoon (Jan. 18). They were heading across Elliott Bay and were approximately 2 miles from the Fauntleroy Ferry Dock. Apparently the lone young orca calf is still in this area, so it could be interesting to see what kind of interactions take place if it meets up with J pod! We'll keep you informed soon as we hear more!
+<br/>Susan 
+<br/><br/>
+<b>Tuesday, January 15</b>
+<br/><br/>
+Here's the latest on the orca calf off Vashon Island:
+<br/>
+This morning at approx. 10:30 Ken Balcomb of the Center for Whale Research and Mark Sears were with the calf off Vashon Island, near the Fauntleroy Ferry Dock, &amp; were with it most of the day. The following report was just on KING 5 News, in an interview with Ken Balcomb: 
+<br/>
+Ken was able to measure the calf at 11', and estimates its age to be approx. 2 1/2 years. It seems to be in good health, but its skin is mottled &amp; sloughing. It is not dependent on its Mom for milk or food at this age, but is dependent on its family for social context. Ken was unable to obtain skin samples today, but took some good photographs for identification purposes, &amp; hopes to confirm the calf's identity soon. He is speculating that it could be an L pod calf, who may have become lost or separated from its pod, &amp; is waiting for its Mom to come find it. 
+<br/>
+Watch KING 5 News to see more on this great story, and to see some great footage of the calf, who looked very friendly and curious about Ken's interest in it!
+<br/>
+And we will continue to update you on this calf as we hear more. If you have questions about any of our sighting reports, please email us for more information &amp; we will relay your questions on to the appropriate person. 
+<br/>
+Many thanks, &amp; stay tuned - hopefully we'll finally learn the identity of this mystery calf soon!
+<br/>
+Susan &amp; Howie
+<br/><br/>
+<b>Monday, January 14</b>
+<br/><br/>
+An update on the orca calf off Vashon Island, from Mark Sears via Marilyn Dahlheim:
+<br/>
+The calf is 8 - 10', its skin is grayish &amp; mottled, with some abrasions. It is alone, &amp; its behavior ranged from being lethargic to breaching &amp; spy-hopping. It was also approaching boats. This could've been the same whale reported previously &amp; thought to be "Foster" the pseudorca - at least now we know there IS a small, lone orca out there acting strange, &amp; it's a great relief to have him located &amp; photographed, thanks to Mark Sears.  Ken Balcomb of the Center for Whale Research is on his way to help identify and figure out what's going on with this little critter. Thanks again to all who have helped to try &amp; locate this whale over the past week or so - &amp; stay tuned for the latest info. on this unfolding mystery~
+<br/>*<br/>
+And a report of a pod of Transients in BC from Jim Borrowman of Telegraph Cove, who just joined our network:
+<br/>Dear Susan; 
+<br/>We just received a report from John Ford that at approximately 2:00 p.m. this afternoon a group of 12 transients (4 females, 8 juveniles) were seen travelling northbound through Nanaimo. 
+<br/>Regards, 
+<br/>Jim 
+<br/>*<br/>
+The mystery continues with another sighting of a lone, young orca today, Jan. 14th. Marilyn Dahlheim of NMFS just called to tell us that Mark Sears of Seattle reported this whale at 2:30 pm off Vashon Island. Mark is out with the whale now, so we will FINALLY get some photos &amp;/or video footage of this little mystery whale! We'll let you know as soon as we hear anything more - stay tuned.....
+<br/>
+Susan &amp; Howie
+<br/><br/>
+<b>Saturday, January 12</b>
+<br/><br/>
+11:00
+<br/>At long last after reading all the reports of whales, we had a small pod of Orcas (five or six) pass by South Pender. They were very close, but we could not identify them. They passed by a group of rocks that we have seen transient whales take seals from but no action today! 
+<br/>Diane McBain 
+<br/>*<br/>
+14:00...two orcas just north of Lime Kiln headed south. They were far off shore. Thought to be one male and one female. 
+<br/>
+More than 2, with a young male according to Ken Balcomb. He thinks about 10 but pretty far off shore.
+<br/>*<br/>
+Hi Susan
+<br/>A transient going east in the St. of Juan de Fuca reported off Pt. no 
+Pt. (SW of Victoria, BC) at 1403hrs. close to shore and male but no ID. 
+<br/>Ron 
+<br/>MMRG
+<br/>*<br/>
+Dear Howie and Susan, 
+<br/>At 1341-1412 today (Jan 12) we had about ten orca southern residents heading south in Haro Strait. 
+<br/>Ken Balcomb
+<br/>Center for Whale Research
+<br/>*<br/>
+Hi Susan:
+<br/>
+The residents today were heard on the Smuggler's Cove hydrophone at 13:20, and I started picking them up at 14:06 from the lime Kiln hydrophones. The bulk of them, 10+, went by Lime Kiln at 14:30 heading south. From the calls K-Pod was definitely present, but I don't know who they were traveling with.
+<br/>
+Rich Osborne
+<br/>The Whale Museum
+<br/><br/>
+<b>Friday, January 11</b>
+<br/><br/>
+Tom McMillen of Salish Sea Charters called &amp; said he was with a pseudorca he believes to be "Foster" at Pt. Wells today (Jan. 11th) from 1 - 2 pm. Here's the report from  www.Orcacam.com - check back with their site later for photos or video from Tom:
+<br/>
+Good News! This afternoon Captain Tom McMillen located and identified the source of the recent reports. First contact was near Point Wells - it is tentatively identified as a pseudorca (pseudorca crassidens) or false killer whale, approximately 14 feet in length. It appeared to be actively feeding in the tide lines. When Tom left it near the Edmonds Fery Dock at about 2:00pm, it was heading slowly north. During the time that Tom observed the pseudorca, it approached quite close to the boat and he was able to get some good video so we should have photos online tomorrow. 
+<br/>*<br/>
+Also, Marilyn Dahlheim of NMFS just sent in the following summary of "Foster" sightings from Crowley Tug crews:
+<br/>
+Hi Susan &amp; Howie. 
+<br/>Foster update (via Crowley Tug). Foster was in the 
+Seattle area (Pier 17 region) last weekend swimming amongst various 
+ships/tugs. The Crowley Tug "Guide" began transiting south from 
+Seattle to Tacoma on Monday morning (7th Jan). Foster swam right along 
+side the tug boat most of the way to Tacoma. The crew lost sight of 
+him in the muddy waters near Commencement Bay. They did see him on 
+Wednesday (9th) but they haven't seen him the last couple of days. 
+Maybe he is up at Pt. Wells. 
+<br/>Best regards. 
+<br/>Marilyn
+<br/><br/>
+<b>Thursday, January 10</b>
+<br/><br/>
+<i>First, from Marilyn Dahlheim of NMFS:</i>
+<br/>Hi all. Talked to my husband Bob today and Foster was seen yesterday (Jan. 9th) - still in Commencement Bay (via Crowley Tug crew). 
+<br/>*<br/>
+And thanks to a partnership with the Washington State Ferries, these two calls of a Gray whale off Edmonds just came in:
+<br/>
+First, Dale from the ferry Spokane called in with a report of a small gray whale at 1:30 pm in the Pt. Wells &amp; Edmonds Ferry dock area. Then a call came in from the Edmonds Ferry Dock of the same gray whale at 1:30, circling just south of the ferry dock about 100 yds. off shore. 
+<br/>*<br/>
+We got a call at 1:30 a.m. this morning from the Arthur Foss Tug, which was at the Oil Dock at Pt. Wells, south of Edmonds. They reported a young orca (8-9' in length) swimming back &amp; forth right next to the ship they were getting ready to escort out. They said the orca was moving slowly, &amp; staying near the surface, &amp; had been there about 45 minutes. The description &amp; behavior sounded very much like the reports of the whale in Swinomish Channel, &amp; again, the guys on the Foss Tug reported it had a white belly &amp; were very sure it was an orca. We have reported this to NMFS, &amp; checked again with the crew of the Foss, but their last report was at 2 am when they pulled away from the dock &amp; the whale was still there.
+<br/><br/>
+<b>Tuesday, January 8</b>
+<br/><br/>
+<i>Thanks to Brad Hansen of NMFS for clarifying the info. I sent out earlier, &amp; filling us in with a lot more detail in regard to tracking the rescued transient orca out the Strait - read on for some interesting info!</i>
+<br/>*<br/>
+Hi Susan
+<br/>Your last message had a bit of mis-information I would like to correct, 
+and pass on a few more details that may be of interest. The tag placed 
+on the male on Friday has a VHF radio transmitter - not a satellite 
+linked transmitter - as well as a time/depth recorder. It is attached 
+with a suction cup - this is the tag system that Robin Baird had used on 
+killer whales in this area . I did get signals from this transmitter on 
+Sunday night at about 2200. I was monitoring from a clear-cut at an 
+elevation of about 1200 ft just SW of Neah Bay. VHF signals are only 
+audible when the antenna is above the surface of the water (saltwater 
+grounds out the transmission of the signal). Because VHF signals are 
+line-of-sight, the range is greater at higher elevations. Signals were 
+strongest to the SW. I listened for about 2 hours because I would only 
+get one or two beeps every few minutes. Because routine background 
+interference can mimic single beeps I was able to confirm that this was 
+the transmitter signal by slightly detuning it on the receiver, as well 
+as noting that the two beeps received occasionally sounded about one 
+second apart, the pulse rate for the transmitter. If the tag had been 
+off the whale the antenna should have been above the surface of the 
+water fairly frequently resulting in more frequent signals. I would 
+occasionally get a signal of relatively good strength. I would 
+estimate the distance to the tag at 10-20 miles. Based on my experience 
+working with Robin Baird on deployments of these tags, I suspect the tag 
+slid back on the side of the whale, somewhere around the saddle - we 
+have seen this occur numerous times. In relatively calm conditions, the 
+transmitter antenna would probably be in contact with the ocean, likely 
+explaining why I did not get a signal Friday evening as he traveled out 
+the Strait of Juan de Fuca. However, on Sunday night with about 40 
+knots of wind blowing, there were likely some rather large troughs in 
+the ocean when he was surfacing, such that more of his body cleared the 
+water and the antenna was periodically dry. I suspect that if the tag 
+is not already off by now, it will be soon - the record is 6 days. We 
+will continue to try to find and recover it as weather permits - there 
+could be some dive data that would be of interest to us.
+<br/>Cheers 
+<br/>Brad Hanson
+<br/><br/>
+<b>Monday, January 7</b>
+<br/><br/>
+(SEATTLE TIMES)
+<br/>Orca detected at the strait
+<br/>
+NEAH BAY - A male orca pulled last week from a shallow bay behind Dungeness Spit appears to have made it to the Strait of Juan de Fuca. Brad Hanson, a biologist with the National Marine Fisheries Service, picked up a signal around 10 p.m. Sunday from a transmitter affixed to the orca. The signal, which came from southwest of Neah Bay, was faint but moving, said Brian Gorman, an NMFS spokesman. Meanwhile, Dave Ellifrit of the Center for Whale Research in Friday Harbor has tentatively identified the whale from photographs taken of 10 transient orcas seen feeding on porpoises off Coos Bay in 1996. Also among the group was the female, possibly the male's mother, who was dead near Sequim last week.
+<br/><br/>
+<b>Sunday, January 6</b>
+<br/><br/>
+Hi Susan:
+<br/>
+We have two sightings of orcas from this morning (Sunday the 6th). Both reports suggested 10+ whales with two bulls between 0900 and 1000 going south, east of Vashon Island.
+<br/>*<br/>
+Just received a call from Brenda Peterson on Alki Pt. near Seattle - she saw a pod of orcas headed south toward Three Tree Pt (south of Seattle) at 2:50 pm. She could see 1 male + at least two others, but visibility was poor with the mist. 
+<br/><br/>
+<b>Friday, January 4</b>
+<br/><br/>Hi Susan and Howie
+<br/>
+Trying to sort out late reports but Jpod off Victoria on Jan.04 the time
+was 1115hrs near Albert head going S.S.E.
+
+<br/>Ron
+<br/>MMRG
+<br/><br/>
+<b>Thursday, January 3</b>
+<br/><br/>
+Hi Susan - I have a second-hand report of 6-8 orcas passing by the Lummi 
+Island ferry Thursday about 10 a.m. (Hale Passage) - the ferry stopped 
+and watched them for a while. That's all I've got for info now, if I get 
+some more interesting facts I'll let you know (like who they were??) - 
+other than that, haven't seen or heard of any whales in Lummi vicinity 
+for months! 
+<br/>Penny Stone 
+<br/>P.S. Hurray for Mr. T(ransient)!!
+<br/>*<br/>
+First is a report of a lone orca in Swinomish Channel, called in by Jack Sanford. Yesterday at dusk he saw what he is 90% sure was a small orca swimming in the channel. Subsequent callers reported seeing a small orca in Swinomish Channel Wednesday, Jan 2 and Thursday Jan 3. <i>Note:</i> We have also received several additional reports of a small "mystery" orca in Swinomish Channel near LaConner yesterday afternoon, so we are asking anyone in that general area to please look for this animal &amp; call us if you see it. There is some concern that it could possibly be connected to the strandings in Dungeness Bay, &amp; in any case, it is very strange behavior for an orca to be in the channel for several days like this. On Friday Shane Agergaard of Island Adventures in Anacortes searched around Fidalgo Island and down Swinomish Channel to Hole-in-the-Wall but did not find the orca.
+<br/>*<br/>
+Then, a call from Tom McMillen, who had another report of orcas off south Bainbridge Island from Chris Sly at 3:30 this afternoon. The pod was headed toward West Pt. (just north of Elliott Bay).
+<br/>*<br/>
+And lastly, an update on the strandings in Dungeness Bay. The orcas are now officially identified as being transients, the male orca is still inside the bay, in spite of repeated efforts to tow him out to deeper water. He keeps getting out of the towing harness &amp; heading back in toward the beach where he was stranded.......watch KING 5 &amp; KIRO 7 news for more details, &amp; we'll keep you posted as we hear more. 
+
+<br/><br/>
+<b>Wednesday, January 2</b>
+<br/><br/>
+
+4:15 Jan. 2nd someone on Whidbey reported seeing an orca somewhere between Ebey's Landing (west/central Whidbey) &amp; Port Townsend. 
+<br/>*<br/>
+
+Hi Susan:
+<br/>We had a sighting of 11-15 orcas going North off Maury Island ( SE of Vashon Island) at 12:45 (Jan. 2nd).
+<br/>
+Rich Osborne, 
+<br/>The Whale Museum
+<br/>*<br/>
+Then at 13:18 we had a call with a report of a lone male orca due west of Shilshole Bay, first heading south, then turning &amp; heading north. It had a large dorsal, with a notch or nick near the base of the trailing edge of the fin. This report was from Scott Mitchell, aboard the Jeffrey Foss - thanks to our partners Foss Maritime for joining in on our Sighting Network!
+
+<br/>*<br/>
+Then from Jeff Hogan in Seattle:
+
+<br/>Hi Susan,
+<br/>Spent the afternoon with a pod of North bound Orcas off the Discovery Park 
+area near Seattle. 95% sure it was J pod but they were on the Bainbridge 
+Island side and very spread out. Saw at least one group of six and only 
+one male, we assume J pod but cannot say conclusively as the water was a 
+bit rough. Caught a few breeches and some lunging. Picked them up at 4:07p 
+and left them at about 520p still slowly heading North. They may have headed 
+in to the Port Madison area, Northern tip of Bainbridge Island, but too 
+dark to say. Great way to spend the 1st couple of days with our friends 
+in town. Hope someone else catches a glimpse. 
+<br/>Best for the New Year.
+<br/>Jeff Hogan
+<br/>Killer Whale Tales 
+<br/>
+<br/>*<br/>
+It's been a busy day in the whale world today, so I'll start with the report of a stranding of orcas inside the Dungeness Spit near Sequim, follow it up with a variety of whale reports, and tomorrow will catch you up on the latest stranding details &amp; other news that  is happening in the orca world. 
+<br/>
+First, as many of you may have already seen on KING &amp; KIRO TV tonight, a dead female orca was found near Dungesness Spit, &amp; another male orca was inside the spit in shallow water. The male orca was helped out to deeper water, but as dark came on, he was still inside the spit &amp; swimming slugglishly. We are awaiting confirmation from whale experts on site as to what type of orca (transient, resident, off shore), &amp; the ID of the whale. We do know that transients were in that area on Dec. 31st &amp; Jan.1st, &amp; most initial reports seem to make it appear it is a transient pod, but until we get confirmation from officials on site there are no details other than the confirmation that it is an orca. A Necropsy will be performed tomorrow morning, &amp; most likely a positive ID will be released by then. We will let you know as we hear more, &amp; will also keep the latest news posted on our website, www.orcanetwork.org. Also, check the late evening &amp; morning news with KING &amp; KIRO as well - they are running it as the lead story.
+<br/>Susan &amp; Howie
+<br/><br/>
+<b>Tuesday, January 1</b>
+<br/><br/>
+Here's the first sighting of 2002! Got a call via hotline from a lady down in Carr Inlet (west of Gig Harbor) - approx. 12 whales (1 bull) rummaging around down there between 8:30 and 11:30 this morning. Going N, then going S, then they stopped and looked to be feeding. . . maybe it's the long-lost Js?? 
+<br/>Amy 
+<br/>The Whale Museum 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+
+<br/><br/>
+
+
+
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+
+
+
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+
+
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+
+
+
+
+
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+
+
+
+

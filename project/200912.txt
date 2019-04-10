@@ -1,0 +1,853 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Dec 09</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Dec 09								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>December 2009 Whale Sightings</center></h3>
+<b>December 30, 2009</b>
+<br/><br/>
+I found <b>Transient orcas U38 and U39</b> again in the afternoon skulking around south-east of <b>Race Rocks</b>. I left them at <b>1540 </b>west bound south of Race Rocks.
+<br/>Mark Malleson, Prince of Whales 
+<br/><br/>
+<b>December 28, 2009</b>
+<br/><br/>
+Hello, my name is Frank Gratz. I am a commercial fisherman out of<b> Humboldt Bay, Eureka, Ca</b>. Approx. <b>4:00 pm</b>. Group of 10-12 <b>Orcas </b>traveling south at 8-9 knots per hour. Viewed from 60 yards. It appeared they were surfacing alternately in two groups of six. A distinct traveling mode was led by a particularly large dorsal fin with two medium sized dorsals immediately behind. Long/Lat.: 41*02'43.69"N - 124*12'32.28"W
+<br/>*<br/>
+Chris Zylstra of Eagle Wing Tours called to report <b>6 to 7 Transient orcas</b> off <b>Sooke Bay, BC</b>, travelling east at <b>4:15 pm</b>
+<br/>*<br/>
+Jeff LaMarche of Eagle Wing tours called to report <b>5 - 6 Transients</b> 2.5 miles west of <b>Otter Pt</b>, near Victoria B.C. heading east at <b>4:05 pm</b>. 
+<br/>*<br/>
+Found <b>7 Transients</b> in the afternoon near <b>Sooke </b>east bound which included the <b>T124A's</b>.
+<br/>Mark Malleson, Prince of Whales
+<br/><br/>
+<b>December 26, 2009</b>
+<br/><br/>
+The <b>gray </b>that was sighted at the bridge to Fox Island stopped here (<b>Fox Island</b>) for a while about <b>9 AM</b>. I couldn't see it due to dense fog but could hear it clearly so it was in very close to the beach.
+<br/>Tom and Noni Wiggin
+<br/>*<br/>
+Saw a <b>Gray whale</b> about <b>1:30 PM</b> just off the <b>Fox Island</b> boat ramp at the Fox Island Bridge (S. Puget Sound). Quite a few people stopped in the parking lot to watch and take photos.
+<br/>Gary O'Connell 
+<br/>*<br/>
+Orca Network received a call from Annette Smith of the Whale Spoken Here program, reporting 1 male &amp; 2 female <b>orcas </b>heading north off the<b> Umpqua, OR</b> Lighthouse, at the furthest buoy off the jetty at <b>noon</b>. 
+<br/><br/>
+<b>December 25, 2009</b>
+<br/><br/>
+Orca Network received a call from Daniel Howes with a report of <b>2 female orcas</b>, heading south from the <b>Pt. Cabrillo Lighthouse</b>, Ft. Bragg CA. They were 1/4 mile from shore, loosely following a Gray whale. 
+<br/>*<br/>
+I am writing to report a whale sighting in <b>Gig Harbor</b>, Washington. It was probably around <b>midnight </b>that a friend and I first spotted the whale. He looked to be smaller in size (maybe a baby?) and was alone in the sound. It was dark out, so identifying and distinguishing features was nearly impossible, but he didn't seem to be going anywhere. We watched him for a little over an hour but had to eventually leave due to the cold weather. I don't know the coordinates of the area, but it was next to the Tides Tavern in the harbor. 
+<br/>Vanessa Peterson 
+<br/><i>This is likely the <b>Gray whale</b> that has been reported in the Tacoma/Seattle area the past few weeks - last report it was under the Tacoma Narrows Bridge. </i>
+<br/><br/>
+<b>December 24, 2009</b>
+<br/><br/>
+Ken Balcomb spotted a pair of east bound <b>Killer Whales</b> in the <b>morning </b> south of <b>Victoria </b>through the Big Eyes. After Ken scoured the area to the south east of Constance Bank, I covered the area west of his search area and came across his probable pair headed west south of Race Rocks. Dave Ellifrit has tentatively ID'd the bull as a California animal known as CA166. I've sent off some shots to Alisa Shulman-Janiger in hopes of confirmation.
+<br/>Mark Malleson 
+<br/><i>Confirmation of Dave Ellifrit's ID of the <b>California male Transient</b> Mark Malleson photographed as <b>CA166</b>:
+Mark Malleson's nice photo is definitely CA166. I'm not sure who this female is, but she was previously photographed with CA166 on April 8, 2009 off Washington, in a sighting that Brad Hanson (NWFSC) on the McArthur II had reported to Orca Network. 
+<br/>Alisa Schulman-Janiger, California Killer Whale Project ACS/LA Gray Whale Census and Behavior Project: Director</i>
+<br/><br/>
+<b>December 23, 2009</b>
+<br/><br/>
+The<b> T010's</b> and the<b> T026's</b> were west bound off of <b>Victoria </b>in the <b>morning </b>. Jared Towers and I left them in Race Passage at <b>11:30</b> west bound. Ken Balcomb and Dave Ellifrit relocated them at <b>1300 </b>off <b>Sooke Harbour</b> still headed west.
+<br/>Mark Malleson, Victoria, B.C. 
+<br/>*<br/>
+Ken Balcomb of the Center for Whale Research called to report <b>Transient orcas</b> - the<b> T10s and T26s</b> headed west past 
+<b>Victoria</b>, heading through Race Pass at <b>11:40 am</b>. 
+<br/>*<br/>
+Orca Network received a call from Loren McWethy, reporting <b>2 orcas</b>, 1 with a larger fin, NE of the <b>Pt. Wilson</b> buoy heading west at <b>11:15 am</b> - not sure if this could be part of Js still milling around, or Transients, or ????
+<br/>*<br/>
+We are on a mooring buoy on the west side of Eagle Island (<b>S. Puget Sound</b>) at 47.11.242N and 122.41.897W and saw a <b>gray whale</b> swimming around for quite a long time. Last spotted heading east, next to the north side of Anderson Island, but it has been circling around the west side of Eagle Island for a while now - observed from <b>8:35am</b> and last sighting was at <b>9:18am</b>. It looked to be playing, but not sure if it was feeding or not. There was a seal trailing it, so it could have been feeding. 
+<br/>Ben and Denise Nelson 
+<br/><br/>
+<b>December 22, 2009</b>
+<br/><br/>
+<i>This report was forwarded to us by Derek Woodie - likely another sighting of the<b> gray whale</b> reported above and in previous reports the past few weeks:</i> I have a question for a sea life specialist there at the aquarium. I was walking across the narrows bridge this <b>afternoon </b>and half way i saw this huge creature lounging at the water surface. It was a pinkish/peachy orange color. I got 3 pictures before it dove back down. Unfortunately the light was fading and the pictures didn t pick up the beautiful color. What do you think it is? I'd say it was 15 to 20' long Thanks,
+<br/>David Eddy
+<br/><i>From the photos sent to us, this certainly looks like a gray whale, sometimes sea lice on the Gray whales can give it a light peach/pinkish hue - sb </i>
+<br/>*<br/>
+I heard two faint <b>calls </b>at <b>7:57 pm</b> and expected to hear more. However, for the next hour it was the noise of a ship. Then just at the end of the ship noise at <b>9:03</b> I heard a few very clear calls, for only a few seconds, and then no more. 
+<br/>Jeanne Hyde, San Juan Island
+<br/><i>And from Scott Veirs of OrcaSound, in response to Jeanne's recordings:</i> Hi Jeanne, Thanks for the nice recording. I've uploaded it to OrcaSound here. Definitely some nice clear calls (I hear S2s and S10 [squeaky balloons]). I haven't any reports of others hearing these.
+<br/>Scott Veirs, Beam Reach/OrcaSound, Seattle 
+<br/>*<br/>
+<b>1957</b>: first <b>calls </b>(So. Resident orcas) just heard on <b>Lime Kiln hydrophones</b>. 
+<br/>Jeanne Hyde, San Juan Island
+<br/>*<br/>
+We are on the bluff overlooking <b>Admiralty Inlet</b> on Whidbey. A pod of <b>Orcas </b>(perhaps <b>a dozen or more</b>) just passed through the center of Admiralty Inlet from SE to NW, between <b>3pm and 4pm</b>. Both their spouts and their dorsal fins and backs were visible as they went by. They were widely spread out. 
+<br/>Bill Viertel, Coupeville 
+<br/>*<br/>
+Casey Gluckman of Port Townsend called at <b>3:27 pm</b> to report <b>~5 orcas</b>, including 1 male and 1 young one, 300 - 40 yards off <b>Pt. Wilson</b>, heading due west and looking good! 
+<br/>*<br/>
+Hearing <b>orcas </b>on <b>Port Townsend Hydrophone</b> @<b>2:36 PST</b>. very faint, hearing whistles, too. Orcas are louder now - 2:46. Really loud now - 2:55 pm! Still hearing them but very faint - it is <b>3:27 pm</b>.
+<br/>Shari Martens
+<br/>*<br/>
+Jason Wood and Shari Martens (on east coast) are hearing <b>S1 calls</b> on the <b>Port Townsend hydrophone</b>, as recently as <b>14:46</b>. Apparently J pod is leaving Puget Sound. 
+<br/>*<br/>
+Spotted <b>two large Orcas</b> at<b> 1:55pm</b>, 300 yards off <b>Lagoon Point</b>, Whidbey Island heading north towards Straight Juan De Fuca. Swimming fast with 10 second intervals to airhole breathing. Could have been Juveniles. Not sure.
+<br/>Doug Lockhart
+<br/>*<br/>
+Kit Turner of <b>Lagoon Point</b>, Whidbey Island, called at <b>1:50 pm</b> to report <b>3-4 + orcas</b> heading north, just past the entrance to Lagaoon Pt. 
+<br/>*<br/>
+We had just set up to begin our scheduled marine mammal observations at Ft. Casey State Park at about <b>1:40 pm</b>, and I thought I saw what looked like a whale spout in the distance between Lagoon Pt. &amp; Ft. Flagler, but we hadn't received any whale reports since late Monday when Js were in Puget Sound, so wondered if it was "wishful seeing". Then the phone rang at 1:50 pm, with Kit Turner's report of orcas off Lagoon Pt, confirming the spout I had seen. We gave up on our other marine mammal observations, and focused on the many spouts now appearing, spread out between Lagoon Pt. on Whidbey Island, &amp; Marrowstone Island, heading north, with what looked like some milling back &amp; forth. We kept an eye on their progress, and made plans to meet the boat team from Port Townsend that is part of the contract with the Whale Museum and the Snohomish PUD to monitor and record So. Residents in Admiralty Inlet. We joined Roger Slade and Chrissy McClean (PTMSC) at Keystone, and by 2:40 pm found <b>J pod</b> very spread out across Admiralty Inlet, mainly heading north, with some direction changes, but pretty much in traveling mode. Chrissy &amp; Roger were able to get 25 minutes of great recordings of the orcas' calls, and we got some ID shots to confirm our suspicions that the pod seen in Puget Sound yesterday was J pod. We left them as they continued NW a little before <b>4 pm</b>, happy to have a little time with them before it got dark - hope they come back soon!
+<br/>Susan Berta &amp; Howard Garrett, Orca Network
+<br/><br/>
+<b>December 21, 2009</b>
+<br/><br/>
+I just got a call (from my dad) from the <b>Vashon- Tacoma ferry</b> and they saw a pod of <b>orcas </b>frolicking/breaching on the way back to Point Defiance terminal, at ~ <b>2:30 pm</b>. They're still on the ferry watching them. Just wanted to let you know!
+<br/>Elizabeth M. Phillips, Oregon State University-CIMRS &amp; NOAA Fisheries - NWFSC, Pt. Adams Research Station
+<br/>*<br/>
+At about <b>3:45 pm</b> Debbie Dickenson saw a "huge" pod of <b>orcas </b>in the SE corner of <b>Commencement Bay</b>, near where she works at the top of a granary, with a wide view of the bay.
+<br/>*<br/>
+<b>4:25pm</b>, Point Richmond Beach (<b>Gig Harbor</b>). Pod of <b>Orca (30+)</b> sighted heading northbound up Colvos Passage at slow to moderate pace.
+<br/>Steve Rees
+<br/>*<br/>
+<b>San Diego Orcas</b> - Today Sarah and I took the Western Explorer out off of San Diego to, well, explore a bit. It was a beautiful winter day, just a bit overcast, yet warm, with just a gentle swell rolling beneath us as we headed offshore. Soon we found a lone little 
+<b>Minke </b>whale. Then we encountered a large male Elephant seal bobbing in the water, catching his breath after what was probably a very long dive. Then on to the Coronado Islands we went, encountering playful Common and Pacific White Sided Dolphins along the way. The islands, as always, were magnificent in their jagged beauty. Still no Gray Whales or Fin Whales (both of which we were hoping to find), so I decided to head further offshore to search. Then I noticed a tall dark shape in the distance. Soon we were surrounded by <b>about 20 Orca Whales</b>, including 3 adult males. After a few minutes of observation it became clear that these were Offshores, as opposed to Transients. Most of the time we observed the whales we had several sea lions following along behind them. We were also lucky enough to observe them feeding. From the photo and description of the whales that were described in the December 14th Orca Network Sightings Report I feel that these are probably the same whales. It was one of the most amazing encounters I have experienced!
+<br/>Ivan Reiff, Owner/Captain, Western Prince Whale Watching, San Diego 
+<i>Ivan's wonderful photos and report were forwarded to researchers on our "Coast Researcher" list, and we received this response from Alisa Schulman- Janiger: </i>I am VERY interested in the killer whale sighting that you had on yesterday. There have been other killer whale sightings (about 9 miles off Pt. Loma) on December 12 (5 KW), December 13 (10-15 KW), and December 17 (6 KW - last seen heading toward the Coronados Islands). We have VERY few killer whale photo- documented from your sighting area, so these are extremely important sightings. Especially because last Thursday's sighting included a newborn calf! Did you notice a very small calf? Also, It looks like one of your images shows a killer whale with just a stump of a dorsal fin. Do you know if this was a juvenile or an adult? I know of several killer whales that could be called "Stumpy" or "Chopfin" - including an offshore, a transient, an ETP, and an unknown-type killer whale - all of which have been documented off of California. Coronados Islands: if these were offshore killer whales, this is the furthest south that they have been documented! Did you confirm any of these as offshores? We have over 50 offshore sightings in CA now - about 5 in the last 3 months. I'm working on many of the latest IDs - checking for resights - over the next few weeks. 
+Off the San Diego area we have documented the LA Pod, transients, offshores (last year), Mexican killer whales, and eastern tropical Pacifics (ETPs) - everything but residents. The two (low resolution) images that I've seen so far of the killer whales from December 17 are quite possibly matches with three of the killer whales from your sighting. I'll immediately work on IDing those killer whales, and will pass on the IDs to Orca Network. And if you see them again, please point them my way. We are getting plenty of fin whales and blue whales - but no killer whales! Thanks so very much! 
+<br/>Alisa Schulman-Janiger, California Killer Whale Project, ACS/LA Gray Whale Census and Behavior Project: Director
+<br/><i>Alisa Schulman-Janiger sends more info. on the photos of orcas taken by Ivan Reiff off San Diego:</i> 
+Wow!! Ivan Reiff really hit the jackpot with this sighting! I suspected that these were eastern tropical Pacific (ETP) killer whales - and they are!! I believe that there is only one previous confirmed ETP sighting in California (off of La Jolla, CA earlier this year), and a few other probable sightings. Looking at Ivan's higher resolution images, I can DEFINITELY ID the big male as E261, an ETP killer whale. According to the 2008 ETP killer whale NOAA publication referenced below, he was previously photographed in the Gulf of California in 2006. The authors (Paula Olson and Tim Gerrodette) identified 195 individual killer whales in the eastern tropical Pacific between 1986 and 2006. ETP killer whales tend to have darker saddles and often have stalked barnacles (Xenobalanus sp.) on their dorsal fins. 
+Ivan's images clearly show all of the killer whales have stalked barnacles on their dorsal fins (and one on its pectoral fin). These are a hallmark of southern killer whales: those found off Mexico and the ETPs. Over ~30% of the killer whale groups that have been photographed in the ETP display these barnacles, according to the ETP killer whale catalog. The LA Pod (which spent much time in Mexican waters) sometimes displayed these barnacles, unlike transients, residents, or offshores. This catalog is a sister publication to the catalog that I coauthored: Killer Whales of California and Western Mexico: A Catalog of Photo-Identified Individuals (1997). We had noted that Mexican killer whales often have these stalked barnacles. These barnacles can make photo-IDs extremely difficult to confirm; what first appear to be distinctive fin shapes may actually be artifacts caused by barnacles. Here is the ETP killer khale catalog information: "Killer whales of the eastern tropical Pacific: A catalog of photo-identified individuals" NOAA Technical Memorandum. NOAA-NMFS-SWFSC-428. The authors of this publication are Paula Olson and Tim Gerrodette. Paula states that "this is the first photo-identification catalog of tropical pelagic killer whales, and yields information on the geographic movement and external morphology of this little known population of killer whales." Contact Paula if you wish additional information about this catalog: Paula Olson (Paula.Olson@noaa.gov). It is quite possible that all of the recent San Diego sightings may turn out to be ETPs! I'll keep you updated on this. 
+<br/>Alisa Schulman-Janiger, California Killer Whale Project, ACS/LA Gray Whale Census and Behavior Project: Director
+<br/><br/>
+<b>December 20, 2009</b>
+<br/><br/>
+Spotted one large <b>gray whale</b> heading west between Anderson Island and Eagle Island (<b>So. Puget Sound</b>) about <b>10:30 am</b>.
+<br/>Walter 
+<br/>*<br/>
+Orca Network received a call from Tony McGinnis reporting <b>3-5 orcas</b> at <b>11:15 am</b>, 3 miles south of <b>Powell River, B.C</b>. heading east in Malaspina Strait. The group included 1 male. 
+<br/><br/>
+<b>December 19, 2009</b>
+<br/><br/>
+Ken Balcomb of the Center for Whale Research called to report<strong> J pod</strong> south of <strong>Race Rocks</strong>, near Victoria, spread out and inbound at <b>3:20 pm</b>!
+<br/>*<br/>
+J pod were headed east near <b>Race Rocks</b> in the <b>afternoon</b>. I was able to confirm <b>J1, J2, J8, J14</b> and the rest of her matriline, as well as J26 following behind. The rest of the group were most likely ahead and spread out further offshore. 
+<br/>Mark Malleson, Prince of Whales, Victoria B.C. 
+<br/><br/>
+<b>December 18, 2009</b>
+<br/><br/>
+Orca Network received a call from Jim Whicker, reporting<b> 7 orcas</b>, including 1 male, a little north of <b>Port Townsend</b>, near the buoy 300 - 500' from shore (48 7.180684 N, -122 44.507595W) from <b>11:10 - 11:30 am</b>. 
+This was the Transient group with T74 and friends. 
+<br/>*<br/> 
+When the <b>orca </b>first appeared, surfacing less than 200 feet from where Frank and I were at <b>Point Wilson</b>. The two females moved swiftly and silently to the north where the remainder of the other orca were, three males and one female quickly grouped up with the two females. What it looked like to me was a team effort to drive any seals or sea- lions that were near the point towards the four orca who were waiting in the direction of where any pinniped might flee. It was interesting to see the close team work of the seven orca.
+<br/>Robert Whitney, Port Townsend
+<br/>From the excellent photos taken by Robert Whitney and Frank White from shore at Pt. Wilson, some ID's of these Transients have been made - the male has been confirmed as <b>T74 </b>(very distinctive dorsal fin!); likely IDs are T73 with 1 notch in fin, possibly w/T73C?, and T73A1, and possibly T73A - but we are waiting for confirmation on these possible IDs.
+<br/>Orca Network 
+<br/>*<br/>
+Chrissy McClean of the Port Townsend Marine Science Center called at <b>11:40 am</b> to report a pod of <b>~7 orcas</b>, including 1 male, off <b>Pt. Wilson</b>, heading north, close to the Port Townsend side of Admiralty Inlet. At <b>12:08 pm</b> she reported they were heading W/NW 2 miles off North Beach, moving quickly. 
+<br/>*<br/>
+Bob Whitney of Port Townsend called at <b>11:45 am</b> to report <b>~7 orcas</b>, including possibly 3 males, heading west toward Sequim.
+He then sent us some photos and this update: There are a few images of the orca seen at Point Wilson a little before noon today. the two females that are close together were close, as close as I have ever seen orca to the point about 200ft away they surfaced quickly then moved north 100 yards before surfacing again then dove once again surfacing where four others joined up with the two females for a total of seven looked like three males and four females. The largest male had an old injury to its dorsal fin with a saw tooth pattern look (T74). I did not get the image of the male with the distinctive pattern on its dorsal fin but Frank did (see above photo) and I have seen the image showing the old injury. 
+<br/>Robert Whitney, Port Townsend 
+<br/>*<br/>
+We saw 4 to 6 <b>orcas </b>near the lighthouse at Ft Worden at <b>11:00 a.m.</b> They were west bound. One had a large fin on it's back.
+<br/>Richard Boyles, Port Townsend, WA 
+<br/>*<br/>
+Orca Network received a call from Amy Traxler at the Whale Museum - they received a report on their hotline from someone who saw a 
+<b>pod of orcas</b> at <b>10:15 am</b> from the <b>pt. Townsend/Keystone Ferry</b>. The orcas were off the N. end of Marrowstone Island- they were too distant for the reporter to get IDs, number of whales, or direction of travel. 
+<br/>*<br/>
+We headed out to Ft. Casey State Park to look for the orcas after getting the call about orcas off Marrowstone Island. By the time we arrived, the orcas had headed west past Pt. Wilson, so we never saw them, but we did observe over <b>14 Steller sea lions</b> for 2 hours off Ft. Casey, behaving very nervously and defensive, with lots of heads up high looking around, and growling - much like they were behaving on the 12th while a pod of Transients was across the inlet attacking one of their fellow Steller sea lions!
+Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island
+<br/>*<br/>
+<i>Tracy Record of the West Seattle Blog sent this email this morning:</i> I know you track other whales too. just got one (secondhand) of a <b>gray </b>sighted near <b>Alki Point</b> around <b>9:30 am</b>. Reported on the blog were these three gray whale reports:
+<br/>11:20 am: Only one report so far but you know how we are about sharing whale reports, in case you want to keep an eye out: "Cloudbreak" shared e-mail from a friend who e-mailed an hour ago (<b>10:20 am</b>), "OK, a few minutes ago a <b>gray whale</b> cruised by <b>Alki</b>, turned East at the lighthouse." (Maybe it was this one.) 
+ADDED <b>11:57 AM</b>: Now a second report, closer to downtown - from Zack: I'm down at <b>Argosy Cruises</b> and we had a <b>gray whale</b> pass us and head into the east waterway - last view I got was about 10 ago and it was surfacing in between the cargo ships. Looks like it's still heading south.
+<br/>Watched a small gray whale following close to shore by Salty's, past Don Armeni boat ramp, and around the point. Last seen heading West along the shore <b>towards Alki @1:15pm</b>.LTF, West Seattle blog. 
+<br/>*<br/>
+This morning at <b>11:00 AM</b> I saw a <b>grey whale</b> surface three times just south of the Coleman ferry dock in <b>Seattle</b>. I am certain the animal was a whale and not a very large seal since I clearly saw its tail out of the water before a dive. I cannot be 100% certain it was a grey whale, but its surface appearance (low broad back and no evidence of a bumpy spine or small dorsal fin before dive) strongly indicates to me that it was a grey whale rather than a humpback whale. It appeared to be a large whale but maybe not a fully adult whale. It appeared to be making deep dives rather than staying on the surface. Feeding perhaps? Do you think this is the same grey whale that has recently been reported in Bremerton harbor? 
+<br/>Brian Parent Bainbridge Island 
+<br/><i>Very likely the same whale observed around Bremerton and Ballard in recent weeks - sb</i>
+<br/><br/>
+<b>December 17, 2009</b>
+<br/><br/>
+I'd like to report a sighting - From on top of the <b>Tacoma Narrows Bridge</b> (as a passenger in a car), I saw <b>one Orca</b> surface. It was headed towards <b>Pt. Defiance</b>, from Fox Island. It looked as if it could've been female, since the dorsal fin was not extremely big. It looked full size. I kept looking for others to surface, but only saw that one. It was approximately 
+<b>2:00 pm</b>.
+<br/>Victoria Shomo 
+<br/><br/>
+<b>December 13, 2009</b>
+<br/><br/>
+<b>0320 </b>PST --- <b>Orca </b>at L<b>ime Kiln hydrophone</b>.
+Interesting calls.
+<br/>Robo (Lon Brockelhurst) 
+<br/>*<br/>
+<b>0551</b>: just now heard a clear <b>call </b>on <b>Lime Kiln hydrophone</b>. 
+More on the 5:53a.m. call: it was repeated 7 times over two minutes. Sounded like Ts. Then no calls for 5 minutes, and then a big ship passing. 
+<br/>Jeanne Hyde, San Juan Island 
+<br/>*<br/>
+Around <b>1400 </b>hrs we came in contact with a large pod of <b>Orca</b> Whales approximately 9 miles off the coast of Point Loma in <b>San Diego, CA</b>.
+<br/>Ty Jacob, San Diego, CA 
+<br/>*<br/>
+I was 10-12 miles offshore of Point Loma <b>(San Diego), CA</b> (32.56,-117.34 - approx) with some co-workers and spotted a pod of <b>10-15 Orcas</b>, possibly more including one extremely large male and one small one had damaged dorsal. They were traveling south, in the direction of the Coronado Islands, Mexico. They were completely amazing to see up close!! We observed them at very close range. At one point, they (inclung the large male) were within arms reach of the boat. It was amazing!!!! We have video and stills that were taken with cell phones (see above). We watched from <b>1200 - 1330</b>, they were playing, possibly mating?
+<br/>JESSE D. WALKER, San Diego
+<br/><br/>
+<b>December 12, 2009</b>
+<br/><br/>
+Jerry Johannes reported that in the afternoon a <b>gray whale</b> was seen in <b>Amsterdam Bay</b>, on the SW side of <b>Anderson Island</b> in <b>South Puget Sound</b>. He estimated that the water depth was about 10', and the opening to the bay is about 40-50 yards. The whale was on its side with a pectoral fin up in the air. Possibly feeding? <i>We also had a report of a Gray whale off Anderson Island on Dec. 20th - it must like it there! sb</i>
+<br/>*<br/>
+I was in the white Glasply (Quya) that you saw over by Marrowstone. We were heading towards <b>Port Townsend</b> when I saw a huge splash way off in the distance. I saw just enough black and white to know it was an <b>Orca</b>. I started to see more fins coming out of the water and I thought they might be headed right at me. It was quiet for a few minutes until a large sea lion appeared just to my stern. It was acting strange, doing a lot of rolling and figure eights. We watched that lone dance for a few more minutes and then all of a sudden, Orcas everywhere! There was one very large one, two or three smaller adults and at least two very small ones. I snapped a lot of shots (see photo) when it dawned on me that my camera takes video ( click here for two great videos). At first I thought the sea lion and the whales were sharing the same bounty (our whales don't eat mammals, right?). I never saw a kill, but they all took turns coming up right next to the poor sea lion, even the babies. I don't know how long they usually take to make the kill. Could we have been watching a hunter's education course for the youngsters? Eventually it quieted down and since we were drifting toward shore, I fired the boat up and headed towards Port Townsend. I looked back about the time we got half way across the harbor to see a lot of splashing. Maybe we missed the final kill? We saw no sign of them on the way back to Everett. We did see two or three porpoise around Mutiny Bay though. 
+<br/>Garrett Bradford, Everett 
+<br/>*<br/>
+Roger, Heather and Kelli responded to report of <b>orcas </b>near Admiralty Head (as part of the Admiralty Inlet Tidal Power marine mammal monitoring project). We made contact <b>between Marrowstone Pt. &amp; Lagoon Pt.</b>. 5-6 <b>orcas</b>, including: a grayish calf and its mother (completely closed and smoothly round saddle); adult male with nicks on upper part of trailing fin (similar position as J1) and tip of fin tilted to left; an adult female with a sizable nick (like J28) in the mid portion of trailing edge of fin; and at least one other juvenile. Orcas were moving slowly in a group, in no consistent direction, with long (4-6 minutes) dives. After about 1/2 hour of this behavior, we made a set for hydrophone deployment and observed in the distance the orcas becoming surface active, probably attacking a Steller Sea Lion, which is concurrent with later close-up observations. We heard no vocalizations in two hydrophone deployments. We approached surface active orcas and saw a Steller Sea Lion in their midst, moving slowly back and forth on the surface. We observed the orcas lunging over the sea lion, coming up onto from below numerous times, appearing to be striking it with their bodies. The sea lion stayed on the surface, rolling around, moving back and forth in a small area. After about 20 minutes of this, the sea lion found our boat and stayed very near it (within 50 ft. and closer at times) while the orcas circled the area. We observed no blood or obvious injuries on the sea lion.
+We left the scene to deliver Kelli to shore and returned 45 minutes later with Roger Slade's camera and large video camera. The orcas were milling a few miles away, near Fort Flagler on the north end of Marrowstone Island.We photographed them with the point and shoot camera and the video camera. We did a transect on our way to the Marrowstone haul out, where we counted 12 Stellers. We saw two more Steller's near the orcas in the vicinity of Fort Flagler.
+<br/>Heather Harding, Chimacum 
+<br/>*<br/>
+Tonight I went down to <b>Marrowstone Point</b>. From about <b>3:30 to 4:00 pm</b> there were four Stellers spy hopping just west of the point. I was sure they knew an orca was around. I watched and waited and watched the sea lions, they were apparently nervous, judging from the constant checking of surrounding waters. I've seen this behavior before. Five more sea lions came in from the Whidbey side, over from about Partridge Point. All of the sea lions kept spy hopping, stretching out as far as you can imagine a sea lion can get up out of the water to look around at stuff. The water was pretty calm. I just knew some whales would show up - dang. Nope. None. As it grew darker, the sea lions milled around off the north end of the island, joining up. I imagine others, on seeing them might have thought they were whales from a distance. The sea lions, sticking their heads way out of the water looked like male whale dorsals. Think whales ever confuse these as other whales? How would we ever know. How could we ever know. 
+<br/>Whaleless on Marrowstone, Ron Hirschi 
+<br/>*<br/>
+We arrived at <b>Ft Casey</b> at about <b>3:45</b>, already getting dark. Boy those Stellers were noisy! I have one photo with 13 in it, we were able to count two other groups to total at least 18th. If there'd been nobody on the beach, I wonder if they'd have hauled out. There were a few people by the water's edge watching/listening to them. Quite a sight. We looked for blows to the west, but didn't see anything, but with such a steller smorgasbord, perhaps they'll be back.
+<br/>Jill Hein, Coupeville 
+<br/>*<br/>
+<b>2040</b>: <b>Transient calls</b> in the dark, dark night on <b>OrcaSound hydrophones</b> (NW San Juan Island).
+<br/>Val Veirs, OrcaSound/The Whale Museum, San Juan Island 
+<br/>*<br/>
+We were standing on the beach at <b>Ft Flagler State Park</b>, facing northwest. An <b>orca </b>pod - we estimate 7-8 whales, one very large male with a skinny pointy back fin. - appeared at the southern end of Whidbey Island. traveling south from Whidbey into the Port Townsend bay, approx <b>3:00 pm</b>. It appeared they were feeding as they remained stationary for about 20 minutes.
+<br/>Wendy Ayres 
+<br/>*<br/>
+Just a note to say someone reported through our Sunshine Coast Birding group that they saw <b>Orcas </b>in the vicinity of the Trail Islands off <b>Sechelt Sunshine Coast, Straight of Georgia BC</b>. She reported seeing two in the same area.
+<br/>Cornelia &amp; Don 
+<br/>*<br/>
+We received a call that the Victoria Clipper had sighted orcas off <b>Admiralty Head</b>, <b>9:30 am</b>. We headed out to Admiral's Cove, then Ft. Casey, and found orcas at <b>10:45 am</b>, between Lagoon Pt, Whidbey Island, and S. Marrowstone Island, milling back &amp; forth. We counted what looked like ~5 orcas. They ended up heading over to <b>Ft. Flagler</b>, then milling back and forth just N. of Ft. Flagler for over 3 hours. We watched them from Ft. Casey, While Roger Slade, Heather Harding, &amp; Kelli Stingle from Pt. Townsend responded in a boat. They observed the orcas tossing a Steller sea lion around, the Steller using their boat for shelter for awhile, making things pretty exciting! We'll hopefully have a more detailed report from them later - but we observed 12 - 14 Steller sea lions right next to shore at Ft. Casey, behaving very defensively - lots of heads up and roaring going on, and mainly staying in large groups (I can't blame them)!
+We watched the orcas from our distant perch - milling back and forth, a lot of lunging and splashing going on from noon - 2:15 or so, then more milling. We left at about 2:45 pm, Roger called at 3:15 pm to report the orcas were in Port Townsend Bay, still milling around. 
+<br/>Susan Berta and Howard Garrett, Orca Network
+<br/>*<br/>
+We received a call from Steve Holmes at <b>10:55 am</b>, reporting ~<b>9 orcas</b> sighted off Ledgewood Beach, <b>W. Whidbey Island</b>, first heading north, then milling. 
+<br/>*<br/>
+After earlier helping us try to find the orcas from Admiral's Cove, Sandra Pollard &amp; Dick Snowberger called at <b>11:15 am</b> from <b>Lagoon Pt</b>. to report they had spotted the <b>orcas </b>between Lagoon Pt. &amp; Marrowstone Island, heading north. 
+<br/>*<br/>
+We received a call at 11:10 am from Greg Davis, on S. Admirals Cove, reporting 3 <b>orcas </b>- 1 large fin, 1 med. fin &amp; 1 small fin, between <b>Ft. Flagler and Marrowstone Pt</b>, heading north. 
+<br/><br/>
+<b>December 11, 2009</b>
+<br/><br/>
+Beginning at about<b> 4:25pm</b>. and continuing for almost two hours the [orcas] put on quite a <b>symphony </b>over the <b>Pt. Townsend hydrophones</b>. Then at <b>10:58 p.m</b>. they showed up on the <b>Lime Kiln hydrophones</b>, though this time they were faint. They could be heard until a little after 1 a.m.I posted a couple audio clips, one from PT. Townsend at the height of the symphony and another clip further toward the end and there was a call that I am not familiar with. I put an explanation of that call on my blog post as well as the audio clip. Hope your readers will enjoy the clips. 
+<br/>Jeanne Hyde, San Juan Island 
+<br/>*<br/>
+<b>Calls </b>at <b>Lime Kiln hydrophone</b> - <b>midnight - 12:30</b>, still going strong - sounds like a party!
+<br/>Susan Berta, Orca Network, Whidbey Island 
+<br/>*<br/>
+On Friday four <b>killer whales</b> were sighted at the north end of <b>Makah Bay</b> in the evening. The whales were sighted too late at night to take photos. There was one young sprouting male in the group. Light conditions were too poor to be sure that no more killer whales were in the area. The killer whales were seen at 48 degrees 18.03 minutes North, 124 degrees 45.69 minutes West and were seen at <b>16:54</b>. The whales were not really headed in any direction. They were generally oriented to the east by southeast to go further into Makah Bay.
+<br/>Jonathan Scordino, Marine Mammal Biologist, Makah Fisheries Management 
+<br/><br/>
+<b>December 10, 2009</b>
+<br/><br/>
+<b>2258</b>: hearing faint <b>calls </b>on <b>Lime Kiln Hydrophones</b>. sounds like some L calls.
+<b>2318</b>: Now hearing clear <b>J Pod calls</b> on <b>Lime Kiln Hydrophones</b>, though in the distance
+<br/>Jeanne Hyde, San Juan Island 
+<br/>*<br/>
+After a preliminary viewing of Ken (Balcomb's) and my transient shots it seems as though the inshore group contained <b>T036A, T036A1, T137, and T137A</b>. The group offshore which had the grey orca (most likely Chediak- Higashi Syndrome) contained T068, and T068A. Will wait to get confirmation from G. Ellis and J.Towers of P.B.S and D.Ellifrit of C.W.R. to confirm if it belongs to T068C and rest of ID's.
+<br/>Mark Malleson, Victoria B.C. 
+<br/>*<br/>
+It's <b>5:50 PST</b> and wow am I hearing those [<b>orcas</b>]!! <b>Port Townsend Hydrophones </b>- wow! Sorry I didn't e-mail earlier, I was just so excited! These calls are just SO close; very very clear. Kitten calls, whistles, clicks - everything! 
+<br/>-Kristina Polk, Ohio
+<br/>*<br/>
+<b>1626</b>: just heard <b>calls </b>on <b>Pt. Townsend hydrophones</b>.
+<br/>Jeanne Hyde, San Juan Island
+<br/>*<br/>
+Gail Porter called to report 7 - 8 <b>Orcas </b>between <b>Lagoon Pt. and Pt. Townsend</b>, headed north at <b>4:05 pm</b>. 
+<br/>*<br/>
+Brad Hanson, Candi Emmons, and Marla Holt were on the NOAA Research boat yet again today with <b>K and J pod</b> orcas. Candi called at <b>12:45 pm</b> to report they were with several orcas off <b>Apple Cove Pt</b>, heading north toward Point No Point. Brad Hanson called at the end of the day, they had continued north with J &amp; K pods and left them at 3:40 north of Bush Pt, spread out heading north riding the ebb tide out. They had been successful in collecting more fecal samples again today. 
+<br/>*<br/>
+Susan headed out to find the <b>orcas </b>this morning from land and Howard and the Heins headed out in a boat hoping to get some ID photos. At <b>10 am</b> Susan saw spouts north of <b>Pt. No Point</b>, on the other side of the channel - not sure of direction, but possibly south. At 10:20 am they were off Point No Pt, milling, southbound. Lost sight of them off SW Whidbey in the haze and sun glare. At 10:45 am Howard &amp; the Heins saw blows off <b>Foulweather Bluff</b>, but then lost the whales in the glare. Susan met Dan Kramer on the beach, and he reported seeing 2 orcas off Bush Pt. around noon, heading south, but he lost sight of them, and Susan continued to look for another hour or so for the whales north &amp; south with no luck.
+<br/>Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island 
+<br/>*<br/>
+While looking for the orcas, Susan found the following <b>Harbor porpoise</b>: 9:35 am at Bush Pt. - 2-4. 11 am: 4-6 off Point no Point heading north. Noon - 2-4 porpoise off Mutiny Bay
+12:24 pm Mom &amp; calf porpoise south of Bush Pt, heading north. 1 pm: 6-8 porpoise off Bush Pt. heading N. 
+<br/>*<br/>
+<b>9:19 am</b>: [<b>Orcas</b>] going South at <b>Bush Pt</b>. in the last few minutes.
+<br/>Ron Bates, MMRG, Victoria B.C.
+<br/>*<br/>
+<b>9:09 am</b>: the <b>orcas </b>seem to be pretty spread out and at this time possibly turning back towards the south - earlier between the channel marker and the buoy off of <b>SW whidbey</b> - now heading back towards Pt no Pt.
+<br/>Heather Hoins, Hansville
+<br/>*<br/>
+Christina Baldwin called at <b>9 am</b> to report <b>orcas </b>between <b>Mutiny Bay and Bush Pt</b>, milling.
+<br/>*<br/>
+Erick Peirson reported <b>orca </b>spouts observed N. of <b>Point No Point</b> at <b>8:15 am</b> this morning. At 8:24 am they were spread out northbound almost abeam Mutiny Bay. By 10:10 they were N. of Point No Point, milling in the flood tide, with a slight southerly direction. 10:35 am they turned southbound at 3 knots. 
+<br/>*<br/>
+Some <b>Transient orcas</b> had been sighted off the <b>Victoria</b> waterfront. Off we zoomed. I called Goldwing on the VHF as we got close, about 5 miles south of Trial Island, (<b>3:15</b>) and were told that one of the Orcas had a gray dorsal fin. Gray fin? It was the whole Orca that was gray and white, not just the fin. It's a calf and one of the <b>T11s</b>. In over twenty years of viewing Orcas in this area, I've never seen a gray Orca. I was flabbergasted! Here are some pictures of the calf. (All of the pictures have been cropped.) I think Ken Balcomb also got some shots.
+<br/>Capt. Jim Maya, Maya's Westside Charters, San Juan Island 
+<br/>*<br/>
+Tom Wiggin called to report a <b>gray whale</b> 500 yards west of Fox Pt, on the East end of <b>Fox Island</b>, S. Puget Sound from sunrise to <b>8 or 9 am</b> this morning, then heading north through Hales Pass. Then he sent this update and photos which have been forwarded to Cascadia Research for ID: This morning just after sunrise I heard a gray whale blow very close in front of the house. The whale appeared to be feeding in approximately 30 feet of water in the same area in the flood tide for about an hour, then departed northwest through Hale Passage. Our neighborhood really enjoyed watching nature's treat - fabulous. Thanks for your work, which must be a joy. Warm regards,
+<br/>Tom and Noni Wiggin, Fox Island, Puget Sound
+<br/><br/>
+<b>December 9, 2009</b>
+<br/><br/>
+Methinks I have <b>J-8</b> in one shot. Also wanted to pass on one other interesting thing we saw today that was new for me - had a group of about 5 whales that made a stragglers pass at Point Robinson (<b>Maury/Vashon Islands</b>) - lucky for us, even closer than the first gang. They were doing quite a bit of rolling frolic - and yes, I did see my first "sea snake" - wow that thing is PINK!!! What was odd, is that one of the whales surfaced once or twice with a <b>dorsal totally curled over</b> and around to the point that it looked like a upside down "U". I have never seen that before and wanted to see if you had etc.
+<br/>Amy Carey, Vashon Island 
+<br/>*<br/>
+Amy Carey was tracking the So. Resident orcas while in Puget Sound today, calling in the following reports:
+<b>10:55 am</b>: the orcas were crossing the <b>Vashon ferry lanes</b>, spread out and heading south at a good clip.
+<b>11:48 am</b>: the orcas were off <b>Dilworth</b>, NE Vashon Island, moving slowly south. Someone relayed a report to her that there were still orcas south of the North end Vashon ferry at 11:40.
+<b>12:30 pm</b>: a late group passed <b>Dilworth </b>at 12:30 pm, heading south.
+<b>2:04 pm</b>: the orcas were rounding <b>Pt. Robinson</b>, Maury Island, heading south. 
+<b>3:30 pm</b>: Orcas were at <b>Gold Beach</b>, Maury Island, heading south.
+<br/>*<br/>
+Brad Hanson, Scott Veirs, and Marla Holt were on the NOAA Research boat again with the So. Resident orcas. Brad called at <b>12:17 pm</b> to report they were with a dozen orcas off <b>Dilworth</b>, Vashon Island, heading south. Scott Veirs reported at <b>4 pm</b>, that they were with <b>J &amp; K pods</b>, traveling west across the mouth of Quartermaster Harbor after moving slowly down Sound spread out and blowing bubbles.
+<br/>*<br/>
+Jeff Hogan called at <b>10:40 am</b> to report <b>J pod</b> + off Alki, heading south. He saw J1 &amp; what looked like J27, plus more adult male fins. They were foraging, and nearing the <b>Vashon ferry lanes</b>. 
+<br/>*<br/>
+Three male <b>orcas</b>, two females between West Seattle and Blake Island at <b>10:20</b> heading south. They're stretched from about 1/2 mile off W. Seattle to about 1 mile + out. More blows and splashes about halfway between Lincoln Park (W Seattle) and Vashon Ferry Dock at 10:32. 
+<br/>Peter Tutak, West Seattle
+<br/>*<br/>
+Just watched several <b>orcas </b>- at least four - pass by <b>Alki Point</b> heading south. They were closer to the east side.
+<br/>Gary Jones 
+<br/>*<br/>
+I called to report a pod of 7-8 <b>Orca </b>heading south past<b> Alki point</b> this morning around <b>9:30</b>. They were feeding and then moved quite quickly South and by the time I got in my car, they were already down near the Fauntleroy ferry. I managed only to get 2 shots - here is one dorsal at Alki (see above), the other looked to be a large male but was VERY far away by the time I got it so no ID.
+<br/>Zibby Wilder
+<br/>*<br/>
+Orca Network received a report of 3-4 <b>orcas </b>outside Eagle Harbor, <b>Bainbridge Island</b>, seen by Janet Moring from the <b>8:45 am</b> ferry. They were milling, and appeared to be heading slowly north.
+<br/>*<br/>
+My 10-year-old daughter was on a field trip to Seattle this a.m. (she was on the <b>8:45 ferry</b> out of Winslow) where she reports orcas were seen, not far out of <b>Eagle Harbor</b>. She said the ferry captain pointed them out. She has seen orcas before and says the dorsal fins were very obvious. She says there were several orcas, including a young one (I'm not sure how she differentiated). Anyway, did not see mention of this on your site, and hoped that the ferry workers might confirm this sighting. 
+<br/>Victoria Irwin 
+<br/><br/>
+<b>December 8, 2009</b>
+<br/><br/>
+<b>J1 </b>and gang at Possession Pt, <b>SW Whidbey Island</b> at <b>4:10 pm</b>, heading north toward Mukilteo.
+<br/>Scott Veirs, Beam Reach/OrcaSound
+<br/>*<br/>
+After receiving the report from WA State Ferries of orcas off Edmonds at <b>9:45 am</b> heading north (the exact same report as yesterday!), and calls detected early &amp; mid-morning on the Port Townsend Marine Science Ctr. hydrophones, we set out for another day of seeking whales from viewpoints on the west side of Whidbey. We again had our first sighting of blows from Double Bluff, SW Whidbey - the whales were way on the other side again, first sighted at <b>1:57 pm</b>, off <b>Point No Point</b>, N. Kitsap Peninsula. We watched as the spouts progressed NW, and left at 2:15 pm when the spouts were north of Point No Point. We headed north, but discovered there were no spouts just north of Pt. No Point as we had expected. But we did see spouts from ~6 whales at Foulweather Bluff at 2:40 pm. We watched until <b>3:15 pm</b> - the spouts off <b>Foulweather Bluff</b> continued, the whales were possibly moving south, but direction couldn't be determined for certain. The whales further south never came back into view.
+<br/>Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island 
+<br/>*<br/>
+Brad Hanson, Scott Veirs, and Marla Holt were on the NOAA Research boat with <b>J and K pod</b> SE of <b>Point No Point</b>, between N. Kitsap and SW Whidbey Island at <b>2:45 pm</b>. They had traveled with the whales north to just past Pt. No Point, then at 2:15 pm the whales turned and headed SE toward Possession Bar. They were in several groups of 12-15 orcas each, and one group had come down from the NW to join these groups - so possibly the spouts we were watching off Foulweather were some trailers from that pod? Scott's report (see above) indicates they were moving N up Possession Sound by the end of the day - who knows where they will show up tomorrow - could be Saratoga Passage, Edmonds, Whidbey, Seattle?? The researchers were able to obtain several fecal and fish scale samples today from both pods. 
+<br/>*<br/>
+About 8 <b>orcas </b>sighted, I estimate there were more unseen, off <b>Pilot Point</b>, across the Sound from Edmonds, WA - Approximately N47 52.7 W122 30.7. They were traveling north at <b>2 pm</b>. Some males were seen further from shore. Too far away to see any identification marks. 
+<br/>Al Gunther
+<br/>*<br/>
+Mary Ann Fuller called Orca Network to report <b>orcas </b>between Eglon and <b>Pt. No Point </b>on N. Kitsap Peninsula at <b>1:20 pm</b>, with a boat traveling with them (the NOAA research boat). 
+<br/>*<br/>
+Just off of Eglon Port and between <b>Cultus Bay and Useless Bay</b> pretty much in the middle of the Sound there are so many <b>orcas</b>, I can't count. I have been watching them from <b>1:00 - 1:45 PM</b>.
+<br/>(jab) Joni Bayler
+<br/>*<br/>
+George Rebman called Orca Network at <b>12:10 pm</b>, to report <b>orcas </b>in groups of 2 and 3 at <b>Apple Tree Pt</b>, N. Kitsap Peninsula, foraging and generally heading north. There were several calves and adult males with the pod. 
+<br/>*<br/>
+In Puget Sound between <b>apple tree cove</b> (Kingston) and <b>Whidbey Island</b>, there were 6-8 individuals seen close to Ferry as they traveled up the sound between Whidbey and Kitsap. We saw them at about <b>11:30am</b>. Too far away for us to distinguish any details. They appeared to be traveling and not playing or feeding.
+<br/>Anna Mays
+<br/>*<br/>
+The Edmonds/Kingston ferry captain saw the pod of a dozen <b>orcas </b>today at the same location, time, and direction as yesterday (Pt. Wells, S. of Edmonds, <b>9:45 am</b> heading north).
+<br/>Sheila Helgath, PhD, WSF Environmental Program Manager 
+<br/>*<br/>
+I heard faint <b>whistles </b>around <b>9:20</b> PST on the <b>Port Townsend hydrophones</b>, they lasted until approximately 9:29 PST.
+<br/>Shari
+<br/>*<br/>
+One of our research associates called in a sighting of about <b>10 killer whales</b> off <b>Kingston </b>this <b>morning</b>. 
+<br/>Erin A. Falcone, Biologist Cascadia Research, Olympia
+<br/>*<br/>
+OrcaSound's automatic detections picked up the following <b>orca calls</b> early this morning from the <b>Pt. Townsend hydrophones</b>:
+<b>3:59 am</b> clear S2 calls; <b>4:22 am</b> 3+ faint S2 calls. 
+<br/>Scott Veirs, Beam Reach/OrcaSound 
+<br/><br/>
+<b>December 7, 2009</b>
+<br/><br/>
+At about <b>3:30 pm</b> I watched 2 large male <b>killer whales</b> (U38 and U39) from Dallas Rd in <b>Victoria</b>. I saw them pass in front of the Canadian Navy ship which makes for a nice photo. Then saw "Mallard" CWR / DFO on scene documenting the two transients (see photos and report in our Dec. 7 Whale Report). I noticed the animals went down on a very long dive because I didn't see anything after a while. My guess is they were in predation mode as the research boat remained on scene and attentive. After getting a coffee to warm up my freezing hands, I changed my location and returned to find the animals and the research boat further away towards the Metchosin shoreline.
+<br/>Chantelle Tucker, Victoria, B.C. 
+<br/>*<br/>
+<b>5:48 pm</b> - <b>K pod calls</b> were heard on the <b>Pt. Townsend Hydrophones</b>, with some vessel noise.
+<br/>OrcaSound.net 
+<br/>*<br/>
+After receiving a call that <b>orcas </b>were heading north into <b>Admiralty Inlet</b>, we set out for the west side of Whidbey to try to find the whales from land. We found them at <b>12:55 pm</b> from Double Bluff, SW Whidbey - we were able to see spouts south of <b>Pt. No Point</b>, N. Kitsap Peninsula, heading north. 12+ blows were counted in one area at the same time, though more whales were likely present. By 1 pm they were off the Pt. No Point Lighthouse. We traveled to N. Mutiny Bay for a better viewpoint, and watched them from 1:30 pm, heading north past Skunk Bay/Hansville, the leaders reaching Foulweather Bluff at around 2:10 pm. We went up to Bush Pt, at 2:40 the whales were south of S. Marrowstone Island, heading north, as a Navy sub and escorts passed by going south. By <b>3:40 pm</b> they were off <b>Ft. Flagler</b>, continuing north. We went to Lagoon Pt, finding the whales at 3:53 pm directly off Lagoon Pt, and a bit closer to the Whidbey side, with a few direction changes and foraging. They were off the Ft. Flagler Lighthouse by 4:08 pm, spread out across the channel. We left at <b>4:20 pm</b> as they continued north.
+<br/>Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island 
+<br/>*<br/>
+<b>1443</b>: Whales in the center, just west of channel between SE <b>Marrowstone Island and Bush Point</b> on SW Whidbey Island (48 00.31N, 122 37.23W). Headed north at a good clip, playing chicken with a sub. They were just getting up toward Marrowstone Point when we left them, around <b>1645</b>, still northbound around 5 knots. They became much less vocal by the end of the second deployment.
+<br/>Erick Peirson, Pt. Townsend 
+<br/>*<br/>
+I am just piecing together what I saw today in <b>Admiralty Inlet</b> from the boat on the AIKWS survey (Erick &amp; Heather are helping with collecting data on orcas for the Snohomish PUD Admiralty Tidal project. They are deploying vertical hydrophone arrays to gather data on the whales' behavior while in the study area. Orca Network is helping with land response and observations). I can confidently ID <b>K11's</b> family: K11, K13, K25, K27, K34, K20, K38, K K34, K27. K25 was seen swimming with L87, who is often seen with the K11's. We saw these whales numerous times and recorded them twice. From my vantage point I could not see any other groups of whales, so not sure if the rest of K's were there and/or Jpod.
+<br/>Heather Harding, Chimacum 
+<br/>*<br/>
+We sighted a small pod of <b>orcas </b>traveling north at <b>4:15 pm</b>. We live at the northernmost end of <b>Lagoon Point</b>. Looked like a couple males and some smaller whales.
+<br/>Karen Edelblute, Greenbank, Whidbey Island
+<br/>*<br/>
+I am on <b>marrowstone island</b> between lip lip and Kinney Point - It is really clear today so I can see pretty far south - saw two big leaps and a few breathing spouts about <b>2:15 pm</b> just this side of what I think is pt no pt (little white house on the spit) - kept looking to confirm - now they are moving ne this side of the shipping lane buoy marker towards whidbey. 
+<b>2:41 pm:</b> Big male dorsal fin - moving north again just south of what i think is double bluff - if that little red boat is you guys - you're heading right into them. 
+3 pm: moving fast - now right off of lip lip - just went head to head with a nuclear submarine - 2 family groupings in the fore - big male farther back - red boat must be you -
+<br/>Heather Hoins, Marrowstone Island
+<br/>*<br/>
+Christina Baldwin called at <b>3 pm</b> to report <b>orcas </b>south of <b>Bush Pt</b>, Whidbey Island, heading north, near a Navy submarine. They saw several male fins and a lot of blows. 
+<br/>*<br/>
+Was at the offleash dog park in <b>Edmonds</b>, Washington today around<b> 3pm</b>. Lady leaving the park said there was a pod of <b>orcas </b>"right off the point", so I ran to see if I could catch them. By the time I got my camera out of my pocket and got my gloves off, they were futher out. I could see the spouts, but I could not make out the dorsal's. I also could not make out how many; What I COULD make out though, was the spouts and it looked like a line of white caps moving on down the sound. This was about a mile and a half down from the Edmonds ferry dock, pod was headed south, at 3pm.
+<br/>Amber
+<br/>*<br/>
+The Captain of the Kingston Ferry reported seeing a pod of a dozen <b>orcas </b>heading North Bound off of <b>Point Wells</b> (south of Edmonds) at <b>9:45 AM</b>.
+<br/>Sheila Helgath, PhD, WSF Environmental Program Manager 
+<br/>*<br/>
+<b>U38 and U39</b> were back off of <b>Victoria </b>today hunting seals. 
+<br/>Mark Malleson, Centre for Whale Research 
+<br/>*<br/>
+Had <b>Transiets U38 and U39</b> Off <b>Victoria </b>this <b>afternoon</b>, I thought I had at least 1-2 females as well but boat on scene and other spotters only had 2.
+<br/>Ron Bates, MMRG, Victoria, B.C. 
+<br/><br/>
+<b>December 6, 2009</b>
+<br/><br/>
+There were reports of a <b>grey whale</b> in crescent bay off salt creek recreation area (near <b>Pt. Angeles</b>) over the weekend.
+<br/>Rob Casey, Seattle 
+<br/>*<br/>
+Joy and I saw, what looked like <b>orcas </b>off the bluff near <b>Bush Point</b> (SW Whidbey Isl) on Sunday. Several were heading south.
+<br/>Craig Johnson, Freeland
+<br/>*<br/> 
+After receiving a call about <b>orcas </b>heading past <b>Pt. Wilson</b> into Admiralty Inlet, we headed to Ft. Casey State Park, arriving at <b>3:05 pm</b> to see blows mid-far channel, between Ft. Worden &amp; the Pt. Townsend mill smokestack, heading SE. We watched until approx. <b>4 pm</b>, as the orcas moved very fast, with some porpoising and splashing over by Ft. Flagler, toward Lagoon Pt, Whidbey Island. The whales were too distant for IDs, so we headed south to Lagoon Pt, where we arrived at 4:30 pm, just as the last 4 - 5 orcas were heading past, still heading south, closer to the Whidbey side. We watched until <b>4:50 pm</b>, as the light and whales were fading away. Luckily, the whales were IDd as K pod, by the calls heard from the Pt.Townsend hydrophones.
+<br/>Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island 
+<br/>*<br/> 
+Received a call from Bob Davis, of S. <b>Admirals Cove</b>, Whidbey Island - watching 2-3 <b>orcas </b>spouting and splashing mid-way between Admiral's Cove and Marrowstone Island, at around <b>3:15 pm</b>. 
+<br/>*<br/>
+Looking from <b>Ft. Worden</b>, approx. 7 <b>orcas </b>spread out headed past lagoon Pt., Whidbey Island at<b> 3:45 pm</b>.
+<br/>Chrissy McClean, Pt. Townsend Marine Science Center 
+<br/>*<br/>
+<b>1512</b>: Hearing S16 (<b>orca</b>) calls on <b>Port Townsend hydrophones</b> after heads up from Orca Network of Killer Whales near Pt. Wilson and audible on hydrophones.
+<br/>Scott Veirs, Beam Reach/OrcaSound, Seattle 
+<br/>*<br/>
+Received a call from Donna Sandstrom at about <b>2:45 pm</b>, reporting watching <b>orcas </b>from the <b>Pt. Townsend</b> Marine Science Center, about mid-channel. 
+<br/>*<br/>
+Orca Network received a call form Bob Whitney of Pt. Townsend at <b>2:30 pm</b>, reporting <b>orcas </b>between Pt. Wilson &amp; <b>Admiralty Head</b>, heading SE into Admiralty Inlet. We also just now (2:35 pm) began hearing calls on the <b>Pt. Townsend Hydrophones</b>.
+<br/>*<br/>
+We saw the <b>gray </b>from the <b>Bremerton </b>waterfront this morning around <b>12 noon</b>. It was right in front of the boat shed restaurant under the Manette bridge and seemed to be feeding. It was gray with a very dark fluke. 
+<br/>Sully and Rip 
+<br/><br/>
+<b>December 5, 2009</b>
+<br/><br/>
+Took these images of the <b>Gray whale</b> that is hanging out near Manette and the Turner Joy (<b>Bremerton </b>Naval shipyard &amp; museum). Whale was on a regular schedule for the hour I observed it - surfacing every two minutes (+/-), usually an exhale, short underwater, then rising again and making the pre-dive move. Unusual head shape - and looked encrusted so it is virtually white. Left tail fluke has an unusual pattern on the top - seems also to have a significant white spot on the trailing edge. Whale was a fair distance off and shot with a Nikon 70- 200 mm. Have more images, but I think this is just a Gray that likes something about the little area that the whale has been staying.
+<br/>Robert Dashiell, Bainbridge Island 
+<br/>*<br/>
+At approx. <b>3 pm</b> we observed a large pod (many spouts over a mile wide area) of <b>orcas </b>from the lookout on the Fragrance Lake trail in Larrabee State Park. I saw one dorsal fin with my binoculars, which i suppose was a male. The spray from their exhalations was held aloft by the strong north winds which ade it easy to spot them from so many miles away. the pod was moving south between <b>Lummi Island</b>, Sinclair Island and Barnes? Island. 
+<br/>Michael Chiavario
+<br/>*<br/>
+There were reports of a <b>grey whale</b> in <b>crescent bay</b> off salt creek recreation area (near <b>Pt. Angeles</b>) over the weekend. We were surfing there.
+<br/>Rob Casey, Seattle 
+<br/>*<br/>
+<b>7:56 pm PST</b>: I'm hearing faint S16 <b>calls and whistles</b> (K Pod?) on the <b>Port Townsend Hydrophone</b>; they've come and gone over the last 15-20 minutes. 8:23 pm PST: Over the last half hour I've heard K pod /S16 calls, and they had gotten louder, though now are very faint. I checked the Limekiln HP to see if they'd moved up towards it, but no luck. This is around the same time I heard them last night; I wonder if they only stuck around there all day? (read reports below to see where they spent the day!) 
+<br/>Kristna Polk, Ohio
+<br/>*<br/>
+<b>1937 </b>- just started hearing <b>calls </b>on the <b>Port Townsend hydrophones</b>. 
+<br/>Jeanne Hyde, San Juan Island
+<br/>*<br/>
+Alerted by the emails about So Resident orca calls at Port Townsend, my wife and I bundled up and went down to the pier (at Pt. Townsend Marine Science Center) to listen to the speakers. We could hear the calls clearly but our bright spotlight did not reveal any black fins in the black water and black night.
+<br/>Eric McRae, Pt. Townsend 
+<br/>*<br/>
+Thanks for taking my call this afternoon from Shore Medows Rd (<b>Mutiny Bay, SW Whidbey Island</b>). Sandra and I were headed to Bush Pt to see if there was enough beach to go for a walk. Sandra sugggested a stop by Shoremeadows Rd for a quick scan. She sat in the car while I walked to the end of the road. All I saw was a tug and barge headed north so I came back to the car. Sandra had the binocs and was excited to see <b>whales</b>. We headed back to the end of the road where we watched them and called you. After speaking with you (<b>3:48 pm</b>) we watched until it was too dark, about an hour. They were between Hansville and the entrance to Hood canal moving north. We wanted to see if they were headed into the canal but it got dark before we could tell. We saw as many as 6 fins at one time so I would gestimate there were about a dozen out there. But then that was 4 or 5 miles away so we probably missed a few. Sandra saw some breaching and they appeared to be in traveling mode.
+<br/>Dick and Sandra Snowberger, Freeland, Whidbey Island
+<br/>*<br/>
+Jennifer Hagerman called to report seeing the orcas off <b>Mutiny Bay, SW Whidbey Island</b> at <b>1 pm</b>, heading south, and again at 4 pm, heading north. At 4 pm they were not yet quite to the entrance to Hood Canal. 
+<br/>*<br/>
+After getting the reports below of Orcas heading into Admiralty Inlet, we launched a land and boat response. Howard, &amp; Jill &amp; Clarence Hein headed up to launch from Keystone, Erick Peirson launched from Port Townsend, and Susan did a land response and found the <b>orcas </b>at approximately <b>11:35 am</b>, between the south end of Marrowstone Island and the entrance to Hood Canal, heading north. Several adult males were seen, but they were too far out to ID the pod. At 11:50 am, we had a report of orcas off Keystone as well, but we were never able to find and confirm those whales. Just after the orcas down south reached the SE side of Marrowstone, at around <b>12:25 pm</b>, they turned and headed back south. At 12:40 pm Howard and the Heins were with the orcas off the entrance to Hood Canal, still heading south. They traveled with them and took ID photos until 2 pm, when they left them just north of Double Bluff, SW Whidbey Island, still southbound.
+<br/>Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island 
+<br/>*<br/>
+Karen Mellison of Windmill Dr, just south of Bush Pt, SW Whidbey Island called at <b>1 pm</b> to report seeing the <b>orcas </b>milling off <b>Mutiny Bay</b>, possibly heading south slowly.
+<br/>*<br/>
+Heather Harding spotted the <b>orcas </b>from <b>SE Marrowstone Island</b> at <b>11:04 am</b>, south of Marrowstone heading up the west side of the channel. 
+<br/>*<br/>
+Luann Fortin of Hansville called at <b>10:07 am</b> to report <b>orcas </b>halfway between Norwegian Pt (near <b>Hansville</b>, N. Kitsap Peninsula) and Useless Bay, SW Whidbey Island heading north toward Double Bluff. 2 adult males and several females were observed. 
+<br/>*<br/>
+Patty Michak called at <b>9:45 am</b> to report 2 groups of <b>orcas</b>, one group of 4, one group of 7, heading north past <b>Point No Point</b>, N. Kitsap Peninsula.
+<br/><br/>
+<b>December 4, 2009</b>
+<br/><br/>
+At <b>1536 </b>many [<b>orcas</b>] reported going East from <b>Sooke </b>(S. Vancouver Island).
+<br/>Ron Bates, MMRG, Victoria B.C. 
+<br/>*<br/>
+Turned on the OrcaSound <b>Port Townsend hydrohones </b>around <b>6 pm</b>, and listened to <b>calls </b>until around <b>7:35 pm</b>. Southern Resident orcas (Js, Ks &amp; some Ls?) heading back into Puget Sound? And passing by Whidbey in the dark - again!!
+<br/>Howard Garrett, Orca Network, Whidbey Island 
+<br/>*<br/>
+I'm hearing whales on the Port Townsend hydrophone; it's <b>6:15 pm</b> PST, and I've heard them since <b>6 pm PST</b>. (When I turned the stream on.) They're a bit hard to hear with all the underwater noise, but I'm hearing "wheeeee--ooh. wheeeee-ooh." whistles, and lots of them. Also those at a higher octave. Lots of boat noise, but definitely whales!!
+<br/>Kristina Polk 
+<br/>*<br/>
+<b>1733 </b>- clear <b>calls </b>now on the <b>Pt. Townsend Hydrophones</b>.
+<br/>Jeanne Hyde, San Juan Island
+<br/>*<br/>
+<b>Ks </b>(&amp; some Ls?) were down by the Oddass Buoy, west of Hein Bank, and about <b>12 miles SE of Victoria</b>, but the seas got too big and we bailed. A spotter with big glass saw some breaches and porpoising but he lost them 15 minutes before we got there.
+<br/>Capt. Jim Maya, Maya's Charters, San Juan Island 
+<br/>*<br/>
+Jeff Hogan of Killer Whale Tales called at <b>10:10 am</b> to report he was hearing <b>J pod calls</b> on the L<b>ime Kiln</b>, San Juan Island hydrophone.
+<br/>*<br/>
+It was Giles, and she said "LOOK OUT YOUR WINDOW!" And lo and behold- <b>J Pod</b>!!!! The only whale I saw was <b>J1</b>, as the whales were spread 3-4 miles from shore past the midpoint of Haro Strait. They were heading southerly, at around <b>9 am</b>.
+<br/>John Boyd (JB), San Juan Island
+<br/>*<br/>
+Just saw at least <b>6 orca</b> in <b>Haro Strait</b> near Low Island at <b>8:15 am</b>. There were two males for sure. They were spread out and traveling steadily. There could have have been more. I'm listening to them on the lime kiln hydrophone right now (8:40 am).
+<br/>Alan Niles
+<br/>*<br/>
+<b>Calls and clicks</b> on <b>Lime Kiln</b> and Orca Sound (NW San Juan Island) hydrophones now (<b>8:20 am</b>) thanks to Jeanne/Laura/Cathy. I've only been hearing S1s for last 10 mins though, so there's some chance it's J pod and K/L are still down- sound.
+Jeanne sees them a "couple miles" off Lime Kiln as of <b>0810</b>, probably heading southward. She thinks she may have heard some L pod calls earlier and maybe there are two groups on west side??
+<br/>Scott Veirs, Beam Reach/OrcaSound, Seattle 
+<br/>*<br/>
+<b>7:35 am</b> - <b>Lime Kiln</b>, San Juan Island, calls still being heard, getting louder, and hearing multiple calls amongst ship noise. 
+<br/>Cathy Bacon
+<br/>*<br/>
+<b>6:44 am</b> - faint <b>calls </b>being heard on <b>Lime Kiln Hydrophone</b>.
+6:53 am - residents I believe - getting louder though still in distance.
+<br/>Jeanne Hyde, San Juan Island
+<br/>*<br/>
+OrcaSound's (hydrophones on NW San Juan Island) automatic detection picked up its first <b>orca call</b> just before <b>5 am</b>.
+<br/>Val Veirs, San Juan Island 
+<br/>*<br/>
+Mary Eldred of Bremerton called again today to report the <b>Gray whale</b> that has been reported near Manette and the <b>Bremerton </b>Naval Museum/Turner Joy ship. She had seen it again at about <b>4:40 pm</b>, but this time said she thought it had a small dorsal fin and long pec flippers - and looked darker and larger than a Gray whale - with a tail possibly like a humpback?
+<br/><br/>
+<b>December 3, 2009</b>
+<br/><br/>
+We saw <b>two transient killer whales</b>, one male and one female or juvenile male slow traveling East-South- East at <b>4:10pm</b> past the Land Bank's Westside Preserve on <b>San Juan Island</b> this afternoon. We saw two breath intervals then had to leave before they came back up after a long dive. Beautiful, flat calm water!!!
+<br/>Giles, San Juan Island 
+<br/>*<br/>
+Brad Hanson of NOAA Fisheries NWFSC, called to report they had located the <b>orcas </b>(members of <b>K &amp; L pods</b>) reported earlier in the day (see below) at <b>12:55 pm</b>, south of <b>Scatchet Head</b>, SW Whidbey Island, milling. At <b>2:23 pm</b>, he called to say they were still south of Pt. No Point, N. Kitsap Peninsula, and north of the Edmonds/Kingston ferry lane, still milling and foraging, and gradually gravitating southward. By <b>4 pm</b>, the whales had begun moving back <b>NW</b>. He was with the trailing end of the group, including K11 and one of the males, south of Point No Point, while the rest of the whales were further North. 
+<br/>*<br/>
+Orca Network received a call from Patty Michak at <b>8:20 am</b>, reporting <b>orcas </b>off <b>Point No Point</b> (N. Kitsap Peninsula) heading south toward Edmonds/Kingston &amp; Puget Sound. She saw 3 - 4 orcas, including 1 male. It is possible there are more out there, spread out - and possible it could be the Southern Residents that were off Victoria yesterday. <i>Update</i>: Patty emailed us several photos which we sent to the Center for Whale Research. Dave Ellifrit responded that he believed the whales were maybe <b>K20 and K25</b>, confirming our suspicion these were the Southern Residents reported off Victoria yesterday.
+<br/>*<br/>
+Elizabeth Wheeler of Bremerto called at <b>9:35 am</b> to report a <b>Gray whale</b> heading SE out of Dyes Inlet, under the Manette Bridge, headng for Mannette.
+<br/>*<br/>
+Orca Network received a call from Steve Lennon of <b>Bremerton </b>to report the <b>Gray whale</b> was in the same place at <b>1:45 pm</b>, between the Boat Shed Restaurant and the Turner Joy ship. 
+<br/>*<br/>
+Orca Network received a call from Mary London Eldred of <b>Bremerton</b>, reporting a <b>Gray whale</b> feeding between the Manette Bridge and the Turner Joy Navy ship and WA State Ferry dock at <b>10:15 am</b>. 
+<br/>*<br/>
+Orca Network received a call from Joanne Jenks, reporting a <b>Gray whale</b> off the Turner Joy and <b>Bremerton </b>Naval Shipyard &amp; Museum at <b>10 am</b>. 
+<br/><br/>
+<b>December 2, 2009</b>
+<br/><br/>
+At <b>16:51</b> I captured a photo off of <b>Clover point</b>. Group of orcas about 2 miles a beem of me, heading eastbound in Juan de Fuca Strait. Got word that animals were inbound. I was not able to see them clearly enough to identify who they were. I lost them as they continued east.
+<br/>Maria Chantelle Tucker, <b>Victoria </b>B.C. 
+<br/>*<br/>
+Encounter began very shortly after departure (cheers Crows Nest!). Approximately 1.5 miles southwest of VH buoy (<b>Victoria </b>Waterfront) our <b>1300h </b>whale watch departure aboard MV EagleWing came across <b>10-12 Resident orca</b>. Behaviour appeared to be "slow forage" with some logging displayed by one of the larger bulls. Reports of more KW's east of our location (Trial Island-Seabird Pt.) were not confirmed by our exploration in that area. KW's we did encounter proved to be a mix of Lpod and Kpod with positive ID's of <b>L88 and K40</b> traveling together and <b>K22</b>. A beautiful day to be out on the water.
+<br/>Chris Zylstra &amp; Ly Ngo, Eagle Wing Tours, Victoria BC 
+<br/>Dave Ellifrit of the Center for Whale Research confirmed these IDs from the photos sent in by Ly:
+<b>K33, K36, K40, L88</b> are in the first batch of pics. I'll wait to see more photos but it wouldn't surprise me if it was just the K's and L2's. 
+<br/>*<br/>
+Orca Network received a call from Steve Lennon of Bremerton reporting a <b>Gray whale</b> sighted at <b>12:30 pm</b> heading into <b>Dyes Inlet</b>, between the Boat Shed Restaurant and the Navy ship Turner Joy. 
+<br/>*<br/>
+Orca Network received a call from Mary London Eldred of <b>Bremerton</b>, reporting a <b>Gray whale</b> feeding between the Manette Bridge and the Turner Joy Navy ship and WA State Ferry dock.
+<br/>*<br/>
+Orca Network received a call from Joanne Jenks, reporting a <b>Gray whale</b> off the Turner Joy and <b>Bremerton </b>Naval Shipyard &amp; Museum at <b>10 am</b>. 
+<br/><br/>
+<b>December 1, 2009</b>
+<br/><br/>
+Island Packers skipper Anthony Lombardi spotted <b>killer whales</b> surfing off Potato Harbor, <b>Santa Cruz Island</b> (also reported by Michele Wassell).
+<br/>Alisa Schulman-Janiger, California Killer Whale Project 
+<br/>*<br/>
+Around <b>1500-1530</b>, while I was at American camp, San Juan Island walking the dog, I saw <b>4-6 orcas</b> waaay out there on the line from Eagle Pt. to Seabird Pt. on Discovery Island. The whales were probably several miles southeast of Seabird pt. and appeared to be moving west and were too far for any i.d.'s but the group size suggests transients. 
+<br/>Dave Ellifrit, Center for Whale Research, San Juan Island 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/><br/>
+<a name="map"></a>
+<center><b>Clip Map to enlarge</b></center>
+<br/>
+<center><a class="lytebox" data-lyte-options="autoResize:false" data-title="Sightings Satalite Map from December 2009" href="Images/Sightings/satmap120109.jpg"><img alt="Orca Network's Sighting Network Map" border="2" height="616" src="Images/Sightings/satmap120109.jpg" valign="TOP" width="392"/></a><br/>
+
+Map © 2009 used with permission by<br/><a href="http://www.adsat.com/">Advanced Satellite Productions, Inc.</a></center>
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+

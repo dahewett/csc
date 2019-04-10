@@ -1,0 +1,630 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Mar 04</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Mar 04								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>March 2004 Whale Sightings</center></h3>
+<b>March 31, 2004</b>
+<br/><br/>
+<b>5:30 p.m</b>.  I was leaving on the Clinton ferry going back to Seattle and got to see one from a distance.
+<br/>Suzanne Curry  
+<b>3:00 pm</b> one gray whale spotted swimming to the west by the boat ramp at Camano Island State Park. It was fairly close along the Camano shoreline. It didn't appear to be feeding. It breached two times in quick succession--maybe 45 seconds apart, then continued to travel west along the shoreline of Camano.  I saw and heard it breach four more times, then lost sight of it, but did hear it one more time. 
+<br/>Alice Blandin
+<br/>*<br/>
+Beginning about <b>1:30p</b> and lasting for a good half hour, two gray whales - one large, one small - were seen feeding off Langley's shores, on the West end of First Street. They started some 2-300 ft off shore, leisurely feeding on their sides, front and aft fins showing prominently. After 15 minutes they slowly worked themselves farther away from shore, turning NORTH.
+<br/>Sharen 
+<br/>*<br/>
+A friend and I saw 2 gray whales about 100 feet or less from the Langley waterfront from about <b>1:30-2:30 p.m</b>. today.  They appeared to be about the same size; we think they were feeding--they would roll around with fins up, cruise a bit and dive then reappear and roll some more.  Gulls were hanging around for left overs probably.
+<br/>Rebecca Sundberg, Langley 
+<br/>*<br/>
+At <b>1:30 p.m.</b> we spotted two grays offshore from Sandy Point (near Langley), heading south. One of the whales was definitely larger than the other, so these may be the mother and calf reported earlier.
+<br/>Marty Loken and Marjiann Moss
+<br/><br/>
+<b>March 30, 2004</b>
+<br/><br/>
+<b>7:30 a.m</b>. We were walking along Brighton beach and saw 3 whales. The best part of this sighting is that it was different because they were so close to land. They were showing their fin this time and making circles around the same area. At one point, it appeared that they were maybe just 100 feet away.  They seemed playful this day.
+<br/>*<br/>
+Mello (?) Landell called to report 2 grays off Columbia Beach, S. Whidbey, at <b>11 am</b>.
+<br/><br/>
+<b>March 29, 2004</b>
+<br/><br/>
+<b>11:30 a.m</b>.  My cousin Greg and I spotted 3 whales in the Saratoga Passage in Clinton, just north of the ferry.  We followed them for probably a half hour up to Possession Point.
+<br/>*<br/>
+<b>6:45 p.m.</b> - we saw double blows off Indian Point on the west side of Whidbey Island. They were quite far out, and we could only see the blows, most often in pairs.
+<br/>Linda Ridder
+<br/>*<br/>
+Spotted one gray spout and dive mid channel between Langley and
+Camano about <b>8:30 AM</b>.
+<br/>Barbara Brock
+<br/>Camano Island
+<br/>*<br/>
+<b>9:15 AM</b>, just spotted the lone Gray again, still mid channel, but he had moved North toward East Point.
+<br/>Barbara Brock
+<br/>*<br/>
+I picked up J's this afternoon at <b>1315</b> 6 miles south of Sooke (fairly close to Crescent Beach - South Vancouver Island). They were very spread out and heading west. I could not find J1 anywhere on the horizon;  however,  I was pressed for time. On my afternoon trip I picked them up on the Canadian side of the Juan de Fuca between 2 and 3 miles south of Otter Point. I left them in big seas still heading west at 1630 approaching Sheringham Pt. I just went through my photos and made a positive ID on J28, J26, J16, J17, and J8.
+<br/>Mark Malleson
+<br/>Victorica BC
+<br/><br/>
+<b>March 28, 2004</b>
+<br/><br/>
+Two gray whales (?) on the Camano Island side of Port Susan, about <b>2:00 pm</b>. They were heading south out of the bay.  Saw one large tail fluke and two spouts.  It took about 5-10 minutes for them to move out of sight without binoculars.
+<br/>Lynn Andrew
+<br/>*<br/>
+<b>6:30 am</b> - Clancy Overturf reported 2 Gray whales off Bells Beach, north of Langley, heading south.
+<br/>*<br/>
+I was out swimming this morning at about <b>7:30am</b> just west of Langley. There were two whales, one large, one small feeding for a while in the sand beds moving toward toward Sandy Point. 
+<br/>Ross Chapin 
+<br/>*<br/>
+<b>7:40a.m</b>, we also spotted the two whales in Saratoga Passage in Langley... Very nice spouts and flukes. Today they were making their way with more haste than in past days, so you had to be quick to see them.  
+<br/>Sharen &amp; Simon
+<br/>Langley
+<br/>*<br/>
+<b>10:40 AM</b> - At least two Grays spotted near the mainland just south of the Mukilteo ferry dock heading south.  Too far out to tell if it were the mom and calf.
+<br/>Cheers....Jim Goodall 
+<br/>*<br/>
+<b>11:30 am</b> - Mike Bennett of Mosquito Fleet reported 2 gray whales between Bells Beach and Langley
+<br/>*<br/>
+<b>Noon</b> - Mike Bennett reported 2 grays at Possession Pt, southbound.
+<br/>*<br/>
+<b>12:50 pm</b> - Mike Bennett reported 2 grays between Everett and Hat Island.
+<br/>*<br/>
+<b>1:20 pm</b> - Mike Bennett reported the 2 grays were just east of Hat Island, northbound.
+<br/>*<br/>
+<b>3:10 pm</b> - Tom McMillen of Salish Sea Charters reported one gray at Scatchet Head &amp; another off Double Bluff, SW Whidbey.
+<br/>*<br/>
+<b>3:45 pm</b> - Tom McMillen said one whale was near the bouy at Double Bluff, heading back toward Useless Bay, the other was ~3 miles west of Scatchet Head.
+<br/>*<br/>
+<b>0645</b> - Two greys slowly cruising by Bells Beach (N. of Langley).  So incredible to hear them again!
+<br/>Peggy Sullivan
+<br/>*<br/>
+David Freed called to report a gray whale near Langley at <b>8 am</b>, heading toward Hat Island.
+<br/>*<br/>
+We were fortunate to have the window open this morning and awoke to the glorious sound of spouting! Two whales- appeared to be a mom and baby- about 100 yards offshore from our deck (in Langley just west of the Inn at Langley). Even saw a bit more of a tail fluke than usual.
+<br/>Judyth Ullman
+<br/><br/>
+<b>March 27, 2004</b>
+<br/><br/>
+<b>2:10 pm</b> - Mike Bennett of Mosquito Fleet called to report 1 gray whale 1/2 mile north of Clinton, S. Whidbey.
+<br*<br>
+<b>2:40 pm:</b> - Kay Swanson called to report 2 gray whales off Clinton, heading south, just passing the ferry lane.
+<br/>*<br/>
+<b>2:45 pm</b> - Tom McMillen of Salish Sea Charters called to report the 2 grays off Possession Pt. were just north of the Possession Pt. Buoy, and heading north up Possession Sound toward Clinton/Mukilteo. Candi Emmons of the Center for Whale Research is on board taking ID photos, and believes this is a Cow/yearling pair. Cascadia Research staff are onboard the Mosquito Fleet boat, so hopefully we'll get ID's on all 4 of these whales!
+<br/>*<br/>
+Mike Bennett of Mosquito Fleet called with a report of 2 grays off Possession Pt, S. Whidbey heading south at <b>11 am</b>. 
+<br/>*<br/>
+Tom McMillen of Salish Sea Charters called at <b>1:30 pm</b>, reporting the 2 grays off S. Whidbey had moved west and were about 1/2 mile off Scatchet Head.
+<br/>*<br/>
+<b>8:50 am</b> we received a call from Mary Pacher, just north of us (N. Greenbank, east side) reporting 2 whales heading south. I sat out on our deck &amp; at <b>9:45</b> could hear them feeding below the bluff at Hidden Beach - they were too close in to see, but I could hear their blows &amp; some splashing around - a great way to start the day! They are moving slowly south -
+<br/>Susan
+<br/><br/>
+<b>March 26, 2004</b>
+<br/><br/>
+Tom McMillen of Salish Sea Charters called at <b>2:50 pm</b> to report one gray whale in Saratoga Passage (same whale they saw yesterday) just north of Mabana on W. Camano Island, heading toward East Pt, Whidbey Island. 
+<br/>*<br/>
+Mike Bennett of Mosquito Fleet called at <b>11:15 am</b> to report one gray whale in Saratoga Passage, near the entrance to Holmes Harbor, milling between Baby Island &amp; the buoy.
+<br/><br/>
+<b>March 25, 2004</b>
+<br/><br/>
+Sharon Heath of Langley called at <b>8:10 am</b> to report one gray whale feeding ~100' off the Langley Waterfront, heading south.
+<br/>*<br/>
+<b>7:45 a.m.</b>: One gray whale heading out from Langley toward Hat Island.
+<br/>Brian Lowey
+<br/>Langley
+<br/>*<br/>
+Tom McMillen of Salish Sea Charters called to report 1 gray whale in Saratoga Passage at <b>2:15 pm</b>, between Mabana (Camano Island) &amp; Langley (Whidbey Island), feeding back &amp; forth mid-channel.
+<br/>*<br/>
+1 Grey this morning travelling South of the <b>0800</b> Hrs ferry out of Clinton in the company of a sailboat.
+<br/>Merv Floyd
+<br/><br/>
+<b>March 24, 2004</b>
+<br/><br/>
+About <b>6:50 pm</b> we spotted 2 gray whales heading east along the north end of Camano Island. We were facing north standing at the Maple Beach boat launch on the north side of Camano when we saw them. It was nearly dark, but seemed to be one larger one smaller (cow and calf?).
+<br/>Joan Schrammeck on Camano
+<br/><br/>
+<b>March 23, 2004</b>
+<br/><br/>
+I spotted a Gray in the distance from the ferry at <b>5:15 p.m</b>.  The whale was traveling north up Possession Sound (between Whidbey/Mukilteo) in the main channel, but closer to Mukilteo. First noticed his tail fluke, and then after a few minutes we were able to see it surface and blow a few times.
+<br/>Jeff Dodd
+<br/>*<br/>
+I picked up T14 near Henry Island today at <b>1145</b>. It looked as though he was stalking a seal. He eventually gave up on that one and continued north towards Speiden. I passed him off to Dave Ellifrit on Orca who stayed with him until at least <b>1600</b> as I met up with him and T14 near Waldron Island at 1430. The last report I got that he was in the middle of Boundary Pass and headed south-west towards Turn Pt at <b>1600</b>.
+<br/>Mark Malleson
+<br/>Victoria, BC
+<br/>*<br/>
+I left T14 at <b>1740</b> heading South past Gooch Island. I think he killed at least one seal on the backside of Spieden Island around <b>1300</b>.
+<br/>Dave Ellifrit, Center for Whale Research
+<br/>San Juan Island   
+<br/><br/>
+<b>March 22, 2004</b>
+<br/><br/>
+A report of orcas off Lummi Island [this] morning! About <b>8:45-9:15 a.m</b>. a neighbor saw about 20 orcas heading south towards Rosario Strait, very spread out - no IDs, sounds like they were about a mile and a half or two off  Lummi...there was some breaching, that's how they were spotted.
+<br/>Penny Stone
+<br/>Lummi Island
+<br/>*<br/>
+Our day started out great!! We were waiting for the 8 am Clinton/Mukilteo ferry, when I saw two gray whale spouts over toward Everett at <b>7:40 am</b>. They were headed south along the mainland side, &amp; when the ferry was about half-way across, the whales had changed course to head toward Whidbey, &amp; surfaced right next to the ferry at <b>8:10 am</b>! Another whale was reported off Langley during that same time period, &amp; below are many other reports of those lucky to see grays on this beautiful sunny day. 
+<br/>Susan &amp; Howie
+<br/>*<br/>
+Beginning 6:30 this morning, TWO gray whales, one large, one small, fed leisurely about 100 feet off shore along the west end of First Street, Langley.  By <b>7:15</b> they were in back of The Dog House, seemingly on a slow, steady path south. Sandy Pointers should be seeing them before too long. Great blow SOUNDS and good viewing as they fed.
+<br/>Cheers,
+<br/>Sharen &amp; Simon 
+<br/>*<br/>
+Sharon Heath called at <b>6:40 am</b> to report 1 gray feeding off the north end of Langley, less than 100' offshore, moving slowly south.
+<br/>*<br/>
+Deborah Koff-Chapin reported a gray whale feeding close to shore just north of Langley at <b>6:15 am</b>, for at least 30 minutes.
+<br/>*<br/>
+We had the pleasure of watching a gray whale this morning in Langley, out in front of the marina....around <b>7:30-800 am</b>
+<br/>Carol Kerley
+<br/>*<br/>
+Gail Fleming called to let us know a gray whale had been seen on the north end of Langley and moved SE toward Sandy Pt. &amp; the mainland at around <b>8 am</b>.
+<br/>*<br/>
+From about <b>4:20 PM</b> today until <b>4:50 PM</b> I saw a California Gray Whale surface four times half way between the Mukilteo ferry dock and Columbia Beach (just south of the Clinton ferry dock) heading north. It appears to be only one whale and it was too far out for me to photograph.
+<br/>Cheers...Jim Goodall
+<br/>Columbia Beach, Whidbey Island
+<br/><br/>
+<b>March 21, 2004</b>
+<br/><br/>
+Dennis Burns of Seattle reported seeing 2 gray whales off the South End of Whidbey Island near Possession Pt, heading north toward Everett at <b>4 pm</b>.
+<br/>*<br/>
+<b>2:00 PM</b>, south of Cultus Bay, about a 1/4 of the way out toward Edmonds,  possibly foraging--hanging out near a ripple in the water that may indicate a sand bar with tasty ghost shrimp and worms.
+<br/>Deborah Houseworth
+<br/>Clinton, Whidbey Island
+<br/>*<br/>
+Tom McMillen of Salish Sea Charters called at <b>2:30</b> to report the two gray whales off S. Whidbey were between the ferry lane &amp; Hat Island, heading north. Neither of the whales appeared to be "Patch", who they saw last weekend in the same area with another whale.
+<br/>*<br/>
+Mike Bennett of Mosquito Fleet called in at <b>10:45 am</b> to report two grays just south of the Clinton ferry dock, heading south. They also had a Dall's porpoise with them.
+<br/>*<br/>
+Dave Ellifrit of the Center for Whale Research reported hearing faint J pod calls on the Center's Hydrophone at <b>1 am</b> this morning.
+<br/>*<br/>
+Sighted a gray again at <b>4 PM</b> in Cultus Bay (SW Whidbey Island), about a half mile off shore, remaining in a very defined area with no clear trajectory.
+<br/>Deborah Houseworth
+<br/>Clinton, Whidbey Island
+<br/><br/>
+<b>March 20, 2004</b>
+<br/><br/>
+J Pod west of Victoria. They were feeding, but when we left them they were headed west toward Race Rocks. Tons of Dall's Porpoise off of Lime Kiln in the afternoon.
+<br/>Capt. Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/>*<br/>
+After going through my photos I was able to confirm J1, J2, J11 with 39, J14, J17, J22 with 38, J26, J27, J28, and J32. I got the impression that the whole group was there judging by their numbers.
+<br/>Cheers,
+<br/>Mark Malleson
+<br/>Victoria
+<br/>*<br/>
+Deborah Houseworth of Clinton called to report one gray whale off Possession Pt, S. Whidbey Island, heading south toward Edmonds at <b>12:30 pm</b>.
+<br/>*<br/>
+Jim Maya called to report J pod off Bechey Head at approx. <b>2 pm</b>, headed inbound toward San Juan Island.
+<br/>*<br/>
+Jpod going East from Race Rocks at <b>1445</b>. First reported by Great Pacific  Adventures off Becher Bay at <b>1400</b>. Jim Maya on scene South of Trial Is. at <b>1800</b>. Mark "Mallard" Malleson  got some id shots.
+<br/>Ron Bates
+<br/>MMRG, Victoria BC
+<br/>*<br/>
+Grey whale just north of Ebey's landing (West Whidbey Island) about one mile out moving south. Tail flukes up and only ~ 3 sightings as it was apparently diving and moving south ~ 5 pm.
+<br/>Al Lunemann
+<br/>Coupeville, Whidbey Island
+<br/>*<br/>
+Just wanted to report the sighting of a Gray Whale on our whale watch tour near crescent harbor (NE Whidbey Island) traveling east toward Camano Island, at <b>2:30 pm</b>. Also heard that J's and maybe K's are out in the Strait and heading back to the east!
+<br/>Shane and Jennifer Aggergaard.
+<br/>Island Adventures 
+<br/><br/>
+<b>March 19, 2004</b>
+<br/><br/>
+2 grays feeding off Mabana on S. Camano (Saratoga Passage), heading south toward Camano Head.
+<br/>Tom McMillen, Salish Sea Charters
+<br/>*<br/>
+We received the report below this morning, but I wasn't able to get out to the bluff until a little after noon. But thanks to sunny skies I was able to see a whale spouting just north of East Pt (near the entrance to Holmes Harbor), about half way between East Pt. &amp; Camano Island. I watched as it traveled south, headed toward Langley, &amp; was able to see it surface a time or two.
+<br/>Susan
+<br/>*<br/>
+<b>9:40 am</b> - about 20 min. ago C. Mercer of N. Bluff (Greenbank, Saratoga Passage) thought she saw a blow
+<br/>Karen Eaton,
+<br/>Whidbey Island, Washington
+<br/><br/>
+<b>March 18, 2004</b>
+<br/><br/>
+Just got home about <b>4 PM</b> and walked to the edge of the bluff (SW Camano Island) thinking, "Where oh where are the whales" as I hadn't seen them for several days. As if on cue, a gray blew! I could only positively distinguish one, who was pretty much stationary and feeding in the shallows, with lots of
+fluke showing.
+<br/>Barbara Brock
+<br/>Camano Island
+<br/><br/>
+<b>March 16, 2004</b>
+<br/><br/>
+This morning at about <b>9:30 or 10:00</b> I got a call from my waterfront neighbor that she had seen a grey whale close to shore. We live at the top of first Street in Langley. I ran down there and we saw it again 3 times as it made its way across to the other side of the passage near Camano Island.
+<br/>Deborah Koff Chapin
+<br/>Langley, Whidbey Island
+<br/><br/>
+<b>March 15, 2004</b>
+<br/><br/>
+Sitting here this AM with my buddy, Bruce and just spotted the two grays that have been spotted for a couple of days. We are on Bells Beach in (N. of Langley) and they passed by at approx <b>9:40 A</b>M and they were closer to Whidbey out about a 100 yards, heading south toward Langley.
+<br/>Bob Armbruster and Bruce Clifford..
+<br/>Langley, Whidbey Island
+<br/><br/>
+<b>February 25 - March 14, 2004</b>
+<br/><br/>
+So here is the run down on the NW Fisheries Science Center winter killer whale distribution cruise - on the way south we got kw vocalizations for about 6 hours off the Columbia R.  - could not stay with them till daylight - these are still a mystery, but  likely transients.  More faint kw calls off Tillimook, OR.  Got a bit beat up from there on south by the weather.  On the north bound leg we saw 8 offshores in Monterey Bay, 7 transients west of Arcata, 3 transients west of Cape Falcon and 4 transients west of the Columbia - this was an interesting sighting of an attempted Pacific white-sided dolphin attack. Yes, L pod appeared for us on Sat (March 13) off Westport - stayed with them about 10 hours until we lost them acoustically. Lots of foraging behavior observed. The frosting on the cake was the acoustic detection of J pod just north of Neah Bay on Sunday night on our way home.  A very successful cruise - I am still in a bit of shock.
+<br/>Thanks for all your help!
+<br/>Brad Hanson
+<br/>NW Fisheries Science Center
+<br/><br/>
+<b>March 14, 2004</b>
+<br/><br/>
+Tom McMillen of Salish Sea Charters reported the 2 Gray whales feeding near Hat Island (near S. Whidbey Island) at <b>3 pm</b> today. They said one of them looked like "Patch", the resident gray whale with a large white patch on its back.
+<br/>*<br/>
+Mike just called with an update at 1:30 pm - the 2 gray whales are now between Camano Head &amp; Tulalip Bay, slowly heading south.
+<br/>*<br/>
+Mike Bennett of Mosquito Fleet called in at <b>11:20 am</b> to report 2 gray whales (likely the same two as yesterday) just east of Camano Head (S. Camano Island/Saratoga Passage). Cascadia Research staff are again onboard, so hopefully we'll get some ID's to see if these are some of the returning "Resident" Grays we see each year.
+<br/><br/>
+<b>March 13, 2004</b>
+<br/><br/>
+We encountered J11 and offspring and J28 spread out and working fish at depth off Monarch Head, Boundary Pass. Mallard and several other professional whale-watchers are still out there and may see others. The whales were spread out. Time <b>1600</b>.
+<br/>Ken Balcomb
+<br/>Center for Whale Research, San Juan Island
+<br/>*<br/>
+<b>2:15 pm</b>: Tom McMillen of Salish Sea Charters reported the 2 grays just north of Hat Island, &amp; it looked like they were heading north. Candi Emmons of the Center for Whale Research is onboard Tom's boat today to observe &amp; photograph the whales.
+<br/>*<br/>
+<b>1:30 pm</b>: Mike Bennett called again to report the 2 gray whales had moved south &amp; were between Whidbey &amp; Hat (Gedney) Islands. As we were talking, he said they stopped &amp; it appeared they may be changing directions &amp; heading north. Cascadia Research staff are onboard to photograph &amp; ID the whales, to see if they are part of the Resident group that returns each spring.
+<br/>*<br/>
+Mike Bennett of Mosquito Fleet called in a report of 2 adult Gray Whales in Saratoga Passage, mid-channel off Langley at <b>11:30 am</b> this morning.
+<br/><br/>
+<b>March 12, 2004</b>
+<br/><br/>
+A Victoria whale report, about 6.5 miles S.S.W. of Victoria at <b>1625</b>, a Gray whale.
+<br/>First in a couple of years.
+<br/>Information from Great Pacific Adventures.
+<br/>Ron Bates
+<br/>MMRG
+<br/><br/>
+<b>March 10, 2004</b>
+<br/><br/>
+Finally a report of J's. They were heading south between False Creek and Texada Island (near Departure Bay - between Vancouver &amp; Nanaimo) at <b>1000</b> and spotted by the Coast Guard ship W.E. Ricker. I just looked at a few photos that they took and could positively ID J1 and J8.
+<br/>Mark Malleson
+<br/>Victoria BC
+<br/><br/>
+<b>March 9, 2004</b>
+<br/><br/>
+The grey whale is going north past the Clinton ferry dock. <b>11:14 AM</b>
+<br/>Bill Couch
+<br/>Clinton
+<br/><br/>
+<b>March 8, 2004</b>
+<br/><br/>
+One grey whale going south bound from Clinton ferry about I mile out and one mile south of ferry at <b>8:07 AM</b>.
+<br/>Bill Couch
+<br/><br/>
+<b>March 5, 2004</b>
+<br/><br/>
+I was looking out from our bluff just south of Mabana (Camano Island, Saratoga Passage), and there definitely was a gray whale spouting. From the timing, this must have been the same whale Dodie reported.
+<br/>Barbara Brock
+<br/>Camano Island
+<br/>*<br/>
+At <b>5:00pm</b> one gray whale slowly heading south near shore at Mabana Shores on Camano Island (Saratoga Passage).
+<br/>Dodie at Camano
+<br/><br/>
+<b>March 4, 2004</b>
+<br/><br/>
+They're Baaaack! We received a message from Garr Norcheck, saying he'd seen two gray whales from the Mukilteo/whidbey ferry, at <b>9 am</b> heading south toward Possession Pt.
+<br/><br/>
+<b>March 1, 2004</b>
+<br/><br/>
+I spotted 3 or 4 transient orca westbound at the mouth of the Juan de Fuca Strait at <b>1415</b>. I was able to see one adult male fin and 2 or 3 other blows but hard to say for sure how many as they were probably 5 miles away. This would put them mid strait.
+<br/>Mark Malleson
+<br/>Victoria, BC
+
+
+
+
+
+
+<br/><br/>
+<a name="map"></a>
+<center><b>Clip Map to enlarge</b></center>
+<br/>
+<center><a class="lytebox" data-lyte-options="autoResize:false" data-title="Sightings Satalite Map from March 2004" href="Images/Sightings/satmap020104.jpg"><img alt="Orca Network's Sighting Network Map" border="2" height="616" src="Images/Sightings/satmap020104.jpg" valign="TOP" width="392"/></a><br/>
+
+Map © 2004 used with permission by<br/><a href="http://www.adsat.com/">Advanced Satellite Productions, Inc.</a></center>
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</br*<br></div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+

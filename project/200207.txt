@@ -1,0 +1,688 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Jul 02</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Jul 02								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>July 2002 Whale Sightings</center></h3>
+<br/>
+<b>Wednesday, July 31</b>
+<br/><br/>
+Well, whales going East off Discovery Is. at 0720. Much movement on the West side of San Juan Is. up and down. By 1750 J's and K'S in Active Pass going N.W. most of Lpod crossing Boundary Pass for Swanson and L12's off Iceberg Pt. Lopez Is. milling. 
+<br/>At least they are back. 
+<br/>Ron 
+<br/>MMRG
+<br/>*<br/>
+6:45 p.m. Cliffside, L pod heading east
+<br/>7:15 Eastpoint, 15 heading east to Tumbo
+<br/>Saturna Sighting Network
+<p>
+<b>Monday, July 29</b>
+<p>
+First day in a long time with no residents.
+<br/>4 transients off Point No Point going West in to the fog St. Of Juan De Fuca 1000 hrs. 
+<br/>The False Killer Whale off Pt. Roberts. 
+<br/>A young gray whale off Whiffen Spit entrance to Sooke Harbor in the afternoon. 
+(we'd also heard a report from someone of a young gray whale off Protection Island in the past week or two - sb)
+<br/>Killer Whales (12) going past Cape Beal Lighthouse going N. at 1830 (west coast Van Is). 
+(<i>we can only hope this was L pod, going up to pick up little L98.....sb</i>)
+<br/>Ron 
+<br/>MMRG
+<p>
+<b>Sunday, July 28</b>
+<p>
+Well, a number of Lpod whales south end of San Juan Is. in the morning. Jpod and it seems Kpod going south west in Boundary Pass 1045. At 1458 I was with what at first seemed to be a "Superpod". Late report states the L12's were not present but going west towards Sooke at 1330 from Beechey Head (west of Race Rocks). 
+<br/>Ron Bates
+<br/>MMRG
+<br/>*<br/>
+10:30a.m. Eastpoint, 20-25 heading southwest from Tumbo
+<br/>11 a.m. Hilltop, 20 plus, two groups (1st w/ 12-16 &amp; 2nd w/ 6 plus) heading west toward Pender
+<br/>11 a.m.	Cliffside, 20 heading south west along Boundary Pass
+<br/>Saturna Sighting Network
+<p>
+<b>Saturday, July 27</b>
+<p>
+2 Minkes going up Rosario Strait - "Droopy", whose dorsal flops to the left, and "Chopper".
+<br/>Almost all 3 pods in the morning, south end of Lopez Island, except some of  L pod, heading north. At 9 pm J's &amp; K's  went north up Haro Strait, L's turned &amp; went south, possibly to meet with other L's at Race Rocks.
+<br/>Shane Aggergaard
+<br/>Island Adventures
+<br/>*<br/>
+All whales except some L's going N. from Iceberg Pt. at 1135.
+<br/>Lime Kiln 1457 same whales going N.
+<br/>1550 report of whales going E. from Otter Pt.
+<br/>1949 whales 2.5 miles S. of Trial Is. going E. L57+ others (not there myself).
+<br/>A humpback first seen about a mile N. of Race Rocks and last seen 2 miles S. of Race Rocks about 1100hrs. Top left tip of fluke is missing.
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Friday, July 26</b>
+<p>
+Not really much to report, in that whales are just going round and round. 
+<br/>Jpod going N. in Swanson Ch. 1025. Kpod an hour later.
+<br/>Most of Lpod south end of San Juan Is.
+<br/>Report of some whales off Sooke going W. then E. in the afternoon.
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Thursday, July 25</b>
+<p> 
+Odd day, at about 0750 whales reported going E. from the E. side of Active Pass. Near noon whales reported coming to East Pt. going S.W. 
+Most of Lpod off San Juan Is. going N. at that time. 
+<br/>At 1519 a large number of Lpod whales between Salmon Bank and Hein bank turning N. J and Kpod nearing Lime Kiln going S. 
+<br/>Ron Bates,
+<br/>MMRG, Victoria
+<p>
+<b>Wednesday, July 24</b>
+<p> 
+J's, K's and L's together in the morning going N. off the west side of San Juan Is. 
+<br/>At 1427 a split at Battleship Is. J's and K's carried on N. most of Lpod turned back South.
+<br/>At 1603 J's and K's well into Swanson Ch. going N.
+<br/>Ron Bates,
+<br/>MMRG, Victoria
+<p>
+<b>Tuesday, July 23</b>
+<p>
+1103 Eagle Pt. some of Lpod resting in a Northerly direction. 
+<br/>Ron Bates,
+<br/>MMRG, Victoria
+<p>
+<b>Monday, July 22</b>
+<p> 
+Radio messages say superpod. 
+1534 contact with J's, K'S and L'S north of Henry Is. much milling.
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/>
+7:00 p.m. Cliffside, J &amp; L pods 50 plus whales heading east along Boundary Pass
+<br/>7:30 p.m. Eastpoint, 15 plus heading east past Tumbo &amp; north
+<br/>Saturna Sighting Network
+<p>
+<b>Sunday, July 21</b>
+<p> 
+4 miles east of Race Rocks 1043 Transients T20 no T21 but maybe the young male T10B also T108, T109, T109A and T109B. Waiting for photos. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Saturday, July 20</b>
+<p> 
+All of Lpod going west July 20 1900 west of French beach which is west of Otter Pt. (St. of Juan De Fuca). 
+K and Jpod about 45 min. apart going S. off Andrews Bay at 1630, K's in front nearing the park. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Friday, July 19</b>
+<p>
+L12's in the South all day. J"s and K's going N. K's and some of L's turned S. in the evening in Swanson. 
+<br/>Ron Bates
+<br/>MMRG 
+<br/>*<br/>
+Tom McMillan of Salish Sea Charters called this afternoon with a great story about L67 (L98's Mom) playing with L92, the nine year old orphan whose mom, L60, died this spring. 
+<p>
+<b>Thursday, July 18</b>
+<p>
+Susan, yesterday (July 18) with members of all three pods in Rosario was the most amazing day this year. I don't know if we are projecting, but it seemed to both Cindy Hansen and I that our whales are happier and healthier this year, although there is no scientific basis for this, just behavior observation.
+<br/>Mike Bennett,
+<br/>Mosquito Fleet, Everett
+<br/>*<br/>
+L12's off the west side at 1134hrs between Lime Kiln and Pile Pt. 
+At 1512 J's K's and it seems all of Lpod had joined (J's and K's down Rosario St.) the rest of Lpod inbound off Vic, at 0845. 
+No sightings of the mystery whale. 
+<br/>Ron Bates
+<br/>MMRG
+<p>
+<b>Wednesday, July 17</b>
+<p>
+1101, J's K's and some L's going N. just south of Lime Kiln with a "mystery" whale.
+<br/>J"and K's went N/E. in Boundary Pass in the afternoon. 
+<br/>L12's off Eagle Pt. at 1544. 
+<br/>Ron Bates
+<br/>MMRG
+<br/>*<br/>
+We were with J's, K's and some of L's off of Kellett bluff, (Henry Island) and stayed with them as they went to Stuart. They were still going north when we left. 
+The whales were very spread out, like yesterday, with lots of socializing and play along with foraging. They were breaching, spyhopping, tail lobbing, you name it! All the boats were dead in the water for very long periods of time. We had lots of close passes just sitting still. One of the new kids, not sure which, was doing a lot of jumping around. A great sign of a healthy youngster. 
+Cheers, 
+<br/>Vicki Kirkland
+<br/>Island Adventures, Anacortes
+<br/>*<br/>
+4:30p.m. Hilltop, 20-30 whales in view 1 hr, large pod heading east in Boundary Pass, past Pender, Java Islets &amp; Cactus Pt.
+<br/>5:00 p.m. Cliffside, J &amp; L pods heading east along Boundary Pass;
+<br/>5:10 p.m. Eastpoint, 30-35 heading east to Tumbo &amp; north 
+<br/>Saturna Sighting Network
+<p>
+<b>Tuesday, July 16</b>
+<p>J's and K's are now using Active Pass going N. Boundary Pass to return to Haro St. not Rosario. They did both yesterday (July 15). 
+<br/>L12's seem to be happy going N. to Active Pass area and S. to Salmon Bank. 
+<br/>Whales reported going E. off Sooke at 0900 today (July 16) but fog and rough water prevented any id, they were not seen later in the day. 
+1108 at 48 29 .475 123 07 .401 there is always something magical about making contact with whales in the fog. J1 and some K's going S. 
+1214 the first bow riding Dall's in a few weeks. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Monday, July 15</b>
+<p>
+J's and K's are now using Active Pass going N. Boundary Pass to return to Haro St. not Rosario.
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/> 
+We met up with the whales on the west side of North Pender Island today aroun 2:00pm. The L-12s and L-22s were behind a large group of what appeared to be all of J and K Pod. It turned out that the L-2s were in 
+there as well...resting along with Js and Ks. It was neat to see Luna's mom out and about. Gaia/L-78 appears to have begun sprouting! Although he is a year older than Skana/L-79 he is a bit behind in size but the process has definitely begun.
+<br/>Emily Bremer -Naturalist
+<br/>Island Adventures
+<p>
+<b>Sunday, July 14</b>
+<p>
+At 10:00 am a group of more than 20 Orca going north passed close by Mouat Point on North Pender Island in Swanson Channel. The pod was lead by "Wavy" [Ruffles - J1?] up near the front. Our hydrophone recorded a few vocalizations but the entire group were quite quiet and were likely foraging for food. Over half the group were within 15 yards of the shore line and provided a spectacular show of nature at its best. Only two boats watched from the water and they stopped their motors and were gentle in their observations. 
+<br/>Alan Lowe, North Pender Island
+<br/>*<br/>
+Hello;
+<br/>Sunday 8:00 pm, a pod of approx. 8-10 whales past by South Pender Island (Brook's Point) heading West towards Stewart Island (Turn Point). Not a single boat around them. 
+<br/>Derek Holzapfel, South Pender Island
+<br/>*<br/>
+HI
+<br/>I made contact with L12's at 1100hrs S. end of San Juan Is. 
+About the same time J's were nearing Active Pass going N.W. 
+<br/>K's and some L's were N.W. of me but coming S. 
+<br/>In the afternoon J's were gone. 
+<br/>L's and K's mixed and going up and down the southern 2/3 thirds of San Juan Is. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/>
+6:30p.m. Cliffside, Jpod plus heading west and southwest across Boundary Pass
+<br/>6:30p.m. Eastpoint. 20-25 heading south across boundary pass
+<br/>Saturna Sighting Network
+<p>
+<b>Saturday, July 13</b>
+<p>
+K's and L12's S.E. corner of San Juan is. in the am.
+<br/>1500hrs. J's north of Lime Kiln, K's just S. of Lime Kiln most of 
+L12's a few miles south of Lime Kiln. 
+<br/>1900 L12's S.E. corner of San Juan Is. Whales going N. across 
+Spieden Ch. not sure which combination. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Friday, July 12</b>
+<p>
+1521 L12 subpod and a few other L's near Salmon Bank.
+<br/>K's coming south at 1800 hrs. towards Lime Kiln.
+<br/>J's in Rosario St. in the afternoon coming S.
+<br/>3 minkes just off Salmon bank at 1607.
+<br/>*<br/> 
+Great show from K-pod at Lime Kiln at 2:15 to 2:45 PM as 
+they swam northward. Tons of tail splashes and at least 15 full breeches! About 15 kayaks and ten+ boats in water and lots of blessed orca lovers on shore.
+<br/>Sally Slotterback, Whidbey
+<br/>*<br/>
+Mo Startin of San Juan Island called with a report of a pod of approx. 15 orcas in the Anacortes ferry lane off the west side of Lummi at 8:40 pm
+<p>
+<b>Thursday, July 11</b>
+<p>
+700hrs Orcas near Anacortes headed south. Don't know who.
+<br/>Jim Maya
+<br/>San Juan Island
+<br/>*<br/>
+We got a call from Jane on Fidalgo Island, reporting a pod of at least 10 orcas off Rosario Beach, between NW Island &amp; Deception Island, heading southwest at 8 am this morning
+<br/>*<br/>
+Lpod whales off Victoria going to Race Rocks, my first contact 1034 off Albert Head. 
+1132: 2 males 3 other El. Seals at Race Rocks. 
+1208: William Head a Minke in a field of Krill. 
+1525: the area of Battleship Is. J, K and L12's all milling, much interaction. 
+1630 L,s turned south followed by K's, J's went north. 
+J's entering Active Pass at 2010hrs. 
+Ron Bates
+MMRG, Victoria
+<p>
+<b>Wednesday, July 10</b>
+<p>
+L12's back and forth. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/>
+This report forwarded by Capt. Jim Maya, from Ross Brown:
+Orcas headed north at 0515 all spread out slowly feeding. 
+<p>
+<b>Tuesday, July 9</b>
+<p>
+K's and the same L's no J's going N. and S. all day. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/>
+0830 we picked up L25s moving north ... met up with them around Kanaka Bay. Tight nit groups with some resting. It was unfortunate to see some commercial whale watchers from across the boarder backing up and coming into the resting group. Slow activity until they made it further north and began to wake up!!!
+<br/>Mo Startin
+<br/>Orca Quest, San Juan Island
+<p>
+<b>Monday, July 8</b>
+<p>
+J's K's and L12's with a few other L whales going N. very slowly all day.
+<br/>L25 subopd at Race Rocks going E. 1100hrs. 
+<br/>1405 J's and K's resting in North Haro most of Lpod in South Haro. 
+<br/>1630 Jpod in Swanson Ch. going N.W. 
+<br/>Lpod going S. spread across Haro St from west of Kelp Reef to Bellevue Pt. at 1925. with Kpod behind. 1945 all K and L whales going towards False Bay. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Sunday, July 7</b>
+<p>
+Many Lpod whales off the west side of San Juan Is. My contact were L12's. No Jpod whales and K,s reported but no ID. 
+<br/>Ron Bates,
+<br/>MMRG, Victoria
+<br/>*<br/>
+3:45p.m. Cliffside, J &amp; K? pods	heading east along Boundary Pass
+<br/>3:45 p.m. Cliffside 2
+<br/>3:55 p.m. Eastpoint, 15 plus heading east past Tumbo &amp; north
+<br/>4:55 p.m. Eastpoint, 8-10 slowly heading east past Tumbo &amp; north
+<br/>Saturna Sighting Network
+<p>
+<b>Saturday, July 6</b>
+<p>
+I'm on San Juan Island right now and just had a FANTASTIC day at Lime Kiln! J and K pod were going south at 11:30am this morning.. then at 1:40pm J's were back, heading north and came in close to shore and played in the kelp. Very playful, spread out, with about 30 boats around. Then at around 4pm, K's were heading south again and they just swam on by. 
+Great day to be at Lime Kiln all day, with lots of people using the park to watch the action!
+<br/>Vickie Doyle
+<br/>*<br/>
+At approx. 8:15 - K pod from the south end of Lopez Island. They were spread out and milling, heading south toward Whidbey, but then there was a breach, and within 5 minutes they'd changed direction and were heading NW. L pod was reported off Race Rocks at 7:15 pm, and earlier in the day, J's were reported off the west side of San Juan Island near the Center for Whale Research at 3:45pm. 
+<br/>Jeff Hogan
+<br/>*<br/>
+3:30ish: Lots of active and vocalizing orcas just went north and then came back south -- with LOTS (50+) boats on them. (west side of San Juan Island, near CWR)
+<br/>Val Veirs
+<br/>San Juan Island
+<br/>*<br/>
+Hi
+<br/>Well, they're back! J,s and K,s off Victoria this morning going east 0900. Both pods went to San Juan Is. then turned South. 
+Next they turned north. At 1518 Jpod going N. off Battleship Is. (Haro St). At 1622 Kpod going S. from the south side of Lime kiln Park. 
+While this is going on Lpod going east from Otter Pt. at 1500hrs, nearing Race Rocks at 1700. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/>
+8:45 a.m. Cliffside, J pod heading east in  middle of Boundary Pass
+<br/>6:30 p.m. Hilltop, 7-10 moving quickly &amp; heading east close in past So. Pender toward Java Islets. Male stopped in water for about 3 minutes with dorsal fin out. Slowed down (feeding?) at SW corner of Saturna.
+<br/>7:15 p.m. Cliffside2, 12 plus
+<br/>7:30 p.m. Eastpoint, 10-15 heading east past Tumbo &amp; north
+<br/>Saturna Sighting Network
+<p>
+<b>Friday, July 5</b>
+<p>
+First day since May 19 no Orca. 
+<br/>Minkes on Salmon Bank in the am (3 at least) and pm (at least 1) also had one off the RA buoy SE of Hein Bank at 1547hrs. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<p>
+<b>Thursday, July 4</b>
+<p>
+Report of whales off Eagle Pt. around 0945 also whales off Victoria at the same time. I had Lpod going W. just west of Race Rocks at 1052. No other whales seen. No whales found off San Juan Is. 
+<br/>At 1556 contact with Lpod once more still going W. near Magdalena Pt. (west of Jordan River) no other whales seen at this time. 
+<br/>At 1630 a report that J1 has popped into the picture and over the next few minutes more reports of Jpod whales coming in from the west. 
+At this time I am on my way back to Victoria when reports of Kpod whales going west from Sheringham Pt. start to come in. 
+Made contact with Kpod at 1650 going west but reports are now coming in that J's and L's have turned and are now E. coming towards the K's. 
+It would seem that Jpod went West first in the early morning followed by Lpod. 
+<br/>Kpod were the whales off Eagle Pt. who must have swung S.W. towards Port Angeles thus were missed by the American boats on the west side of San Juan Is. and came W. in Juan de Fuca well off shore. 
+<br/>Ron Bates,
+<br/>MMRG, Victoria
+<p>
+<b>Wednesday, July 3</b>
+<p>
+12:45 am. Woke up to loud splashing. 6-12?? whales playing/feeding in the dark off Brook's Point - South Pender Island. Heard their blows for 15 minutes as they headed towards Saturna/Skip Jack Island. 
+<br/>Derek Holzapfel
+<br/>So. Pender Island
+<br/>*<br/>
+Not on the water myself so I am leaving id to others. 
+<br/>Whales going S. off false bay at 1100. 
+<br/>Whales in Georgia St. at 1100hrs. 
+<br/>Whales repoted in Boundary Pass at 1240, 1441, 1717 and 1750 Jpod? 
+<br/>Some of Lpod going E. from Otter Pt. at 1300. 
+<br/>L5, L58. and L73 S. side of San Juan Is. at 1600. 
+<br/>Ron Bates
+<br/>MMRG, Victoria
+<br/>*<br/>
+12:00noon Cliffside, J pod heading east along Boundary Pass, close to shore.
+<br/>12:00noon Cliffside2, 18-20 close to shore
+<br/>1:00 p.m. Eastpoint, 18-20 heading east past Tumbo &amp; north
+<br/>5:00 p.m. Eastpoint, 18-20 heading south from Tumbo
+<br/>6:00 p.m. Cliffside2, 18-20 heading north across Boundary Pass toward Pender
+<br/>Saturna Sighting Network
+<p>
+<b>Tuesday, July 2</b>
+<p>
+A number of Lpod going up and down between Hannah Hts. and False Bay, other Lpod whales going W. past Sooke. 
+Not on scene but a report of the Lpod whales going towards Iceberg Pt. and J's and K's coming N.W. to meet them at 1611. 
+<br/>Ron Bates
+<br/>MMRG 
+<p>
+<b>Monday, July 1</b>
+<p>
+9:00 PM - All three pods, Open Bay, NW side of San Juan Is...
+Js headed north, Ls kinda headed southwest.
+Regards,
+<br/>Capt. Jim Maya 
+<br/>Maya's Whale Watch Charters
+<br/>*<br/>
+Hi Susan 
+<br/>July 01 Kpod and most of Lpod in the Salmon bank area at 1035 Milling . Met Jpod 4.5 miles south of Discovery Is. at 1448 going towards San Juan Is. K's and L's came off shore from the False Bay area and J's all started "proposing towards each other and at 1540 "superpod" 
+<br/>Ron Bates
+<br/>MMRG
+<br/>*<br/>
+8:30 a.m. Cliffside, J pod heading southwest across Boundary Pass
+<br/>Saturna Sighting Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+

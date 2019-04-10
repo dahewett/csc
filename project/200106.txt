@@ -1,0 +1,907 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Jun 01</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Jun 01								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>June 2001 Whale Sightings</center></h3>
+<br/>
+Saturday, June 30, 2001 10:00  
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, K Pod, J Pod	
+<br/><b>Members:</b> 	J's &amp; K's, with members of L-2's &amp; L-5's	
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> J and K Pod with members of L2 and L5 are at this time directly out from Snug Harbor and headed north. Reported by Captain Tom McMillen Salish Sea Charters  		
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 29, 2001 13:00  
+<br/><b>Reported by:</b>  	Penny Stone	
+<br/><b>Location:</b> 	Lummi Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south down Rosario Strait 	
+ <br/><b>Comments:</b> Big parade of orcas off west side of Lummi and all across the strait today from about 1:00 to 3:00 p.m. - could have been all 3 pods - VERY spread out - we're talking miles! The ones we saw closer to shore were J's and K's I believe (J1 brought up the rear...) - Some hugged the Lummi shoreline and some were mid-channel and some were way across on the Orcas side. A lot of breaching off the northwest beach of Lummi, then more straight travel, porpoising, some milling and lunging. Headed off down Rosario Strait. There were 4 whale-watch boats, about 5 small private boats, Soundwatch, some small crabbers passing thru, and 1 tug that stopped, apparently to enjoy the show as well. Flat calm, so you could hear their breaths from a great distance, even before seeing them. What a gorgeous day! Penny 	
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 29, 2001 12:00  
+<br/><b>Reported by:</b>  	Harry Moore	
+<br/><b>Location:</b> 	Cherry Pt. 	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south from Cherry Pt.  	
+ <br/><b>Comments:</b> Susan, Saw your message from Penny. For your information I was on one of those four whale watching boats. We started to see the whales off of Cherry Point. Then we came down by Lummi Island and even further with whales following us. Penny described it best. They were dancing and we, over the loud speaker, could hear their singing. Our captain named all three pods too. What magnificent animals! Harry Moore 	
+<br/><b>-----------------------------</b><br/><br/> 
+Tuesday, June 26, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	West side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Hi Susan Kpod between Pile Pt. and Salmon Bank (San Juan Island) all day. No reports to me of Jpod or Lpod. Ron Bates, MMRG  		
+<br/><b>-----------------------------</b><br/><br/> 
+Tuesday, June 26, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Cork, Ireland	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	, Unknown	
+<br/><b>Members:</b> 	The "Cork Three"	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> The 3 whales in Cork, Ireland, are having their 3rd week anniversary today. Ron Bates, MMRG Victoria  		
+<br/><b>-----------------------------</b><br/><br/> 
+Tuesday, June 26, 2001 07:00  
+<br/><b>Reported by:</b>  	Stephanie Raymond	
+<br/><b>Location:</b> 	Vashon ferry	
+<br/><b>Species:</b> 	Dall's Porpoise	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	southwest 	
+ <br/><b>Comments:</b> Hi Susan, A co-worker of mine reports she saw two Dall's porpoise from the 7:00 am Vashon-Fauntleroy ferry this morning, headed southwest from Point Williams. Stephanie Raymond, Education Coordinator People for Puget Sound  	
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 25, 2001 14:00  
+<br/><b>Reported by:</b>  	Penny Stone	
+<br/><b>Location:</b> 	Lummi Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	, Unknown - J's &amp; K's?	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Lummi Island report, continued: Then a couple hours later, 1:30 p.m. another group passed, close to shore, off Isle Aire Beach (north end of west side) - groups of 2-3, spread out - about 15-20 individuals altogether - VERY active - lots of breaching, tail-lobs,cartwheels, porpoising, spyhops....travel south, fast, again towards Sinclair Island (east side.) 1 large male (J1?) swimming farther off shore- possibly J's and K's. many females and youngsters. No whale watch boats, and only one fishing boat traveling through. Very appreciative audience on land! Penny Stone 		
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 25, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Victoria, BC	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b> 	L41, L12 sub-pod, L 25 sub-pod, &amp; L57	
+<br/><b>Direction:</b> 	southwest 	
+ <br/><b>Comments:</b> L12 subpod (L41) plus most of the L12's and a number of L25's and L57 off Victoria going S.W. The area covered was miles wide which leads me to believe Kpod was also here. This leaves Jpod as the whales coming down Rosario this afternoon. Any other sightings or ideas? Ron MMRG  		
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 25, 2001 12:00  
+<br/><b>Reported by:</b>  	Penny Stone	
+<br/><b>Location:</b> 	Lummi Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	, Unknown - K's?	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> A gorgeous morning watching orcas off west side of Lummi Island!! About 11:30 a.m. a group of about 10 whales off Village Pt. - VERY spread out (1/2 mile or so), far off shore, about mid-channel and traveling individually or in pairs - no large male spotted. Travel fast and south towards Sinclair Island (unfortunately had no binocs...) - 1 tanker with 2 escort tugs present. Penny Stone  		
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 25, 2001 10:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	West side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b> 	L58, L2 &amp; L9 sub-groups	
+<br/><b>Direction:</b> 	Off False Bay 	
+ <br/><b>Comments:</b> L58 and a number of Lpod whales off False Bay (west side of San Juan) this morning. (Jodi Smith reports it was the L2 &amp; L9 sub-groups) Ron Bates 	
+<br/><b>-----------------------------</b><br/><br/> 
+Sunday, June 24, 2001 20:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Swanson Channel	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	off Mouat Pt. going north toward Active Pass 	
+ <br/><b>Comments:</b> Last report of J's and L's was in Swanson Channel, going to Active Pass at 1945hrs off Mouat Pt. going N. Ron Bates, MMRG, Victoria 
+<br/><b>-----------------------------</b><br/><br/> 
+Sunday, June 24, 2001 14:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Boundary Pass	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east, past East Pt. 	
+ <br/><b>Comments:</b> Here's today's (June 24th) orca report from Ron in Victoria:
+<br/> Hi All K pod went East past East Pt. at 1340hrs. today (Boundary Pass). Ron Bates, MMRG		
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 23, 2001 14:00  
+<br/><b>Reported by:</b>  	Kristen Damazio	
+<br/><b>Location:</b> 	Saratoga Passage	
+<br/><b>Species:</b> 	Dall's Porpoise	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Susan, Saturday (June 23rd) we were traveling in Saratoga Passage between noon and 4 p.m. and we spotted several pairs of what we believe were Minkes heading South. They were dark gray and almost black, some with white up near the dorsal fin. They made a rolling arch type movement when diving. Can you tell by my description whether or not these were Minkes? Thanks - Kristen Damazio (These were actually identified as Dall's Porpoise, thanks to Kristen's great description of their markings &amp; movement). For more info. on ID'ing Minkes &amp; Dall's, here's my response: Thanks for this report, &amp; the great, detailed description - I'm sure what you saw were Dall's Porpoise, which travel around Whidbey, usually in small, &amp; sometimes large, groups (I once counted over 75 going past Admiralty Head on the west side of Whidbey!). Minkes ususally travel alone, or sometimes in groups of 2 or 3, &amp; don't have the "arching" quality Dall's have when surfacing. Minkes are also quite a bit larger (26-28' vs. 6'). Dall's have the characteristic white patches on their triangular dorsals, while Minke's have white patches on their flippers. But it's often very difficult to ID marine mammals, since we only get quick glimpses of them as they surface, &amp; they're usually at quite a distance.  	
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 23, 2001 12:00  
+<br/><b>Reported by:</b>  	Ranger Rick Blank	
+<br/><b>Location:</b> 	Deception Pass Park, Fidalgo Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, J Pod	
+<br/><b>Members:</b> 	1 male in first group, 3 males in second group	
+<br/><b>Direction:</b> 	passing Rosario Beach, north towards Burrows Island 	
+ <br/><b>Comments:</b> Susan, Finally news to report. About 12 noon Sat. 06-23-01 I saw a group of seven Orcas what I believe to be feeding and pass Rosario Beach in the outgoing tide rip beyond Northwest Island heading North towards Burrows Island. They were out a distance but were really working the tide rip back and forth. One large male. Then about 1305 hrs. another group or the same group passed heading North about mid channel. Unkown numbers. A park visitor said she could make out three males. I had no glasses. They were very far out for a naked eye visual. But they were Orcas. Rocky shore and tide pooling are great! We love you Man. Ranger Rick Deception Pass State Park  (Maybe J's &amp;/or L's off Deception Pass?)  	
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 23, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Smith Island, Lopez Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	west, in the pm 	
+ <br/><b>Comments:</b> Lpod between Colville Island and Smith Island in the am, and off the west side of Lopez Island going towards San Juan Island in the pm.  
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 23, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	West side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Kpod off the west side of San Juan Is. all day. Ron Bates, MMRG, Victoria 			
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 23, 2001 11:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	East of Active Pass	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east 	
+ <br/><b>Comments:</b> Hi Susan Jpod east of Active Pass going to the mainland 1100hrs. Ron Bates MMRG, Victoria  		
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 23, 2001 07:00  
+<br/><b>Reported by:</b>  	Deborah Heg	
+<br/><b>Location:</b> 	Bush Pt, West Whidbey Island	
+<br/><b>Species:</b> 	Minke	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Good Morning Susan, To let you know there's a single minke between Lagoon and Bush Points, heading South. Deborah Heg  
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 22, 2001 18:00  
+<br/><b>Reported by:</b>  	Ron Bates	
+<br/><b>Location:</b> 	Otter Pt, Vancouver Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	west in the morning, east by evening 	
+ <br/><b>Comments:</b> Hi J,s, K,s And L's went west this morning, by 1830hrs they were east bound off Otter Pt. Looks good for tomorrow. Ron MMRG, Victoria  	
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 22, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Becher Bay, Vancouver Island	
+<br/><b>Species:</b> 	Gray Whale	
+<br/><b>Pod:</b> 	, Mom &amp; calf	
+<br/><b>Members:</b> 	Gray whale Mom &amp; calf	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> A baby gray with mother in Becher Bay, midway between Race Rocks and Sooke. Ron Bates, MMRG, Victoria  		
+<br/><b>-----------------------------</b><br/><br/> 
+Thursday, June 21, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	West side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Hi Susan J and K pods on the west side of San Juan Island all day. Ron MMRG  			
+<br/><b>-----------------------------</b><br/><br/> 
+Thursday, June 21, 2001 08:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Sooke, Vancouver Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	, Probably L's?	
+<br/><b>Members:</b> 	6 orcas 	
+<br/><b>Direction:</b> 	west 	
+ <br/><b>Comments:</b> At least 6 whales reported off Sooke (so. Vancouver Island) going W. in fog, could have been L's. this was about 0800hrs. Ron Bates, MMRG  	
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 20, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Cork, Ireland	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> My info from Cork, Ireland, is that the 3 orcas are still there but seem to be working their way out of the harbour, we will see. Ron Bates, MMRG 
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 20, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Hi Susan I am sure you have reports of Lpod off the southern end of San Juan Island all day today the 20th. All the best Ron Bates MMRG		
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 15, 2001 15:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Vancouver Island, B.C.	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b> 	L-2 subpod	
+<br/><b>Direction:</b> 	first east, then west 	
+ <br/><b>Comments:</b> Hi Susan Had L2 subpod off the Sooke area (S. Vancouver Island) this afternoon, were first reported going E. but when I got there they were going back W. 1530hrs. Seas were not good for viewing.
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 15, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Ireland	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Was not aware you wanted Orca news form outside this area... I have been following the "Cork 3" since they arrived (Cork Harbour, Ireland) on June 05. A no go buffer zone has finally been put in place and the whales are now further upstream on the outskirts of Cork itself near Tivoli Docks. Ron MMRG  	
+<br/><b>-----------------------------</b><br/><br/> 
+Thursday, June 14, 2001 17:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Victoria, B.C, Canada	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	west 	
+ <br/><b>Comments:</b> Hi Susan Lpod seems to be going out to the ocean again, they were going S.W. off Victoria at 1700hrs. Ron Bates MMRG Victoria, BC 
+<br/><b>-----------------------------</b><br/><br/> 
+Thursday, June 14, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Johnstone Strait	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Transient	
+<br/><b>Members:</b> 	T13, T20, T2C &amp; 2 unidentified transients	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> T13, T20, T2C and 2 unidentified transients up North in Johnstone St. June 14th. Ron Bates, MMRG 
+<br/><b>-----------------------------</b><br/><br/> 
+Thursday, June 14, 2001 07:00  
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, K Pod, J Pod	
+<br/><b>Members:</b> 	Supderpod - J, K and L pods	
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> Thursday 14 June 7:15 am: Superpod (J,K and L pods) is at Lime Kiln Lighthouse and very active, putting on a major display of breachs, spyhops, tail-slaps and general rolling around. When I left them they were headed slowly north along the west side of San Juan Island. If they stay this active it should be quite a display on the live cam. Captain Tom McMillen Salish Sea Charters 
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 11, 2001 20:00  
+<br/><b>Reported by:</b>  	Penny	
+<br/><b>Location:</b> 	Lummi Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b> 	no ID's	
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> From Lummi Island: Just a heads up of orcas passing by west side of Lummi Island tonight - about 8:00 p.m. off Legoe Bay - very far out (near Clark Island) and very spread out - unfortunately so far we could not get any kind of ID - only that we think there were at least two adult males, so perhaps an L subpod (??) - and there were about 10-15 individuals - porpoising,traveling fast, going south towards Cypress Island (probly thru Rosario Strait) - a couple of breaches. We haven't had sightings of orcas going by our island much so far this year (only 3 now that i know of) - maybe they'll begin their island rounds again here soon! Penny  		
+Monday, June 11, 2001 16:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Victoria, B.C, Canada	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	west 	
+ <br/><b>Comments:</b> Hi Susan Well Lpod going back out west off Victoria at 1630 hrs. today. Ron Bates MMRG 		
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 11, 2001 12:00  
+<br/><b>Reported by:</b>  	Don &amp; Renee Wright	
+<br/><b>Location:</b> 	Ireland	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b> 	3 orcas - 2 adults, 1 calf	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Renee and I were sailing just Southeast of Cobh (pronounced cove) this evening (8:00PM Ireland Time / 12:00PM Whidbey Island Time) in Cork Harbour near Spike Island and saw two Adult Orcas with a Calf. Most folks around here would like to believe it is Mom, Dad and Baby. We haven't found any local whale experts in this area and it is doubtful that anyone here is tracking or identifying these whales. Thanks, Don &amp; Renee  	
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 11, 2001 09:00  
+<br/><b>Reported by:</b>  	Bonnie	
+<br/><b>Location:</b> 	Bush Pt, Whidbey Island	
+<br/><b>Species:</b> 	Gray Whale	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b> 	1 gray (?)	
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Just got a whale report from Bonnie at Bush Point (west Whidbey Island). She saw a large whale (possibly/probably a gray?) pass the Bush Pt. wharf at 9 a.m. this morning. It was traveling slowly south, &amp; she only saw it surface once so didn't get a real good look at it. We did have a few gray whale sightings last year as late as June 15th - so maybe there's still one or two of them out there - keep your eyes open, folks on South Whidbey! Susan  
+<br/><b>-----------------------------</b><br/><br/> 
+Monday, June 11, 2001 08:00  
+<br/><b>Reported by:</b>  	Don Harrison	
+<br/><b>Location:</b> 	Canadian Gulf Islands	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Saw about half to a dozen (perhaps more?) orca heading north past Otter Bay ferry terminal, N. Pender Island, BC at ~08:00 on Monday June 11. Saw them cross about 200-300m behind the ferry wake as it departed the island. Don Harrison &amp; Lisa Fleming
+<br/><b>-----------------------------</b><br/><br/> 
+Sunday, June 10, 2001 15:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Race Rocks, BC	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east 	
+ <br/><b>Comments:</b> Lpod going east from Race Orcks 1530 hrs. Ron  	
+<br/><b>-----------------------------</b><br/><br/> 
+Sunday, June 10, 2001 12:00  
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> 10 June 11:45 am: J and K pods are near False Bay (west side of San Juan Island) heading slowly North. They are widely spread-out and appear to be feeding. Tom McMillen Salish Sea Charters	
+<br/><b>-----------------------------</b><br/><br/> 
+Saturday, June 09, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Vancouver Island, B.C.	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b> 	L-12's + others	
+<br/><b>Direction:</b> 	west 	
+ <br/><b>Comments:</b> Hi I am not sure if you are all aware that L-pod including the L12's went west off Point No Point (So. Vancouver Island) in the St. of Juan de Fuca at 1230hrs today. Any last report of J's and K's? Ron MMRG  	
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 15:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Haro Strait	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east 	
+ <br/><b>Comments:</b> A report of incoming whales from the west about 1300 hrs. Passed them by to check on Race Rocks. At 1456hrs. 12 California, 2 Steller and 6 Elephant Seals - 1 large male. Rejoined Lpod between Trial Is. and Discovery Is. at 1532hrs going E. Still no new males. At 1900hrs. a report from Otter Pt. (W. of Sooke) of 8+ E. bound whales including 2 large males. Maybe some of the missing boys. Ron Bates, MMRG Victoria  	
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 15:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Stuart Island, San Juans	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Kpod going S. from Turn Pt. (Stuart Island) about 1500 hrs. Ron Bates 	
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 14:00  
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	Victoria, B.C, Canada	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east 	
+ <br/><b>Comments:</b> L pod came back in from the straits again today and were just west of Victoria at 2 pm, heading east. Well likely see some of Ls tomorrow!  
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 12:00  
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> June 6th: Js must not have gone too far north yesterday because they were south of the islands in the morning with K pod. They probably turned around at Pender or made a short loop through Active Pass around Saturna Island. We headed south of the islands today but didnt catch up to the whales until half way up the west side of San Juan. They were headed north and we stayed with them until about Stuart Island. There were a lot of Dalls porpoises in Haro straight today which made for a nice bonus. We even had some bowriding! ~Island Adventures  			
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 12:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b> 	Males L57, L71 &amp; L73	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Lpod spread over a very large area from Pile Pt. to Eagle Pt. (sw side of San Juan Island) and offshore. The only adult male is L57 with sprouters L71 and and L73 that I saw. Ron Bates, MMRG  		
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 11:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> Hi Susan J and Kpod at Pile Pt. this morning spread apart at 1107 hrs going N. slowly. Ron Bates MMRG, Victoria  		
+<br/><b>-----------------------------</b><br/><br/> 
+Wednesday, June 06, 2001 07:00  
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> 7:00 am - Spotted a large number of Orcas off Lime Kiln Lighthouse headed North. Captain Tom McMillen Salish Sea Charters  
+<br/><b>-----------------------------</b><br/><br/> 
+Tuesday, June 05, 2001 15:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Canadian Gulf Islands	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north up Swanson Channel 	
+ <br/><b>Comments:</b> June 5th: Hi Susan Not sure what your people have given you but Jpod going up (N.) Swanson Channel (Canadian Gulf Islands) at 1500hrs. Ron MMRG  		
+<br/><b>-----------------------------</b><br/><br/> 
+Tuesday, June 05, 2001 15:00
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Stuart Island, San Juans	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Kpod going S. from Turn Pt. (Stuart Island) about 1500 hrs. Ron Bates 	
+<br/><b>-----------------------------</b><br/><br/> 
+Tuesday, June 05, 2001 12:00
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b> 	Males L57, L71 &amp; L73	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Lpod spread over a very large area from Pile Pt. to Eagle Pt. (sw side of San Juan Island) and offshore. The only adult male is L57 with sprouters L71 and and L73 that I saw. Ron Bates, MMRG  		
+<br/><b>-----------------------------</b><br/><br/>
+Tuesday, June 05, 2001 12:00  
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	Haro Strait	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod, K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	J pod - north, K pod - south, L pod - southwest 	
+ <br/><b>Comments:</b> June 5th: This was a great day, too! Our route took us through the middle of the islands to north Haro Strait where J and K pods were travelling. They had come up the westside of San Juan together in the morning. L pod was also in the area in south Haro by Discovery Island heading southwest (out the straits). Ls often come in and out of the straits, goiong from the Strait of Juan de Fuca to San Juan, then back out again this time of year. While Js and Ks are staying right around the islands. On this trip J pod split up with K pod at north San Juan Ks headed south and Js continued north. We followed J pod this time since there were less boats with them and had a great show! We also saw lots of other wildlife along the way including an active Bald Eagles nest on Bell Island.
+<br/><b>-----------------------------</b><br/><br/>
+Monday, June 04, 2001 16:00
+<br/><b>Reported by:</b>  	Derek Holzapfel	
+<br/><b>Location:</b> 	So. Pender Island, BC	
+<br/><b>Species:</b> 	Species N/A	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b> 	Female Elephant Seal	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Hello; Just to tell you my neighbor left me a message reporting that the "lone" female elephant seal was back off the bay on South Pender Island 16:30. This makes it the third sighting in the last few weeks. She must be circling around????? Regards Derek Holzapfel  			
+<br/><b>-----------------------------</b><br/><br/>
+Monday, June 04, 2001 12:00
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Race Rocks, BC	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	L Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east 	
+ <br/><b>Comments:</b> Hi Susan A number of Lpod whales came in today from the west, I stopped by Race Rocks at 1140hrs as they were comming in, 20 California &amp; 11 Steller sealions, 6 Elephant Seals including I adult male. Ron Bates MMRG, Victoria
+<br/><b>-----------------------------</b><br/><br/>
+Monday, June 04, 2001 07:00
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	Active Pass	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	from Active Pass toward Pt. Roberts 	
+ <br/><b>Comments:</b> June 4th: J and K pods headed north early this morning and were exiting Active Pass, heading to Pt Roberts by late morning.
+<br/><b>-----------------------------</b><br/><br/>
+Monday, June 04, 2001 07:00
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	Vancouver Island, B.C.	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	east toward San Juan Island 	
+ <br/><b>Comments:</b> Captain Shanes brother was salmon fishing in Sooke, BC (west of Victoria) when he saw whales traveling east, toward the San Juan Islands at 7 am. He alerted us first thing so we shared the info with other captains in order to track their progress. Since we dont depart until 11 am the timing worked out pretty well. By the time we got there they were right off Discovery island and we followed them in almost to San Juan Island. Ls were making good time until they got closer to San Juan, then they slowed up and became quite social! We had a couple of great passes there at the end making for a good finale. Also saw seals, sea lion, harbor porpoises and lots of seabirds. One passenger added three birds to her life list! Island Adventures
+<br/><b>-----------------------------</b><br/><br/>
+Sunday, June 03, 2001 16:00
+<br/><b>Reported by:</b>  	Derek Holzapfel	
+<br/><b>Location:</b> 	Canadian Gulf Islands	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Pod N/A	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> And this in from the Canadian Gulf Islands: Hello Susan; Just had two groups (yes, I will need to learn to identify Pods), passed by just now. The first about 1.5 miles ahead consisted of at least 1 male, mother and calf. The second group may have numbered 5 and also had a large male, mother and calf. They were between South Pender and Stewart Island. Happy Sunday to you. Regards Derek Holzapfel<br/><b>-----------------------------</b><br/><br/>
+Sunday, June 03, 2001 15:00  
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Victoria, B.C, Canada	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	Transient	
+<br/><b>Members:</b> 	T-61	
+<br/><b>Direction:</b> 	southwest 	
+ <br/><b>Comments:</b> T61(transient) was off Victoria this afternoon 4.5 miles S. at 1530 going S.W. Ron Bates MMRG
+<br/><b>-----------------------------</b><br/><br/>
+Sunday, June 03, 2001 14:00
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Boundary Pass	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> Hi I know you all must be aware of Kpod and what should be Jpod comming S.in Boundary Pass this afternoon.
+<br/><b>-----------------------------</b><br/><br/>
+Sunday, June 03, 2001 12:00
+<br/><b>Reported by:</b>  	Center for Whale Research	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> Center for Whale Research reported J's &amp; K's doing the "west-side shuffle" along west San Juan Island most the day.
+<br/><b>-----------------------------</b><br/><br/>
+Sunday, June 03, 2001 10:00
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	Pt. Roberts	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	south 	
+ <br/><b>Comments:</b> June 3rd: J pod headed north yesterday and kept going to the Fraser River, near Vancouver B.C. They were first seen this morning at Pt. Roberts and 10 am, heading south.  			
+<br/><b>-----------------------------</b><br/><br/>
+Sunday, June 03, 2001 08:00
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	Haro Strait	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	southeast near Lime Kiln 	
+ <br/><b>Comments:</b> K pod was still in Haro Strait, swimming southeast near Lime Kiln at 8 am. Since Ks were closer we decided to head that direction. They continued SE until south Lopez Island, then turned back NW toward San Juan at about noon. We arrived on scene as they were just south of American Camp on south San Juan Island. They were spread out and foraging most of the day. Other wildlife: Sea stars, seabirds, a baitball (school of small fish) close to the surface with birds feeding on them, California sea lion, harbor seals, harbor porpoises, and three Bald Eagles.
+<br/><b>-----------------------------</b><br/><br/>
+Saturday, June 02, 2001 16:00
+<br/><b>Reported by:</b>  	Ron Bates, MMRG	
+<br/><b>Location:</b> 	Canadian Gulf Islands	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> June 2nd: Hi Susan J pod going N in Swanson Channel (Canadian Gulf Islands, between Pender &amp; Salt Spring) at 1600hrs. Ron MMRG
+<br/><b>-----------------------------</b><br/><br/>
+Saturday, June 02, 2001 12:00
+<br/><b>Reported by:</b>  	Island Adventures	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod, J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	J pod heading north, K pod heading south &amp; east 	
+ <br/><b>Comments:</b> June 2nd: We had a great day today! J and K pods were both on the west side of San Juan today, about half way up the island. When we arrived J pod was heading north up the island and K pod was heading south. We stuck with Ks since they were closer and we could spend more time with them. They kept swimming east, taking us about half way back to Anacortes! They seemed to be fishing, spread out in several small groups. We had a lot of close passes and one time by the new baby! He/she still has an orange tinge to the white patches. Other wildlife seen included harbor seals, oystercatchers (shorebird), bald eagles, and a California sea lion hauled out on Salmon Bank buoy. Island Adventures
+<br/><b>-----------------------------</b><br/><br/>
+Saturday, June 02, 2001 07:00
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	K Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> Saturday 2 June 7:00am - K Pod is on the west side of San Juan Island traveling north. Captain Tom McMillen Salish Sea Charters
+<br/><b>-----------------------------</b><br/><br/>
+Friday, June 01, 2001 12:00
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	west side of San Juan Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	J Pod	
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	between Open Bay &amp; Eagle Pt 	
+ <br/><b>Comments:</b> Susan, J Pod on west side of San Juan all day today going between Open Bay and Eagle Pt.
+<br/><b>-----------------------------</b><br/><br/>
+Friday, June 01, 2001 11:00
+<br/><b>Reported by:</b>  	Sharyn Mellors	
+<br/><b>Location:</b> 	Admiralty Inlet, Whidbey Island	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b> 	, Unknown	
+<br/><b>Members:</b> 	3+ orcas	
+<br/><b>Direction:</b>
+<br/><b>Comments:</b> 10:59 am: Dear Susan Yes! Whales are off Whidbey off Ledgewood Beach in Admerals cove. I just saw at least 3 of them but there could be more cause they are in such a wide area much wider than my telescope. Thank you so much for the heads up. It is always such a thrill. Sharyn Mellors Ledgewood Beach  		
+<br/><b>-----------------------------</b><br/><br/> 
+Friday, June 01, 2001 09:00
+<br/><b>Reported by:</b>  	Tom McMillen, Salish Sea Charters	
+<br/><b>Location:</b> 	Haro Strait	
+<br/><b>Species:</b> 	Orca	
+<br/><b>Pod:</b>
+<br/><b>Members:</b>
+<br/><b>Direction:</b> 	north 	
+ <br/><b>Comments:</b> 9:08 am - J and K Pods are travelling together again. Heading north from Kellet Bluff toward Turn Point. Bob Weimer, Orcacam Captain Tom McMillen Salish Sea Charters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+

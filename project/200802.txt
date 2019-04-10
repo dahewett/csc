@@ -1,0 +1,442 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Feb 08</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Feb 08								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>February 2008 Whale Sightings</center></h3>
+<b>February 29, 2008</b>
+<br/><br/>
+Richard Lyons called the Orca Network with a report of <b>orcas </b>off Clinton, S. Whidbey Island. They were in 30 fathoms of water.
+<br/>*<br/>
+A pod of about 6 to 9 whales (<b>orcas</b>) came by our house today, <b>10:00 AM</b>. One mile west of the Sekiu River, WA state about 1/4 mile offshore heading west. I saw 2 juveniles.
+<br/>Paul Blake
+<br/><i>We sent Paul's photos to Dave Ellifrit of the Center for Whale Research, &amp; he has ID'd them as L pod!
+<br/>It's L pod! Whales appearing in the photos include L47, L55, L86, L90, and L26. Others are there too. Very cool since J pod decided to come in.
+<br/>Dave Ellifrit, Center for Whale Research</i>
+<br/>*<br/>
+John Boyd called at <b>2:14 pm</b> to relay a report from Mallard of Victoria, of a pod of <b>orcas </b>heading east off Victoria. Ken Balcomb of the Center for Whale Research relayed the pod had been ID'd as <b>J pod</b>. 
+<br/>*<br/>
+I just got a call (~<b>3:45 pm</b>) from Ron Bates. He had gotten a call from Mallard who was out on King Salmon, and they were following <b>J Pod</b> across the Victoria water front headed east toward San Juan Island.
+<br/>Capt. Jim Maya, Maya's Charters, San Juan Island 
+<br/>*<br/>
+Calls on the San Juan Island hydrophones (Orcasound.net) right now (<b>5:56 pm</b>) !!! <b>J Pod</b> north up Haro Strait now.
+<br/>Jeanne Hyde, Friday Harbor 
+<br/><br/>
+<b>February 28, 2008</b>
+<br/><br/>
+On our way home tonight from a great trip to Baja to play with the gray whales, we asked a ferry worker on board the Mukilteo-Clinton ferry if any grays had been sighted yet. He hadn't seen one, but said other ferry crew members saw a <b>gray whale</b> a few hours earlier - mid-afternoon, in Possession Sound!
+<br/>Susan &amp; Howard, Orca Network, Whidbey Island
+<br/><br/>
+<b>February 27, 2008</b>
+<br/><br/>
+Richard Lyons called the Orca Network with a report of a pod of 6 - 8 <b>orcas </b>off Clinton, S. Whidbey Island. They were in 30 fathoms of water. He also heard reports that others had seen the orcas on Friday.
+<br/><br/>
+<b>February 17, 2008</b>
+<br/><br/>
+While fishing off Church Rock at <b>9 am</b> this morning, observed a playful pod of 8 to 10 <b>orcas </b>breaching and tail-slapping between Church Rock and Swordfish Isand at the west end of Whirl Bay (Southern tip of Vancouver Island). They were headed east towards the Race.
+<br/>Ted Litster. Victoria, B.C. 
+<br/>*<br/>
+<b>J pod</b> going east off Victoria around <b>1400</b>, hoping for more details later.
+<br/>Ron Bates, MMRG, Victoria B.C. 
+<br/>*<br/>
+Finally a whale report. <b>J POD</b> !!!!!!!!!! We located J pod crossing the Oak Bay area(Victoria) bucking a big ebb tide with the help of a on shore whale enthusiast. They were last sighted at <b>1600 </b>heading for San Juan. 
+<br/>beemer, Victoria, B.C. 
+<br/>*<br/>
+We've had OrcaSound.net on ever since we got the reports of <b>J pod</b> heading east. Nothing for an hour or two, then suddenly at about <b>8:30 pm</b> a bunch of very loud calls on the OrcaSound (NW San Juan Island) hydrophone - and then - nothing! We're still listening hoping for a few more calls - tune in, &amp; let us know if you hear them tonight, or see them on Monday!
+<br/>Susan Berta &amp; Howard Garrett, Orca Network, Whidbey Island
+<br/><br/>
+<b>February 13, 2008</b>
+<br/><br/>
+More info. on the Pender Island orca Sighting: The <b>Orca </b>was well into the channel heading east close to shore just off susan pt. Its the first time I've seen one this close here - I normally see them across the channel off dinner pt. on mayne headed towards active pass.
+<br/>Andy Paige 
+<br/>*<br/>
+In regards to a lone <b>orca </b>sighted on the morning of Feb 13th, thought I might be able to provide a bit more info: I was catching the first Swartz Bay to Tsawassen ferry and at around 8am the captain announced killer whales in the area. I went out on the deck and spotted a lone orca that appeared to be foraging in the area between the southern entrance to Active Pass, Prevost Island and Mayne Island. From my observation the orca had quite a tall erect dorsal fin, slightly wavy with a rounded tip. I am certain the dorsal fin had a slight "waviness" to it and was definitely a rounded tip. I'm only an amateur at identification but this fin certainly displayed the characteristics of a resident fin, and I'm pretty sure it was not a transient. On my time at Beam Reach last fall we often witnessed (as I'm sure you all have), J1 leading the pod by what seems to be up to a couple of miles. So I was thinking that perhaps this lone individual orca could have been J1, as I have seen J1 quite a few times and from the distance of my observation 200-300m, it did appear to look similar to Ruffles. I did look around for other fins but by this time the ferry had turned up Active Pass so I did not see any. Having said all this, this lone orca could have in fact been a transient but I thought that transients had very distinct triangular dorsal fins with a prominent "sharp tip". Anyone have any thoughts on this? Cheers,
+<br/>Tim Hunt (former Beam Reach student &amp; aspiring to work in Vic whale watch industry this season) 
+<br/>*<br/>
+<b>7:15 am</b> spotted one solitary <b>Orca </b>off Stanley point on Pender Island just inside the mouth of navy channel.
+<br/>Andy Paige 
+<br/><br/>
+<b>February 11, 2008</b>
+<br/><br/>
+I'm hearing [<b>orca</b>] calls and clicks on Lime Kiln (Orcasound Hydrophone) now (<b>8:21 am</b> your time).
+<br/>Suzy Roebling, Key Largo
+<br/>*<br/>
+We had a report of [<b>orcas</b>] off Victoria this afternoon just after <b>noon</b>, this should be in keeping with your report off Lime Kiln this morning. The area was searched but no luck.
+<br/>Ron Bates, Marine Mammal Research Group, Victoria BC
+<br/><br/>
+<b>February 9, 2008</b>
+<br/><br/>
+I was talking to a fisherman out of <b>Ft Bragg CA</b> yesterday and he reported seeing one medium sized <b>orca </b> about 5 miles NW of Pt Cabrillo (just south of Ft. Bragg, N. Calif).
+<br/>Brad Hanson, NOAA's NWFSC
+<br/><br/>
+<b>February 7, 2008</b>
+<br/><br/>
+I heard about 10 minutes of <b>transient </b>calls on my hydrophones, OrcaSound (NW San Juan Island), this evening at about <b>7 pm.</b>
+I'll attach a small WAV file. The T call is followed immediately by the sound of a wave breaking on our shore. It is *quite* windy here this evening.
+<br/>Val Veirs, OrcaSound, Colorado College 
+<br/>Click here to hear the <a href="Sound &amp; Video/TcalldB11302072008190645.wav"><b>Transient call</b></a>.
+<br/><br/>
+<b>February 4, 2008</b>
+<br/><br/>
+The same juvenile <b>humpback </b>that I saw on Saturday, 2/2/08, was seen this <b>afternoon </b>off of Bellevue Pt. San Juan Island, by Ken Balcomb. I went out to see if I could get a better shot of the underside of the fluke so that it might be identified. It was feeding in erratic directions, so I didn't get the shot I wanted.
+<br/>Capt. Jim Maya, Maya's Chaters, San Juan Island 
+<br/><br/>
+<b>February 3, 2008</b>
+<br/><br/>
+Dave Ellifrit and I went out and found the <b>Js </b>right at Navy Ch. just south of Active Pass and took them into active a bit. Every year when I see J1 and 2 for the first time I sure get the chills. 
+Ron Bates said Js were seen at <b>dusk </b>near Tawassan.
+<br/>Capt. Jim Maya, Maya's Charters, San Juan Island
+<br/>*<br/>
+Orca Network received a call from Marti Tilley of North Pender Island, B.C., reporting a pod of 6 - 7 <b>orcas </b>in Swanson Channel, mid- channel, heading north off Mouat Pt. at <b>9:25 am</b>. The pod included 1 adult male. 
+<br/>*<br/>
+Ken Balcomb of the Center for Whale Research called to report that Jim Maya &amp; Dave Ellifrit had found the above reported <b>orcas </b>&amp; it's J pod! They had them at <b>11:05 am</b> heading north through Active Pass.
+<br/>*<br/>
+A pod of approximately 15 [<b>orcas</b>] entered Active Pass northbound at <b>11:15 am</b>. I watched them feeding for some 15 minutes off Helen Point before they entered the Pass. They were very active, with quite a bit of surface activity. It appeared to be the pod with 2 adult males. Once in the Pass, they travelled fairly directly through.
+<br/>Betty Kennedy 
+<br/><br/>
+<b>February 2, 2008</b>
+<br/><br/>
+We picked up the juvenile <b>humpback </b>right off of Henry Island (N. San Juans) on about <b>1400 </b>hrs. I had just gotten through saying to my passengers that if they come back in late summer or in the fall I could show them humpbacks, but not at this time of the year, and boom, I saw the first blow about 200 yds off my port. He zigged and zagged for about an hour feeding off of south Kellet Bluff and then we left him/her. 
+<br/>Capt. Jim Maya, Maya's Chaters, San Juan Island 
+<br/>*<br/>
+Ken Balcomb called to relay a report he'd just received of Southern Resident <b>orcas </b>in <b>Monterey Bay CA</b> at <b>12:40 pm</b>. ID's confirmed are L57 &amp; L41. 
+<br/>*<br/>
+Sarah Graham of <b>Monterey, CA</b>, called at <b>12:51 pm</b> to report Southern Resident <b>orcas </b>in Monterey Bay. 
+<br/>*<br/>
+Today we saw the <b>residents</b>, about 40 or so very spread out in <b>Monterey Bay</b>. They approached within a mile of the aquarium then turned and headed to NW still spread over 1 plus miles. 
+<br/>Nancy Black, Monterey Bay Whale Watch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/><br/>
+<a name="map"></a>
+<center><b>Clip Map to enlarge</b></center>
+<br/>
+<center><a class="lytebox" data-lyte-options="autoResize:false" data-title="Sightings Satalite Map from February 2008" href="Images/Sightings/satmap020108.jpg"><img alt="Orca Network's Sighting Network Map" border="2" height="616" src="Images/Sightings/satmap020108.jpg" valign="TOP" width="392"/></a><br/>
+
+Map © 2008 used with permission by<br/><a href="http://www.adsat.com/">Advanced Satellite Productions, Inc.</a></center>
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+

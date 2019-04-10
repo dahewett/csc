@@ -1,0 +1,901 @@
+<!DOCTYPE doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+<head>
+<title>
+Welcome to Orca Network - Sightings Archive - Jun 06</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." name="description"/>
+<meta content="Orcinus orca, orca, killer whale, Puget Sound, Salish Sea, salmon, Orca Network, Southern Resident community, J pod, K pod, L pod, orca gifts, orca, donate, gray whale, Baja, San Ignacio, orca protection, orca habitat, whale research, San Juan Island, Whidbey Island" name="keywords"/>
+<meta content="Howard Garrett" name="author"/>
+<meta content="Welcome to Orca Network" property="og:title">
+<meta content="http://www.orcanetwork.org/Archives" property="og:url">
+<meta content="http://www.orcanetwork.org/Archives/Images/FB.jpg" property="og:image">
+<meta content="Welcome to Orca Network" property="og:site_name">
+<meta content="Orca Network: Enhancing awareness of the Southern Resident Orca (killer whale) community to foster a stewardship ethic to protect and restore orca habitat." property="og:description"/>
+<!-- Start VideoLightBox.com HEAD section -->
+<link href="../Main/index_videolb/videolightbox.css" rel="stylesheet" type="text/css"/>
+<link href="../Main/index_videolb/overlay-minimal.css" rel="stylesheet" type="text/css"/>
+
+
+<!-- End VideoLightBox.com HEAD section -->
+
+<link href="../Main/lytebox.css" media="screen" rel="stylesheet" type="text/css"/>
+
+<link href="http://www.orcanetwork.org/Archives/Images/favicon.ico" rel="icon" type="Images/ico"/>
+<link href="Orca.css" rel="stylesheet"/>
+</meta></meta></meta></meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#800080">
+<table align="center" border="0" width="1024"><tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<td width="680">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3">
+<!-- Header table Cell 1 banner starts here! -->
+<center><img alt="" src="Images/archivebanner.png"/></center>
+<!-- Header table Cell 1 banner ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td width="210">
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a081" colspan="3" height="157">
+<!-- Header table Cell 2 data starts here! -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="QTEH7SG9RHLG8"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="http://www.orcanetwork.org/Main/Images/header/btn_donateCC_LG.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+<a href="https://www.facebook.com/OrcaNetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/facebook.png" vspace="3"/></a>  <a href="https://twitter.com/orcanetwork" target="_new"><img alt="" border="0" src="http://www.orcanetwork.org/Main/Images/Sidebar/twitter.gif" vspace="3"/></a>  <a href="http://www.youtube.com/user/TheOrcaNetwork" target="_new"><img alt="" border="0" src="Images/Sidebar/youtube-icon.png" vspace="3"/></a>  
+
+
+<a href="http://www.orcanetwork.org/Main/index.php?categories_file=Contact"><b>Report a Sighting</b></a>
+<!-- Header table Cell 2 data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="210">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<tr align="center">
+<td>
+
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+<td valign="middle"><center><img alt="" src="http://www.orcanetwork.org/Main/Images/Sidebar/Share On.png"/><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.orcanetwork.org" target="_blank"><img alt="" height="22" src="http://www.orcanetwork.org/Main/Images/Sidebar/FacebookShare.png" width="22"/></a>    <a class="twitter-share-button" data-count="none" href="https://twitter.com/share">Tweet</a>
+
+
+    
+<a href="https://plus.google.com/share?url={http://www.orcanetwork.org}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img alt="Share on Google+" height="22" src="https://www.gstatic.com/images/icons/gplus-32.png" width="22"/></a></center></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- Start Main Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="left" valign="top" width="680">
+<!-- Left Cell of the main body area start -->
+<table border="0" cellpadding="0" cellspacing="0" width="800">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+<!-- Howard Don't touch the below code as this code calls up the title at the top of the main body cell -->
+<b><font color="white">
+								Sightings Archive - Jun 06								</font></b>
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td bgcolor="#c3a081" colspan="3" width="760">
+<!-- Howard Don't touch the below code as this is the main code that calls up all the main cell data so messing with this can mess up the websites ability to call things up properly!!! -->
+<center>
+<!-- Start Main Body Content Area -->
+<!-- Start Main Content Code -->
+<!-- Keep the next few lines in EVERY text file!!!  also do not add anything before this link make sure to start AFTER the next comment tag below.-->
+<table align="center" width="90%">
+<tr>
+<td>
+<br/>
+<div align="justify">
+<a name="top"></a>
+<!-- Start Editing after this either edit or remove to start a new page. NOTE that at the end there is an end tag to show where to stop the edits as there are a few lines at the end that have to also remain to close out the table started above! -->
+<h3><center>June 2006 Whale Sightings</center></h3>
+<b>June 30, 2006</b>
+<br/><br/>
+Brad Hanson called to report that he &amp; Candi Emmons had found the pod of <b>Transient orcas</b> off Vashon Island Friday evening - they saw 5 of the 6 that were present in the pod earlier in the week (apparently there were 2 males present in earlier sightings, but 1 of the males was being stealthy.....). They left them off south Vashon Island, heading south. 
+<br/>*<br/>
+Early this morning we had <b>J's &amp; L's</b> in mid-channel of Haro Strait. <b>K's</b> were still up north after they left yesterday afternoon. Later in the day, they were still at Andrews Bay. But when we came on scene in the afternoon, we only saw L's on the west side.  Later, around <b>3:00</b>, we heard that another boat had discovered what he believed to be J-Pod up near Java Rocks in Boundary Pass. They must have given everyone the slip when L's decided to head South. Near False Bay, we had a wonderful float watching the L's forage for salmon---and they were really vocalizing in the process. L-41 Mega was doing long dives, and gave us quite a start by coming up when no one knew he was even around!  We left the whales still heading slowly towards Cattle Point, spread out in a path about 3 miles long and 1-2 miles wide.
+<br/>John Boyd (JB), Marine Naturalist, Western Prince
+<br/>Friday Harbor
+<br/>*<br/>
+Kathlyn Rice called at <b>7:20 pm</b> to report the pod of <b>orcas </b>in Colvos Passage, heading south past Prospect Pt, 1/4 mile north of Olalla Bay.
+<br/>*<br/>
+Josh Gillanders on the Goodtime II called at <b>5:30 pm</b> to report 3 - 5 <b>orcas </b>feeding off the Blake Island Jetty, heading south.
+<br/>*<br/>
+Trey Walker called to say the Seattle-Bainbridge ferry announced seeing <b>orcas </b>at <b>4:15 pm</b>, closer to the Bainbridge side. 
+<br/><br/>
+<b>June 29, 2006</b>
+<br/><br/>
+All <b>morning </b> <b>K's and L's</b> headed North on the West Side if SJI, trailers passed Lime Kiln approx <b>12:00pm</b>.
+<br/>Sandy, SJI
+<br/>*<br/>
+Jeff Hogan relayed a report of <b>orcas </b>in Colvos Passage at <b>6:30 am</b>.
+<br/>*<br/>
+June 28/29 - A report from Southern California three miles offshore of Dana Point. We've had seven <b>Blue whales</b> for the last two days. Water temp has been fluctuating between 59 degrees to 70 degrees and now back to 59 degrees in the last ten days. The Blues are adults ranging from seventy to one hundred feet. Lots of huge flukes in the air and much reddish excrement in the water, so apparently they are feeding. Four to seven blows, then down for six to ten minutes. Spouts of fifteen feet or more. We are going out daily and hope they stay for a while. Yesterday (6/29) we also had common dolphins, bottlenose dolphins, and Risso's dolphins all in the same general area.
+<br/>Doug Thompson
+<br/>Whales, Touching the Mystery 
+<br/>*<br/>
+I am always in awe of the beauty and peacefulness of these wonderful (<b>Orca </b>whales) when we encounter them on our trips. We left the dock today with <b>J pod</b> at Colville coming West and <b>L pod</b> milling near Lime Kiln, where they had been since this morning. We ended up finding J pod off of Iceberg Point, where they had slowed down and were doing some foraging. We got a wonderful look at J19 and J41, as well as J1, L57 and others. We watched for a while as they glided by us through the calm water. We were just getting ready to start heading back to Friday Harbor when I heard a boat with L pod say they were porpoising towards us from off Eagle Point.  Just at about the same time I noticed the whales we were watching begin to porpoise towards L pod. We traveled offshore of J pod until they reached Salmon Bank. Then the L pod fins started appearing from the other direction as we were treated to a couple of great breaches.  I set up, with a couple of other boats, offshore of the whales at about 300 yards, shut down, and put the hydrophone in. The symphony of vocalizations were spectacular. Their level of communication always amazes me. We started to see them group up; 5 whales, 10 whales, 20 whales at a time and then split off into smaller groups, only to come back together, going every direction. Before we could relocate, we found ourselves with whales all around us. They were everywhere, frolicking in tight groups of 10 to 15 whales. I try not to apply human emotions to these beautiful animals. But I have to say that they just seemed so happy, peaceful, and affectionate towards each other.
+We had been with them for about 15 minutes or so when the flood tide began sucking us and another boat (Olympus) towards Cattle Pass. Every time I was getting ready to start my engines whales would pop up nearby, still socializing with each other. Next thing I know Olympus and I are drifting through Cattle Pass at 5.5 Kts and the whales are staying right with us. It was amazing to see them so effortlessly navigate through the roaring current as we bobbed and spun like corks on the surface. Finally, about 2 miles up San Juan Channel the whales started to group up in the middle and we started to drift to the East side. As I brought the boat around and headed home we could still see them breaching and socializing, as if they hadn't a care in the world. These animals are truly special. Lets all keep doing all that we can to protect their environment and keep them around for a long time to come.
+<br/>Ivan Reiff
+<br/>Owner &amp; Captain
+<br/>Western Prince Whale &amp; Wildlife Tours
+<br/>Biodiesel Powered since 2004
+<br/>*<br/>
+<b>Orcas </b>seemed to be all over the straits today! I was kayaking near Swirl Island and about 12 went by me there, 2 adult males, several females and one very small one. They were heading towards the south west at a good pace, no breaching or other action just cruising. There seemed to be plenty more (from what I could see and hear) to the west and south in the straits, along with several boats, also scattered.
+<br/>Cathy Wilson
+<br/>Lopez
+<br/>*<br/>
+Today we had the good fortune to have <b>ALL 3 Pods</b> in San Juan waters! This morning, a majority of K's and L's were hanging out in the currents near Lime Kiln. They were foraging, breaching, and generally moving in random patterns. Later in the day, K Pod decided to head "up island" and went towards Turn Point Lighthouse and beyond, while the L's continued to forage, rest, and play at Lime Kiln. As we left the dock, a report of J's coming down Rosario got the crew excited, but with J's pretty far in Rosario and L's reported to be heading North, we weren't too expectant of the two meeting up. I got the chance to witness first-hand my very first <b>Greeting Ceremony!</b>  As if practicing for the J's that were coming from Iceberg towards Cattle Point, a large group of L's broke into two groups, and began staying on the surface in two distinct lines. They slowly moved towards each other, and the vocalizations underwater were astounding. But if you didn't have a hydrophone, it didn't matter, for when the whales got about 10-15 yards from each other, the surface vocalizations became amazing. I was truly humbled by this incredible display. Then the whales dove down, and we couldn't figure out where they went until they decided to show off and do some incredible breaching--males coming fully out of the water! Then most of the group high-tailed it easterly to greet the J's that were now almost to the entrance of Cattle Pass.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, San Juan Excursions
+<br/>Friday Harbor
+<br/>*<br/>
+Our first trip took us to the west side of San Juan Island near Lime Kiln State Park at about <b>2-3pm</b>. <b>L pod and K pod</b> were all together putting on quite a scene. Breaches, spyhops, tail-lobs. Our second trip was even better... <b>all 3 pods</b> were making their way up San Juan Channel as we left Friday Harbor. In the south part of Griffin Bay, all 3 pods were spread out everywhere with a similar scene. Breaching, spy hops, and tons of tail slaps. We saw some mating as well.. lots of dual tail action going on. We even saw a few sea snakes!
+<br/>Traci Walter, Naturalist
+<br/>Sea Lion
+<br/>*<br/>
+<b>L108 </b>was looking good off Pile Pt. this <b>afternoon</b>.
+<br/>Ron L. Bates, MMRG
+<br/>Victoria.
+<br/>*<br/>
+Looked to be <b>J pod</b> (Ruffles) going south by Lummi Island <b>11 a.m</b>. near shore in biggish waves.
+<br/>Penny Stone
+<br/>Lummi Island
+<br/><br/>
+<b>June 28, 2006</b>
+<br/><br/>
+Springer's back!
+The <b>A11s</b>, inclusive of A73/Springer returned to Johnstone Strait today. Reported by Stubbs Island Whale Watching.  
+<br/>*<br/>
+Karl at Alki Pt. reported the pod of <b>orcas </b>heading south past the south edge of Alki Pt. heading toward Lincoln Park <b>between 9:10 &amp; 9:30 pm</b>. 1 male, 4 females &amp; 1 juvenile. 
+<br/>*<br/>
+Josh Gillanders on the Goodtime 2/Argossy Cruises called to report the pod of <b>orcas </b>at a little after <b>8 pm</b>. They had been sighted by 2 of the Argossy boats off Westpoint &amp; the Tango Buoy NW of Alki Pt, still heading south. More details from Washington State Ferries about the pod were that 1 adult male &amp; a calf were present in the pod.
+<br/>*<br/>
+It was Big Dorsal day on the West side (San Juan Isl)  with <b>J’s &amp; L’s</b> swimming together. First encounter was up just South of Lime Kiln at about <b>2PM</b>. The whales heading North went by. About a half an hour later I looked up and the whales that had passed by earlier were headed South again! As usual, Ruffles &amp; Granny seemed to be the leaders. As I continued North I looked back and here came L57 with two females, one on each side heading North again! It was amazing- whales back and forth heading every which way. Some were foraging off shore and some just seemed to be milling. There were a couple of tail slaps and one female breached twice! It was just fabulous, with a calm glassy Haro Straight and sunshine to boot!!!
+<br/>Adrienne DeLiso
+<br/>Marine Naturalist
+<br/>*<br/>
+Received a call from Capt. Tim McGuire of Wash. State Ferries, reporting a pod of 6 - 7 <b>orcas </b>with a calf, ~ 3/4 - 1 mile off Kingston, WA in the southbound lanes, heading south, at <b>4:40 pm</b>.
+<br/>*<br/>
+Ken Balcomb of the Center for Whale Research reported they had <b>J's</b> earlier in the day off  the west side of San Juan Island, then as we were talking on the phone at <b>5:40 pm</b> he said the whales were coming back by the Center again -
+<br/><br/>
+<b>June 27, 2006</b>
+<br/><br/>
+<b>Orcas </b>again in Active Pass, heading east, <b>5:00 pm</b>. About 12 whales. Lots of activity, breeching, spy hops, cartwheels, and many tail slaps. Travelling quickly. 
+<br/>Karoline Cullen
+<br/>Galiano Island, BC 
+<br/>*<br/>
+<b>J's</b> with <b>L57 </b>spread out along the west side of San Juan Island (south of Lime Kiln) this <b>morning/noon</b>. L57 was hanging out with a few females inshore and east of the rest; very active foraging, and a few rather amorous moments.
+<br/>Erick
+<br/>Marine Naturalist, P.S. Express
+<br/>*<br/>
+Once again, <b>L-57</b> was still traveling with the females of <b>J-Pod</b> as they headed up mid-channel of Haro Strait towards Turn Point at <b>3:00 PM</b>. Today he was sighted in close company with J-28 Polaris, who is herself coming "of age". There were several other females as well traveling near him too.  J-1 Ruffles was traveling by himself when he passed by, with J-2 Granny not too terrible far behind. J-22 Oreo was traveling with her youngsters, Oreo and Doublestuff off to the east of the main group as well.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, San Juan Excursions
+<br/>Friday Harbor
+<br/>*<br/>
+<b>11:15 AM - J Pod</b> and some L's are between False Bay and Lime Kiln.  
+<br/>Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/><br/>
+<b>June 26, 2006</b>
+<br/><br/>
+10 - 12 <b>orca </b>heading east through Active Pass at <b>5:10 pm</b> today. Some breaching, travelling quickly. 
+<br/>K. Cullen 
+<br/>Galiano Island, BC
+<br/>*<br/>
+<b>L57 </b>has been hanging around with <b>J pod</b> the last few days, and it looks to us like a "dating opportunity" as one of our passengers so aptly put it. We have observed him in close company with a few females, and much rolling around behaviors, both male and female - and the summer "sea snake" has also been observed on a few occasions. We may even have pictures to prove it. We had what looked kind of like a "group grope" this morning on our trip, with L57, a couple of females, and a couple of youngsters. The young ones spyhopped a few times. Then they joined up with the rest of J pod who were approaching in resting formation.....verrry interesting....
+<br/>Penny Stone
+<br/>Island Adventures, Anacortes (and Lummi Island)
+<br/>*<br/>
+<b>J's</b> with <b>L57 </b>"sleeping" at Open Bay as of <b>11am</b>. The first report of them at Open Bay was received around 9am, so it seems they hung out there for quite some time.
+<br/>Erick
+<br/>Marine Naturalist, P.S. Express
+<br/><br/>
+<b>June 25, 2006</b>
+<br/><br/>
+Around <b>11:45</b>, we heard on the radio that <b>J-Pod</b> had decided to really move across Georgia Strait and was making a beeline for Eastpoint at about 10 knots. So we headed up Boundary and found them about 1 mile east of Eastpoint, and boy were they in a mood to play!  Multiple breaches, spyhops, and probably the most amazing cartwheel I've ever seen (so energetic the whale came completely out of the water!) For the afternoon trip, J's were still in Boundary Pass, having slowed up considerably. As they made the turn at Turn Point, the whales got quite frisky again as they entered the "washing machine" of converging currents and went into multiple breach mode once again.  And it appears that L-57 is still hanging out with the J's as he was the only L-Pod whale we observed.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, Western Prince
+<br/>Friday Harbor
+<br/>*<br/>
+We watched a pod of 6-8 <b>Transients </b>off Race Rocks and heading North past Victoria this mid morning. There was one large male I have a temporary ID as T11A but will confirm after I send my photo to the Center later in the week. There were several females and or young males and one baby that looked like it was about a year or so old. At one point they were all grouped up and traveling tight – easily doing about 7-8 knots! Earlier reports were 8 whales and I have a photo that you can clearly ID 6 dorsals.
+<br/>Adrienne DeLiso
+<br/>Marine Naturalist, Mosquito Fleet
+<br/><br/>
+<b>June 24, 2006</b>
+<br/><br/>
+June 20 &amp; 24 - Richard Niemar called to report two sightings of a single <b>orca </b>(non-adult male) off Baja - the first sighting was June 20th at Cabo Pomo, the 2nd report was June 24th at Punta Arena.
+<br/>*<br/>
+We met up with <b>Jpod </b>and some <b>L's</b> in heading North in Rosario Strait just off Lummi Island. Thought we had only Jpod first, but thought some L's were in there and have a posititve ID for L57 Faith. I got my pics on Flickr if anyone is interested. 
+http://www.flickr.com/photos/wildorcas/. The whales treated us to multiple spyhops, breaches, cartwheeling and some amazing tail lobs and a wonderful symphonie. They were still headed North as we left them at about <b>4.30 pm</b> or so. 
+<br/>Ellen 
+<br/>Steveston Seabreeze Adventures 
+<br/>*<br/> 
+[<b>Orcas</b>] on the west side of San Juan Island passing Low Island about <b>3:30 PM</b>. There were whales over in Rosario as well. Not sure what group was out today as they were a bit too far to ID, but they apparently didn't go far to the north as we had more whales (same guys?) passing the house about <b>6:00 PM</b> heading back south!
+<br/>John Boyd (JB)
+<br/>Marine Naturalist On Shore
+<br/>San Juan Island
+<br/>*<br/> 
+We were out on 2 trips today with 2 different groups of [<b>orcas</b>].  Our AM trip had us catching up to the trailers of <b>L Pod</b> as they headed from Alden Bank towards Rosario Pass. They were travelling leisurely with great vocals. One youngster treated us to a couple of back to back breaches. As we were preparing to leave, the group must have received some signal that they were lagging behind, as they started porpoising away, Southbound.
+<br/>For the PM trip, we had received an update that the whales in Rosario Pass were headed back Northbound. We anticipated seeing L Pod whales again, but this time it was <b>J Pod</b> headed our way. We first met up with J1 &amp; J2, with the rest far behind. A few tail slaps from Granny later, and the rest of the pod was soon sighted heading North from the vicinity of Lummi Island. Again, they were quite spread out, but were in fine voice. We had a great show from several whales, but in particular J26. He seemed intent on showing off multiple behaviors - breaches, tail slaps, pec slaps, and a cartwheel or two. Meanwhile, another whale further in the distance was practising spy hops - 3 in a row!  We left J Pod headed Northbound towards Point Roberts at approx <b>4:30 PM</b>. 
+<br/>Joan Lopez
+<br/>Vancouver Whale Watch  
+<br/>*<br/>
+At <b>3:30</b> today, we saw a large number of <b>Orcas </b>swimming north quite close to Lummi Island when we were there to eat lunch at the Willows Inn, which looks out over the water. Many others were seeing them also, many other onlookers had binoculars, and were certain they were the orcas. 
+<br/>Barbara Berst Adams
+<br/><br/>
+<b>June 23, 2006</b>
+<br/><br/>
+We spotted a few spouts of an identified <b>whale</b>(s) from the black ball ferry after leaving Victoria on Friday afternoon. The location was 1/3 in the strait on the Canadian side.
+<br/>Rob Casey Photographer
+<br/>Seattle
+<br/>*<br/>
+I do not understand the lack of <b>Lpod </b>Reports with the <b>J's</b>. I had them this morning off Colville Island at <b>1015 </b>and near Stuart Island at <b>1535</b>. No other whale looks like L57 and he was there, we are still missing some of Lpod.
+<br/>Ron L. Bates, MMRG
+<br/>Victoria BC
+<br/>*<br/>
+We heard that <b>J's &amp; L's</b> were heading up the west side of San Juan Island, but as we watched the whales pass by near Pender Island around <b>3:00 PM</b>, we only saw J's.  As they came across Boundary Pass and headed into Swanson Channel, they began to gather closer to shore. Lots of percussives and breaches by the juveniles as they continued North.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, Western Prince
+<br/>Friday Harbor
+<br/>*<br/>
+We found <b>J Pod</b> today, headed north from Stuart lighthouse, Turn Point, across Boundary Pass....going toward N. Pender Island at <b>3:15 p.m.</b> J-1 Ruffles, and J-2 Granny at the head of the group, swimming steadily north.  Then as they got near North Pender island they slowed, and continued up the shore. J-8 passed by, J-26, and far inshore, many more.
+<br/>Nan Simpson
+<br/>Marine Naturalist
+<br/>Western Prince Cruises
+<br/>*<br/>
+<b>June 12 - 23 - Chito Pt, (west of Seiku, WA) gray whale sightings</b>
+<br/>I will try to do a brief synopsis of gray whale sightings off Chito Point during that period.  My sightings have been limited due to my work schedule, however, a gray whale (I believe the same whale) has been observed feeding daily, spyhopping and even sleeping, in one specific area to the East of Chito Point, which is nearly seven miles west of Sekiu. This whale would remain in this one area for hours every day. I recorded on 6/12 - 6 hrs, 6/13 - 7 1/2 hrs., 6/14 - 3 1/2 hrs., 6/15 - 5 hrs., 6/16 - 3 hrs. These totals were from different sightings during those dates, however, the shortest feeding period was 2 hours, and the longest was 4 hours.
+<br/>The long periods of feeding ended on 6/16 (from my observation log - remember I'm not always watching).  Since then, I've logged the following sightings:
+<br/>6/17 - Gray, outside kelp bed, heading West, 6 pm
+<br/>6/18 - Gray, outside kelp bed, heading East, 4 pm
+<br/>6/19 - Gray, outside kelp bed, heading West, 6 pm
+<br/>6/21 - Gray, outside kelp bed, heading West, 3:30 pm
+<br/>6/22 - Gray, outside kelp bed, heading West, 6:30 pm
+<br/>6/23 - Gray, outside kelp bed, heading West, 3:30 pm
+<br/>During the days of long feeding periods, many times I thought this whale had a lighter colored head than body.  It may be a large concentration of barnacles, however, this particular whale brought his head out of the water frequently on surfacing and spyhopping.  The head always appeared lighter in color, consistently.  On 6/19, the sighting at 6 pm of the Gray heading west, was this same whale, by the manner in which it surfaced, and binocular observation.
+<br/>Pat Ness
+<br/>Chito Beach
+<br/>*<br/>
+<b>Noon - J pod</b> at Eagle Point traveling north.
+<br/>Captain Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/><br/>
+<b>June 22, 2006</b>
+<br/><br/>
+A Semi-Superpod traveling North up Swanson Channel. We had to really travel a long way to see our orca friends, and managed to catch the trailers about <b>3:30 PM</b> just entering into Active Pass. They were very active (no pun intended) as they came close to the entrance, with lots of breaches, pec slaps, and tail slaps. Once around the bend, the whales got into tighter groups.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, San Juan Excursions
+<br/>Friday Harbor
+<br/>*<br/>
+<b>J's, K's and L's</b> passing the house (west San Juan Island) right now slowly heading North.  
+Leaders at Open Bay, <b>10:30 am</b>.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist On Shore
+<br/>San Juan Island
+<br/><br/>
+<b>June 20, 2006</b>
+<br/><br/>
+We had <b>K pod</b> off of Point Roberts.
+<br/>Jill Persick, Naturalist
+<br/>Steveston Seabreeze Adventures
+<br/>*<br/>
+Park visitors reported a couple of <b>Orcas </b>passing the east side of Blake Island State Park heading Northwest towards Rich Passage around <b>9:00 pm</b>.  
+<br/>Paul Ruppert 
+<br/>Park Ranger, Blake Island State Park 
+<br/>*<br/>
+There were <b>Orcas </b>off the south end of Lopez (Hughes Bay) starting at about <b>6pm</b>. I think it was J-pod (I thought I spotted J1) plus another pod but I am not sure, there were a few adult males. They were lingering off the bay for a few hours, and there seemed to be a lot of body contact and playing happening.
+<br/>Cathy Wilson
+<br/>*<br/>
+<b>K-Pod</b> decided to throw the "normal" routes out the window and traveled North via Speiden Channel, President's Channel and then headed northward past Patos Island. Part of J-Pod was just passing Pea Pods towards Cypress Island. Very spread out across the entire width of Rosario Channel. Rumors of the rest of J-Pod as far ahead as Hannah Heights came in over the radio around 3:30 PM.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, San Juan Excursions
+<br/>Friday Harbor
+<br/>*<br/>
+<b>3:30 PM</b> - [<b>Orcas</b>] are now at Lime Kiln Park. 
+<br/>Captain Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/>*<br/>
+We received a call from the Puyallup ferry, reporting 4 <b>orcas </b>near Apple Tree Cove in the south bound shipping lanes at <b>1:40 pm</b>. 1 male and 3 smaller orcas were reported.
+<br/>*<br/>
+We found <b>K Pod</b> this morning at <b>10:15</b> heading east in Spieden Channel. They were in several groups, one group swimming the shore of Spieden, and a larger group, with K-21, staying on the south side of the channel. The whales spent their time traveling, doing some foraging, a few tail slaps, breaches, and one grand spy hop. They went toward Jones Island, then Orcas, doing some long dives, and  
+finally making the decision to head on to the east. The new baby was very energetic, with lots of fast swimming by mom. There were  
+several other fins that looked a lot like sprouters!
+<br/>Nan Simpson, Marine Naturalist - Western Prince Cruises
+<br/>San Juan Island
+<br/>*<br/>
+Beginning at about <b>7:15 am, k pod</b> slowly made it's way up the west side of San Juan Island, trailed by the sprouters. It was interesting to watch the trailers, who lolled on top of the water for about 10 minutes- double breached and then headed south.
+<br/>Sandy
+<br/>San Juan Island
+<br/>*<br/>
+Ryan Johnson of Whidbey Island called at <b>5:30 am</b> to report 2 <b>orcas </b>heading south past Admiralty Head, with smaller dorsals. 
+<br/><br/>
+<b>June 19, 2006</b>
+<br/><br/>
+I am reporting a sighting generally near the entrance to Hood Canal. 1 whale at <b>1130 </b>hrs, Position: 122-39.00 w , 47-58.5 n. Whale was sighted with both east and west headings. Limited number of sightings. Whale approx. twenty feet long. Small shiny black fin, est 1 ft or less high with curvature of trailing edge. Breath evident in light condition. Breathing slowly in a presumed cruising condition
+<br/>---Jay.
+<br/>*<br/>
+<b>1:30 pm:</b> - [<b>Orcas</b>] possibly near Boundary Pass heading toward San Juan Island.
+<br/>Captain Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/><br/>
+<b>June 18, 2006</b>
+<br/><br/>
+We met up with <b>J-Pod</b> about 1.5 miles off shore of False Bay. J-1 was leading the pack towards Salmon Bank, with most of the J's spread out over a large distance. We were fortunate to see quite a few juveniles practicing their breaches, and had the rare treat of two spyhops back to back (my favorite whale behavior)!  Lots of evidence of foraging going on. Later, I noticed J's going by Low Island/San Juan County Park heading North. They were still traveling semi-spread, except for one tight group of 9 whales that was traveling in a quite slow pace.
+<br/>John Boyd (JB)
+<br/>Marine Naturalist, Western Prince
+<br/>Friday Harbor
+<br/>*<br/>
+<b>1:00 PM</b> Whales (<b>orcas </b>- J's?) are near Henry Island traveling south.
+<br/>Captain Jim, Maya's Charters
+<br/>San Juan Island
+<br/><br/>
+<b>June 17, 2006</b>
+<br/><br/>
+<b>J pod</b> near South Beach traveling toward Lime Kiln Park, <b>6:14 pm</b>.
+<br/>Captain Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/>*<br/>
+We had <b>J pod</b> today. They were spread out at the south end of Lopez. One female did 2 high porpoises/belly flops. Several really good breaches.
+<br/>Nicole Perkins
+<br/>Everett
+<br/>*<br/>
+5-7 <b>transients </b>heading North in the Strait of Georgia - off Georgina Point. There was one adult male, several females and one calf. They were travelling in a group and then spread out, with 2 animals trailing behind (hence I am not entirely sure of the number. No positive ID on them, my photos are from the wrong side..... but I have some pretty clear ones, so I will send them to John Ford and Graeme Ellis to see if they can id them. I will check later if I can id them once downloaded. None of the females looked to have any very visible nicks, but that is just from observation from the small LCD screen on my camera, will have to check them out on the screen.
+<br/>Ellen 
+<br/>Steveston Seabreeze Adventures, Richmond
+<br/><br/>
+<b>June 16, 2006</b>
+<br/><br/>
+Richard Kershner of Florence, <b>OR </b>called to report 4 <b>orcas </b>in the Suislaw River &amp; jetties around <b>2 pm</b>. He said there was 1 male, the others were smaller. They were coming down the river toward the ocean when he first saw them, then swam inside the jetties awhile &amp; headed back up the river. He watched them for 2 or 3 hours.
+<br/>*<br/>
+Morris at the Whale Center in Depot Bay, <b>OR </b>called to say they are still seeing <b>orcas </b>- have seen them the past two weeks. <b>6 pm</b> - 1 male &amp; 3 females, 1 of the females smaller than the others. 
+<br/>*<br/>
+We received a call from someone in Florence <b>OR</b>, reporting 5 <b>orcas </b> at the mouth of the Suislaw River at the south jetty in Florence, they headed up to the mouth of the river then back out toward the ocean.
+<br/>*<br/>
+We left <b>J Pod</b> at <b>7:45</b> this evening headed down Bellingham Ch., toward Anacortes and Lopez Is.
+<br/>Capt. Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/>*<br/>
+<b>J-Pod</b> foraged near Cherry Point. Whales were very spread out, but it was nice to get a good viewing of J1, J2, J8, J19 with J-41. At one point it appeared that J41 was traveling with another small juvenile. Lots of breaches, tail slaps and small bursts of speed swimming (porpoising) heading south towards Bellingham Channel.
+<br/>John Boyd (JB)
+<br/>Off Duty Marine Naturalist, Western Prince
+<br/>Friday Harbor
+<br/>*<br/>
+Ryan Agre of the USCG in Florence, <b>OR </b>called at <b>2:20 pm</b> to report 4 <b>orcas</b>, all males, in the Suilslaw River, heading out. There were seals present in the area. They were near ch. buoy 11; at  44.00.17  124.007.37
+<br/>*<br/>
+David Clyburg called to report 2 <b>orcas </b>at <b>1 pm</b>, at Lagoon Beach, north of Trinidad, CA. One was at the waveline, the other further out. 
+<br/><br/>
+<b>June 15, 2006</b>
+<br/><br/>
+<b>J Pod</b> at <b>11:30</b> south of Cherry Point, heading south. Ruffles and Granny were in the lead and moving south. The whales were fairly spread out, and moving south in groups. J - Pod about <b>3:20</b>, turned and headed north off Lummi Island. There were lots of spy hops, breaches, and tail slaps this afternoon. The water turned very flat and calm, and my favorite part was watching as they did what I call "the J Line Up" and started swimming faster still going north. We watched a long time as more and more whales came together and then  
+finally, a line of fins and mist disappearing to the north.
+<br/>Nan Simpson
+<br/>Naturalist - Western Prince Cruises
+<br/><br/>
+<b>June 14, 2006</b>
+<br/><br/>
+Shane Farner of Natl. Parks &amp; Conservation Assoc. called to report many active <b>orcas </b>off Lime Kiln park &amp; Lighthouse between <b>3:45 &amp; 4:10 pm</b>. They were watching <b>J pod</b> with members of the other newly arrived pods, swimming close to shore &amp; providing lots of action for the many people that were watching from the park.
+<br/>*<br/>
+Vera, at the Adobe Resort near Yachats, <b>OR </b>called to report two <b>orcas </b>just south of the resort at <b>2:25 pm</b>. 1 male &amp; 1 female.
+<a name="l108"></a>
+<br/>*<br/>
+<b><a href="../Main/index.php?categories_file=Babies">List of births and deaths since 1998</a></b>
+<br/>Tom McMillen of Salish Sea Charters called to relay today's reports on the return of <b>K &amp; L pods</b>. Astrid van Ginneken from the Center for Whale Research was on board, &amp; confirmed the earlier reports of <b>L54 with a new calf, L108</b> (this calf was sighted during the DFO cruise off NW Vancouver Island on May 8th), as well as <b>another new calf, apparently with K28</b>. Tom reported J's, K's &amp; some of the L's off the west side of San Juan Island. Earlier they were at Iceberg Pt, Lopez Isl, by 2:15 pm they were off Eagle Pt &amp; False Bay, just beginning to turn &amp; head south again.
+<br/>*<br/>
+The majority of L-pod returned to the San Juan Islands for a brief visit June 12 before returning toward the Pacific Ocean the next day. During the whales' short foray into the inland waters of Washington, staff at the Center for Whale Research were able to document <b>a new calf born to L-54</b> earlier in the spring. The new calf, designated <b>L-108</b>, is the second calf born to the 29 year-old L-54. At the same time that researchers were documenting the majority of L-pod, K-pod was traveling with a small sub-group of L's in Johnstone Strait. Following the June 12 sighting of K-pod heading south into the Strait of Georgia, K-pod arrived in the San Juan Islands during the mid-morning of June 14.
+<br/>Center for Whale Research
+<br/><br/>
+<b>June 13, 2006</b>
+<br/><br/>
+Don Bryan called at <b>3:20pm</b> to report <b>orcas </b>at the 8 mile marker past Seiku, WA.
+<br/><br/>
+<b>June 12, 2006</b>
+<br/><br/>
+We had a wonderful sighing of <b>L's</b> in the middle of the straits of Juan De Fuca. They were coming East from Discovery Island heading for Salmon bank but as I headed for home I could see that they had turned around East of Eagle Cove and headed back up San Juan Island. I left them at <b>20:00</b> as the sun was dropping behind the clouds above Vancouver Island.
+<br/>Cap. Brian Pouillon, M/V Seahawk
+<br/>San Juan Safaris
+<br/>*<br/>
+<b>Js </b>went through active pass <b>around 1</b> today and headed towards Point Roberts and went north towards the river. Looked like Blackberry was traveling with Suttles and was perhaps teaching her a thing or two about fish. Soon after, they b-lined it right to Shachi who was also feeding and chased a breaching salmon out of the water. We also heard on the way home around 4-5pm that Ls were
+headed in and were just west of Race Rocks.  
+<br/>Ellen Newberry, Naturalist.
+<br/>*<br/>
+<b>3 :15pm</b> - We have <b>J Pod</b> at the mouth of the Fraser River, <b>L Pod</b> at Race Rocks inbound and reports(not confirmed yet) of <b>K Pod</b> just north of Nanaimo BC.
+<br/>Simon Pidcock
+<br/>Ocean Ecoventures
+<br/>Cowichan Bay
+<br/><br/>
+<b>June 11, 2006</b>
+<br/><br/>
+<b>J,s</b> went up Swanson this morning, <b>L's</b> came in from the West this afternoon and <b>K's</b> coming S. from Campbell River this morning.
+T103 and T104 reported near Victoria on the <b>afternoon</b>, not found but found in the evening going West, South of Race Rocks.
+<br/>Ron Bates, MMRG
+<br/>Victoria
+<br/>*<br/>
+<b>J pod</b> going south about <b>4:30 p.m</b>. - LOTs of breaches, cartwheels - very spread out, all the way from Lummi over to Orcas - nice afternoon show from the beach! J's been covering LOTS of territory lately and in unpredictable directions....looking for salmon and perhaps "pacing", waiting for K's and L's??
+<br/>Penny Stone
+<br/>Lummi Island
+<br/>*<br/>
+Ron Bates had some reports from people on shore of two <b>Transients </b>off Cormorant Point near Gordon Head on the lower Saanich Peninsula. This evening we headed south of Victoria hopeful to find Humpbacks. Around <b>1845 </b>we encountered <b>Transient </b>Orcas  <b>T-103 and T-104</b>. These SE AK Killer Whales were heading in the direction of Race Rocks. They were last seen near Rosedale Reef, just south of Great Race.
+<br/>Jeff Lorton
+<br/>Captain, Five Star Expedition Catamaran
+<br/>*<br/>
+We had an excellent day with <b>J Pod</b> off Pt. Whitehorn to the tip of Lummi Island. Blossom was in fine form multiple breaches and lots of cartwheeling.
+<br/>Simon Pidcock
+<br/>Ocean Ecoventures
+<br/>Cowichan Bay
+<br/>*<br/>
+Update/ID's on So. Residents in Johnstone Strait: After reviewing his photos Jared Towers determined that all the K  
+matrilines plus the L12s and L32s  were travelling east in Johnstone Strait.
+<br/>Helena &amp; Paul, Orcalab
+<br/>*<br/>
+We had a rather exciting surprise today when some of the <b>southern residents</b> hurried south through Blackney Pass and into Johnstone Strait. They were silent and the first glimpse we had was very fleeting in the lifting fog but the Stubbs Island whale watch boat the Lukwa and Jared Towers had a closer look and were able to determine that it was the Ks and some of the Ls. Jared is reviewing his ID pictures and will have more details later. When last seen they had slowed down and were resting east of the Robson Bight Michael Bigg Ecological Reserve but still pointing eastward.
+<br/>Helena &amp; Paul
+<br/>OrcaLab
+<br/>*<br/>
+Just came back from a visit with <b>Jpod </b>out in the Strait just south of Point Roberts, heading South, they were very spread out and steadily travelling south, with a few breaches, taillobs, a couple of barrel rolls, and what looked to be occasional foraging. Didn't get a real close look at anyone, except for J8 who travelled parallel to us for a bit, and J19 with J41 who is getting huge!
+<br/>Ellen - Naturalist, Steveston Seabreeze Adventures 
+<br/>*<br/>
+Another day - more <b>Gray </b>whales sightings. <b>11:30 am</b>, Gray whale heading east outside kelp bed. Tonight between <b>5:30 - 6:30 </b>pm, one Gray whale slowly circling and feeding, outside kelp bed, east of Chito Point, even spyhopping a few times, eventually heading east.
+<br/>Pat Ness
+<br/>(Seven miles west of Sekiu)
+<br/>*<br/>
+<b>Js </b>north of Orcas headed south today. They were very spread out across Alden Bank feeding and got very active after a while. They seemed to be traveling in small, abrupt family groups and we watched Blossom breach 9 times in a row!
+<br/>Ellen Newberry, Naturalist. 
+<br/><br/>
+<b>June 10, 2006</b>
+<br/><br/>
+My girlfriend and I were camping on the Washington Coast in the Olympic National Park. I was surprised to see the first <b>Orca </b>leap.
+<br/>Number of animals seen? 2-4
+<br/>Where did you see them (latitude and longitude if possible)? South Beach (Coastal camp grounds in Olympic National Park) near the Kalaloch Beach Camps. The animals were apprx 200-300 yards out...  North by Northwest.
+<br/>What direction were they traveling? North
+<br/>When did you see them (date and time of day)? Saturday, June 10th, 2006... apprx. 7:30PM PST - They hung out in that area for about 1 hour.
+<br/>What were they doing? Playing? Feeding (on what)? Leaping, Feeding? They were coming out of the water, about half way with their mouths open wide, as though they were hunting from below.
+<br/>Were there any males (very large fin on their back)? not sure
+<br/>Any unusual markings? Scars? not sure
+<br/>Bryan T. Richards
+<br/>Seattle
+<br/>*<br/>
+We spent some time with <b>T-103 &amp; 104</b> near Race Rocks and left them headed towards Victoria around <b>9:30PM</b>. 
+<br/>Jeff Lorton
+<br/>Captain, Five Star Expedition Catamaran
+<br/>*<br/>
+<b>J pod</b> off Lummi Island going south about <b>10:00 a.m</b>. then coming back north around 4:00 p.m.
+<br/>Penny Stone
+<br/>Lummi Island
+<br/>*<br/>
+T103 and T104 came in from the West in the <b>evening</b>.
+<br/>Ron Bates, MMRG
+<br/>Victoria
+<br/>*<br/>
+Around <b>2-3:00ish</b> during our sailing class my husband's boat saw a <b>minke </b>whale off Shilshole Marina/Golden Gardens (North Seattle/Ballard).
+<br/>Darcie Larson
+<br/>*<br/>
+<b>J Pod</b> was very active in Rosario. They were headed south until around 3 or so when they decided to head back up north instead of buck the strong current. J1 actually cartwheeled twice nearby and in the midst of it all J2 breached alongside him! We got a really good look at J19 and her baby J41. Comparing the picture to an early one last year, J41 looks really good- she's grown a lot and is not very orange at all anymore.
+<br/>Ellen Newberry, Naturalist. 
+<br/>*<br/>
+Spent the day with <b>J pod</b> in Rosario Strait. In the morning they were very active, physically and vocally: lots of breaching and
+tumbling and the like. We met them near Tide Pt., where they were headed southbound. We got a good view of (I think) Granny and Riptide
+playing with the two calves, J40 and J41. Lots of barrel rolls, sommersaults, etc. We rejoined them in the <b>afternoon </b>near Pt. Lawrence, as they had turned and headed back to the north. They were in a tight resting pattern, close to shore. As they came around the point they made a turn east across the Strait, and over the next half hour became slightly more awake, beginning to break into two groups mid-channel before we left.
+<br/>Erick Peirson
+<br/>*<br/>
+At <b>12:30 - 2:00 pm</b> heading west, and again at 5:30 - 7:00 pm then heading east. Solo <b>Gray </b>whales have been feeding, off the kelp bed, east of Chito Point. This has been amazing in the last few weeks. We have had more Gray whale sightings than ever before, mainly concentrated in one area, for longer periods, more than once a day.
+<br/>Pat Ness
+<br/>Chito Beach Resort
+<br/><br/>
+<b>June 9, 2006</b>
+<br/><br/>
+In Otter Bay, Pender Island, Ruffles and Granny surfaced right in front of us! They were traveling north and as we sat outside  
+Otter Bay, eventually all of <b>J-Pod</b> passed us headed north along Pender Island between <b>6:00 and 7:00 p.m</b>. The whales were  
+fairly spread out and grouped up, so it took the better part of an hour for the whole family to pass us. There was a lot of breaching  
+at Mouat Point....then fast traveling up island, with J-26 doing a nice back float past the dinghy.
+<br/>Nan Simpson
+<br/>Marine Naturalist ..."on vacation"
+<br/>*<br/>
+<b>J Pod</b> came by around noon, heading north (west side San Juan Isl). I was surprised to see another group of whales porpoising by in fast mode also heading north around <b>3 PM</b>.  Turns out it was J-27 and gang--I heard they were down around Cattle Pass while the main group was several miles ahead of them.
+<br/>John Boyd (JB), Marine Naturalist On Shore
+<br/>San Juan Island
+<br/><br/>
+<b>June 8, 2006</b>
+<br/><br/>
+We left <b>Js</b> headed south at the Lime Kiln Light House at <b>8:30 tonight</b>. 
+<br/>Capt. Jim Maya, Maya's Charters
+<br/>San Juan Island
+<br/>*<br/>
+I listened to reports of two small groups of <b>transients </b>off the west side of San Juan Island <b>most of the day</b>. Apparently very interesting viewing, as some type of marine mammal hopped up on the swim step of one of the boats. The transients came right up to the boat with heads high, and peered at the hoped-for prey repeatedly. I did not get to see any of this. I did get to see half of <b>J pod</b> parade south along the west side of the island off Hannah Heights this evening at about <b>7:00 pm to 8:15 pm</b>. They were widely spread, in single file, except for J19 and J41 who were together. I also was able to identify J26, J33, J36, J2, J8, and probably J16.
+<br/>Sharon Grace
+<br/>San Juan Island
+<br/>*<br/>
+Yet another <b>Gray </b>whale sighting between <b>6 pm and 8:30 pm</b> feeding back and forth and in circles,between the Sekiu River and Chito Point, outside the kelp bed, then heading west.   
+<br/>Pat Ness
+<br/>Chito Beach (seven miles west of Sekiu)
+<br/>*<br/>
+Our intern at the Land Bank was on the Lime Kiln Preserve (immediately north of the lighthouse)and saw several <b>killer whales</b> heading north very close to shore, approximately <b>8am</b>.  
+<br/>Doug McCutcheon
+<br/>San Juan Island
+<br/>*<br/>
+4 <b>Transients </b>kill a harbor seal in San Juan channel between Lopez Is and Griffin Bay. Approx 1 mile North of cattle pass. at <b>12:30-1:30</b>. A harbor seal looked like it was going to haul out on the stern of the Odyssey. It was 10 feet from the boat as the 4 transients started a symmetrical weaving pattern. Back and forth crossing paths closer and closer to our stern. 35 eight graders from TOPS school in Seattle witnessed the wild kingdom in action when the T,s surrounded the seal 20 feet off our port stern. The mature female tail slapped and then juvenile did a rather feeble tail slap and they repeated tail slap practice for some time. When ever the seal started to swim away another of the larger T,s flicked it with their snout to toss it back in the middle of the circle. The T,s carried on like this for 20 minutes. Then they submerged with the seal and resurfaced minutes later and the seal was gone. The T's crossed back and forth under the boat 4 or 5 times, visible through the water, spouting several times each. They spy hoped twice off the bow and then continued a straight swim south towards Goose Is. in cattle pass off the S. end of San Juan Is. 
+<br/>Bethany Ryals
+<br/>Naturalist, San Juan Excursions
+<br/><br/>
+<b>June 7, 2006</b>
+<br/><br/>
+James Wilson of Depoe Bay, <b>OR </b>called to report a pod of 5 <b>orcas </b>going south past Depoe Bay heading to Cape Foulweather, between <b>7 &amp; 8 pm</b>, about 10' off the rocks, hugging the shore, going into Little Whale Cove &amp; porpoising out of the water a lot as they traveled.
+<br/>*<br/>
+I was at Saturna Island just west of east point at <b>1830hrs </b>and saw several <b>Orcas</b>. They were headed toward boiling reef when I lost sight of them.
+<br/>Shane Lewis 
+<br/>*<br/>
+<b>J-Pod</b> is passing by this morning, heading north towards Kellett Bluff. No wait, now they have changed their minds and are heading south. Appear to be some active feeding as they passed Smallpox Bay (San Juan County Park).
+<br/>John Boyd (JB)
+<br/>Marine Naturalist On Shore
+<br/>San Juan Island
+<br/>*<br/>
+Erwin Andred of Forks called to report a sighting of <b>orcas </b>off Carol Island, a little north of LaPush, WA. There was 1 bull with a huge fin, plus 6 others, heading south &amp; offshore at a good clip.
+<br/>*<br/>
+<b>Js </b>were on the west side, doing the shuffle. On the way back North for at least the second time, they fell asleep in one big group and a much smaller group led the way. They woke up midafternoon around Henry Island and apparently continued on north.
+<br/>Ellen Newberry, Island Adventures, Naturalist. 
+<br/>*<br/>
+Steve Jeffries of WA Dept. of Fish &amp; Wildlife called to report sighting a pod of <b>orcas </b>while doing an overflight this morning - they spotted 7 or 8 orcas, plus 1 inshore of the group, heading west off Sheringham Pt. (west of Sooke, BC) at <b>11:07 am</b>. They were approx. 1/2 mile off shore, at  48 22.14  123  54.27. They also sighted a few grays during the flight.
+<br/>*<br/>
+A <b>Gray </b>whale is feeding off the Sekiu River at <b>5:00 pm</b>., outside the kelp bed, slowly working it's way West.
+<br/>Pat Ness. Chito Beach Resort
+<br/>Seiku, WA
+<br/><br/>
+<b>June 6, 2006</b>
+<br/><br/>
+<b>Js</b> were coming down Bellingham Channel in early afternoon, very active, breaching and talking. They rounded south Lopez, much as they did the day before in the later afternoon.
+<br/>Ellen Newberry, Island Adventures, Naturalist. 
+<br/>*<br/>
+A <b>Gray </b>whale was feeding in circles, between <b>7:30 pm and 9:15 pm</b> half way between the Sekiu River and Chito Point, a hundred yards off the kelp bed.  The whale then headed in a direct path East toward Sekiu.
+<br/>Pat Ness. Chito Beach Resort
+<br/>Seiku, WA
+<br/>*<br/>
+Dennis Wolf called to report ~6 <b>orcas</b>, including 1 young male at the north end of Depoe Bay, <b>OR </b>at <b>7:30 am</b>, close to shore (w/in 200 yards) heading south.
+<br/>*<br/>
+A caller reported a bunch of <b>orcas </b>off Nesquin, OR, between Lincoln City &amp; Pacific City at <b>9:20 am</b>.
+<br/>*<br/>
+Rick Nanson of Marine Discovery Tours, Newport <b>OR</b>, reported 3 <b>orcas </b>- 1 male, 1 female &amp; 1 calf at <b>11 am</b> at the entrance buoy to Yaquina Bay.
+<br/><br/>
+<b>June 5, 2006</b>
+<br/><br/><b>Js</b> weren't spotted in Rosario until around <b>4pm </b>headed south.
+<br/>Ellen Newberry, Island Adventures, Naturalist. 
+<br/>*<br/>
+At <b>8:30 pm</b>, two <b>gray </b>whales passed Chito Point heading East. They were slowly feeding in circles immediately outside the kelp bed, at times moving away from each other, then closing the gap again, while all along moving East towards Sekiu.
+<br/>Pat Ness
+<br/>Chito Beach Resort
+<br/>Seiku WA
+<br/>*<br/>
+I found <b>T101, 101a, 101c, and 102</b> skulking along the beach near Dungeness Lighthouse at approximately <b>1430 </b>westbound.
+<br/>Mark Malleson
+<br/>Prince of Whales
+<br/>*<br/>
+<b>4:00 PM</b> - [<b>Orcas</b>] off the southern end of Lopez moving toward Lime Kiln
+<br/>Capt. Jim Maya, Maya's Charters,
+<br/>San Juan Island
+<br/>*<br/>
+Roger from the Barbara Foss Tug, called in a report of a pod of <b>orcas </b>in Bellingham channel, off Cypress Head, southbound at <b>1345</b>.
+<br/><br/>
+<b>June 4, 2006</b>
+<br/><br/>
+Ralph Shuping reported 8 or 9 <b>orcas </b>breaching &amp; playing off South Beach, south of Newport, <b>OR</b>. Location was 44.36  124.5
+<br/>*<br/>
+Rick Nanson of Marine Discovery Tours, Newport <b>OR</b>, reported 3 <b>orcas </b>- 1 male, 1 female &amp; 1 calf at <b>11 am</b> at Seal Rock, 10 miles south of Newport at <b>10 am</b>.
+<br/>*<br/>
+Sandy called in a report of <b>orcas </b>heading north past Lime Kiln, west San Juan Island at <b>8:30 pm</b>.
+<br/>*<br/>
+About <b>2:30 - 4:30...  J pod</b>...alot of surface behavior... tail/pec slaps...  2 or 3 breaches...some logging maybe... they were just laying on the surface for a minute or two now and then...  I think I even heard a above water vocalization when one was poking his head up... not really a true spyhop though... maybe it was bubbles?  Sounded like gurgling though....? They were spread out alot... the leader was probably almost to South Beach area by the time the last group came around by Eagle. Boats were saying that J1 was WAY out.
+<br/>Cher - San Juan 
+<br/>*<br/>
+<b>orca</b>(s) sighted this afternoon @ <b>1730</b>: 1 male, 1 female, 1 baby 1237 hwy 101 south, yachats, <b>oregon</b>. (near cape perpetua)  
+orcas heading south toward sea lion caves... 
+<br/>*<br/>
+I have a sighting to report, witnessed by four adults.  We were too stunned by what we were seeing to get the camera and take it's picture at approximately <b>4:30 p.m</b>. One <b>orca</b>, probably male, with a large, tall, upright fin. Yachats, <b>Oregon</b>, just south of the mouth of the Yachats River, halfway between Newport and Florence. He was not very far offshore, about the same distance out as the gray whales that we see. The whale was traveling south at a pretty good speed. We saw him breach twice, then he disappeared for a few
+minutes, and reappeared south of us, where he breached several more times, and continued to travel south.
+<br/>Patty Rowe
+<br/>Yachats, Oregon  
+<br/>*<br/>
+<b>11:45 AM - J pod</b> near False Bay (west side SJI) traveling north.
+<br/>Capt. Jim Maya, Maya's charters
+<br/>San Juan Island
+<br/><br/>
+<b>June 3, 2006</b>
+<br/><br/>
+Rod Johnson, a commercial fisherman out of Newport, <b>OR</b>, reported a pod of <b>orcas </b>approx. 10 miles off of Newport. The pod included 1 male plus 2 - 3 others - sounds like the same pod of Transients we've been hearing about lately. They were playing with a seal, he said it looked like they were teaching the young ones how to hunt.
+<br/>*<br/>
+We left <b>J Pod</b> outside of Active Pass headed toward Pt. Roberts, tonight at <b>7:00 PM</b>.
+<br/>Capt. Jim Maya, Maya's charters
+<br/>San Juan Island
+<br/>*<br/>
+I was out with <b>J Pod</b> at about <b>3:30pm</b> off of Turn Point. They were broken up in several small groups with 3-5 members per group and  they were heading north. A younger animal turned upside down and gave us some nice looks at his pec fins and then started to slap his tail while upside down with his pecs sticking out.. very cute!
+<br/>Traci, Naturalist on the Sea Hawk
+<br/>*<br/>
+Around <b>5:45 pm</b> a small group (about 6-8) <b>orcas</b> went through Active Pass heading east. Travelled quickly,
+some tail slapping. 
+<br/>K&amp;G Cullen
+<br/>Galiano Island, BC 
+<br/>*<br/>
+About twenty <b>orcas </b>sighted at the 260 line right off the washington coast...from charterboat F/V "Hawk II", traveling south around <b>noon </b>today. they were very interested in seeing the boat (skipper kept away of course...we're all USCG vessels and very aware of laws) and "led" the way for a while as he headed south...."the one big male was leading the way..."
+<br/>Ocean Charters
+<br/><br/>
+<b>June 2, 2006</b>
+<br/><br/>
+Ralph Shuping reported 8 or 9 <b>orcas </b>breaching &amp; playing off South Beach, south of Newport, <b>OR</b>. Location was 44.36  124.5
+<br/>*<br/>
+<b>Orca </b>pod sighted at Point Roberts WA <b>6:30 - 7:00 pm</b> - approx 7 whales, 2 large dorsal fin males, One calf (with female) heading South. Feeding behaviour, harbour seals were close to shore and away from the orcas, so whales were probably feeding on salmon/other fish as the smelt are running. There was another whale blow, perhaps a Gray, heading North.
+<br/>Sandra Scott 
+<br/>*<br/>
+Kevin of Marine Discovery Tours out of Newport, <b>OR </b>called to report 4 <b>orcas </b>heading into the Jetties at Newport, all the way up to the bridge, then back out about 1 - 2 miles offshore between <b>10 &amp; 11 am</b> this morning. There were 2 females, 1 adult male, &amp; 1 calf. He left them heading toward Depoe Bay. They've had some local <b>grays </b>in the area as well the past week or so.
+<br/><br/>
+<b>June 1, 2006</b>
+<br/><br/>
+Lummi rocks at <b>1030 </b>saw 4 adult males [<b>orcas</b>] in 3 groups of 8 or so each, very spread out, moving fast, cut down rosario, Ruffles swam by real close near bird rocks. <b>Minke </b>whale at <b>3:45</b> in Friday harbor 50 yards off the UW Lab dock. East and then North up SJ Channel.
+<br/>Bethany Ryals
+<br/>Naturalist on Orca Song
+<br/>*<br/>
+I could hear whale blows! ... at least5-6 blows... We are just south
+of False Bay, but before Eagle...  <b>9:30 PM</b>
+<br/>Cher - San Juan 
+<br/>*<br/>
+Two couples staying here saw <b>Orcas </b>along the west side of the island, <b>late afternoon</b> south of the Lime Kiln Lighhouse heading north.
+<br/>Helen King, Innkeeper
+<br/>The Highland Inn of San Juan Island
+<br/>*<br/>
+We spent the afternoon with <b>J-Pod</b> once again! Today they were headed south in Rosario at <b>1:00 p.m</b>. with once again very relaxed traveling behavior, and occasional quick turns and dives. They were very spread out, with J-1 way across the strait. Both J-27 and J-26 were showing off their sprouting (and tall!) dorsals.  J-1 gave us the pleasure of a slow spy hop. Wow! By 2:40 they were starting to  
+turn on a little steam, and grouping up heading for the south end of Lopez Island. The water was very flat today, with lots of low clouds, mist, and fog in the distance. Magical.
+<br/>Nan Simpson, Marine Naturalist - Western Prince
+<br/>San Juan Island
+<br/>*<br/>
+A <b>Gray </b>whale just passed Chito Point (seven miles west of Sekiu) at <b>4:15 pm</b>, directly outside the kelp bed, on a straight path heading towards Neah Bay.
+<br/>Pat Ness
+<br/>Seiku, WA
+<br/>*<br/>
+We received a call at <b>12:30 pm</b> from the Whale Watching Center in Depoe Bay, OR, reporting 3 <b>orcas </b>in the bay today, for the 3rd day in a row. On May 30, the orcas were actively feeding, but not on the gray whales that were nearby.
+<br/>*<br/>
+Chris Iverson, a salmon fisherman, called to report at least 3 <b>orcas </b>in 250' of water 15 degrees south of the Pt. Arena buoy, <b>CA </b>at <b>9:30 am</b>. There was 1 large male, 1 med. whale with a notch in its fin, &amp; 1 calf. They had apparently just made a kill as there was blood &amp; clots in the water. 
+<br/>*<br/>
+Tom Lennons called to report <b>orcas </b>this <b>morning </b>off Pt. Arena, <b>CA </b>- he saw 3 small &amp; 1 large whale, at 
+38 54.25 N 123  45.2 W.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/><br/>
+<a name="map"></a>
+<center><b>Clip Map to enlarge</b></center>
+<br/>
+<center><a class="lytebox" data-lyte-options="autoResize:false" data-title="Sightings Satalite Map from June 2006" href="Images/Sightings/satmap060106.jpg"><img alt="Orca Network's Sighting Network Map" border="2" height="616" src="Images/Sightings/satmap060106.jpg" valign="TOP" width="392"/></a><br/>
+
+Map © 2006 used with permission by<br/><a href="http://www.adsat.com/">Advanced Satellite Productions, Inc.</a></center>
+<!-- End edit keep lines below to close out the table started at the top of the page -->
+</div>
+<br/><br/>
+</td>
+</tr>
+</table>
+<!-- Don't add anything after this line!! -->
+<!-- End Main Content Code -->
+</center>
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="760">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+<td width="15">
+</td>
+<td valign="top" width="200">
+<!-- Sidebar data starts here! -->
+<!-- Begin Sidebar -->
+<br/>
+<!-- Start Global Giving Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Donate to O. N.</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3">
+<br/>
+
+<br/>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Global Giving Box -->
+<br/>
+<!-- Start Supporters Box -->
+<table border="0" cellpadding="0" cellspacing="0" width="210">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/top-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="left" background="Images/bgfade.jpg" width="170"><b><font color="#ffffff"><center>Supporters</center></font></b></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="Center" bgcolor="#c3a082" colspan="3"><br/>
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="170">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<!-- Start Ramdom Display Java Script Code for Supporters. Loads new Supporter with each page refresh -->
+<br/><br/>
+<!-- End Supporters Random Script -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center" width="20">
+<img src="Images/bottom-left.gif"/></td>
+<!-- Row 1 Column 2 -->
+<td align="center" background="Images/bgfade.jpg" width="170"></td>
+<!-- Row 1 Column 3 -->
+<td align="center" width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+<!-- End Supporters Box -->
+<br/>
+<!-- End Sidebar -->
+<!-- Sidebar data ends here! -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Body Table -->
+<br/>
+<!-- Start Footer Table -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1024">
+<tr>
+<!-- Row 1 Column 1 -->
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="400">
+<tr>
+<td width="20">
+<img src="Images/top-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/top-right.gif"/></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#c3a082" colspan="3">
+<!-- Footer data starts here! -->
+
+								© Orca Network<br/>
+								Please <a href="../Main/index.php?categories_file=Contact">contact Orca Network</a> to inquire<br/>
+								about educational use of any materials on this site.
+
+							<!-- Footer data ends here! -->
+</td>
+</tr>
+<tr>
+<td width="20">
+<img src="Images/bottom-left.gif"/></td>
+<td background="Images/bgfade.jpg" width="360">
+</td>
+<td width="20">
+<img src="Images/bottom-right.gif"/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End Footer Table -->
+<br/>
+</body></html>
+
+
+
